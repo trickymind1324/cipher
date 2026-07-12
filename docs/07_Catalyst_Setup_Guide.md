@@ -79,19 +79,37 @@ This is the GenAI engine for CIPHER's grounded, evidence-cited answers.
 
 ### 5b. LLM Serving
 - Go to **Generative AI → LLM Serving**.
-- Select model **GLM 4.7 Flash** (131K context, multilingual 100+ langs) and deploy/enable serving. *(Qwen 2.5-14B Instruct / 7B Coder / 7B Vision are deprecated — EOL 30 Jun 2026 — migrate to GLM 4.7 Flash.)*
+- Select model **Qwen 2.5 – 14B Instruct** (128K context; the general-purpose model — the other two are 7B Coder and 7B Vision Language, neither of which fits our use).
 - Click **View API** → copy the **endpoint URL**, and note it uses **OAuth** (POST, headers incl. org ID + OAuth token).
 
-### 5c. RAG + Knowledge Base
-- Go to **Generative AI → Knowledge Base** → create a KB (e.g. `cipher-fir-kb`).
-  - (We'll upload synthetic per-FIR narrative docs during P1 — `.pdf/.docx/.txt`, ≤500 KB each.)
-- Go to **Generative AI → RAG** → bind it to that KB.
-- Click **View API** → copy the **RAG endpoint URL** (OAuth, POST, 128k limit). Responses include the **Response Breakdown** with source IDs → our citations.
+### 5b-i. Kannada smoke test — do this before anything else
+While you're in the **Chat** tab, ask the model a question in Kannada. Kannada is **not** in Qwen 2.5's
+~29 officially supported languages, so this may fail. Two minutes here decides the whole P3 design:
+
+- **Good Kannada** → keep the direct multilingual path.
+- **Poor / garbled Kannada** → English-canonical path (translate in, compose from records in English,
+  render the Kannada reply from templates + glossary). Tell me which you see.
+
+### 5c. Knowledge Base + RAG
+- **Generative AI → Knowledge Base → Upload Document.** Formats `.pdf` / `.docx` / `.txt`, **max 500 KB per file**. Upload from desktop (WorkDrive / Zoho Learn sync also offered — not needed).
+- **Generative AI → RAG → Add Documents** (right panel, *Document Store*) → pick the uploaded docs. Leaving the document store empty makes RAG search the whole Knowledge Base, which is what we want.
+- **View API** (top-right) → **Model Details → API Details** → copy the **RAG endpoint URL**.
+
+> **What to upload — read before you start clicking.** There is **no bulk/API upload**; it's a console
+> upload. Do **not** upload the 300 per-FIR narrative files by hand. I'll bundle them into ~8–10
+> grouped `.txt` files (each well under 500 KB) for you to upload instead.
+>
+> Grouping does not cost us citation precision, because we do **not** depend on RAG's document IDs for
+> citations. Every narrative carries its own `FIR ID: FIR-xxxx` line in the text, so the model cites
+> record IDs from the content, and the function then **validates every cited ID against the Data Store**
+> before the answer is returned. An ID that doesn't resolve is dropped and the answer abstains — a
+> stronger guarantee than trusting a document-level citation.
 
 ### 5d. OAuth client (so Functions can call the above)
-- In the Catalyst/Zoho **API Console** (`api-console.zoho.in`) → create a **Self Client** (or Server-based client) for server-to-server calls.
-- Generate **Client ID + Client Secret**, and the **scopes** QuickML requires.
-- We'll store these as Catalyst Function **environment variables / secrets** (never commit them).
+- Zoho **API Console** (`api-console.zoho.in`) → create a **Self Client** (server-to-server).
+- Scope needed for both LLM Serving and RAG: **`QuickML.deployment.READ`**.
+- Generate **Client ID + Client Secret**; both calls are `POST` with the **org ID** and an **OAuth access token** in the headers.
+- Store as Catalyst Function **environment variables** — never commit them.
 
 **Check:** you have an LLM-Serving endpoint, a RAG endpoint, and OAuth Client ID/Secret that can mint a token.
 
@@ -116,7 +134,7 @@ This is the GenAI engine for CIPHER's grounded, evidence-cited answers.
 - [ ] **1,500 credits** visible + **$250** confirmation email received
 - [ ] Catalyst project **`cipher`** created; Project ID noted
 - [ ] CLI installed; `catalyst login` works
-- [ ] QuickML enabled; **GLM 4.7 Flash** LLM Serving live; **RAG + KB** created
+- [ ] QuickML enabled; **Qwen 2.5 – 14B Instruct** LLM Serving live; **RAG + KB** created
 - [ ] OAuth Client ID/Secret generated and stored as secrets
 - [ ] Four values from §6 captured
 
@@ -128,6 +146,6 @@ This is the GenAI engine for CIPHER's grounded, evidence-cited answers.
 
 - **Don't use deprecated services:** File Store, Cron, Event Listeners (EOL **30 Apr 2026**). We use **Stratus** (object store) for PDFs and precompute at seed time instead of Cron.
 - **Hosting:** React SPA goes to **Web Client Hosting (Slate)**; backend logic to **Functions**. (AppSail is an alternative full-app PaaS — we don't need it for an SPA + FaaS split.)
-- **Kannada:** GLM 4.7 Flash covers 100+ languages — verify Kannada quality early; we add an EN-canonical translate step + glossary and vet demo queries.
+- **Kannada — open risk.** Qwen 2.5's officially supported language list (~29 languages) does **not** name Kannada. Kannada output may therefore be weak or unusable. Test this *first*, before building on it: open LLM Serving → Chat → Qwen 2.5-14B Instruct and ask it something in Kannada. If quality is poor, the fallback is an English-canonical pipeline (translate KN→EN in, compose the answer in English from records, render the reply from Kannada templates + a curated glossary rather than free-form LLM Kannada).
 
 *End of Setup Guide.*
