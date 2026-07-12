@@ -12,7 +12,7 @@
 
 const glossary = require('./glossary');
 
-const INTENTS = ['RETRIEVE', 'NETWORK', 'TREND', 'HOTSPOT', 'PROFILE', 'REPEAT_OFFENDER', 'SUMMARY'];
+const INTENTS = ['RETRIEVE', 'NETWORK', 'TREND', 'HOTSPOT', 'PROFILE', 'REPEAT_OFFENDER', 'SUMMARY', 'SIMILAR_CASE'];
 
 const has = (t, ...words) => words.some((w) => t.includes(w));
 
@@ -43,6 +43,10 @@ function dateRange(text, now = new Date()) {
 
 function intentOf(text) {
 	const t = text.toLowerCase();
+	// Narrative similarity — the only intent RAG serves. Everything else is answered from
+	// the store, because RAG cannot count and cannot look a record up by id.
+	if (has(t, 'similar', 'same modus', 'same method', 'like this case', 'same pattern', 'resemble', 'ಹೋಲುವ', 'ಸಮಾನ'))
+		return 'SIMILAR_CASE';
 	if (has(t, 'network', 'linked to', 'connected', 'associates', 'gang', 'nexus', 'ಜಾಲ', 'ಸಂಪರ್ಕ')) return 'NETWORK';
 	if (has(t, 'hotspot', 'hot spot', 'which area', 'which taluk', 'where are', 'concentrated', 'ಹಾಟ್‌ಸ್ಪಾಟ್', 'ಪ್ರದೇಶ')) return 'HOTSPOT';
 	if (has(t, 'trend', 'over time', 'rising', 'increase', 'increasing', 'decline', 'month by month', 'ಪ್ರವೃತ್ತಿ', 'ಹೆಚ್ಚಳ')) return 'TREND';

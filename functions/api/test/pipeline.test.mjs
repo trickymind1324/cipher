@@ -13,6 +13,7 @@ const require = createRequire(import.meta.url);
 const pipeline = require('../lib/pipeline.js');
 const nlu = require('../lib/nlu.js');
 const glossary = require('../lib/glossary.js');
+const store = require('../lib/store.js');
 
 test('Kannada crime term maps to the taxonomy, not the model’s guess', () => {
 	// GLM rendered ಸರಗಳ್ಳತನ as "Cybercrime" and answered about phishing. The glossary
@@ -94,6 +95,38 @@ test('trend windows are calendar-aligned and quiet months are not dropped', asyn
 		const [cy, cm] = months[i].split('-').map(Number);
 		assert.equal((cy - py) * 12 + (cm - pm), 1, `non-contiguous: ${months[i - 1]} → ${months[i]}`);
 	}
+});
+
+test('counting questions never route to RAG', async () => {
+	// Tested against the live console, RAG answered "three chain snatching incidents in
+	// Yelahanka" when there are 19 — it described its top-k retrieval window as if it were
+	// the whole database. Counts must therefore come from the store, always.
+	const r = await pipeline.answer('how many chain snatchings in Yelahanka?');
+	assert.notEqual(r.intent, 'SIMILAR_CASE');
+
+	const yelahanka = r.data.rows ?? r.data.series ?? [];
+	assert.ok(yelahanka.length > 0);
+	// the store knows the real figure, and it is not three
+	const { total } = r.data;
+	assert.equal(total, 19, 'store must report the true count');
+});
+
+test('similarity is described as a shortlist, never as a total', () => {
+	const rows = [
+		{ fir_id: 'FIR-0161', crime_type: 'House Burglary', taluk: 'Kalaburagi City', occurrence_date: '2026-01-01', status: 'closed' },
+	];
+	const text = pipeline.templateAnswer(
+		{ kind: 'similar', records: rows, evidence: ['FIR-0161'], data: { seed: null, rows, proposed: 1, resolved: 1 } },
+		{ entities: {} }
+	);
+	assert.match(text, /shortlist, not a count/i);
+	assert.doesNotMatch(text, /there are \d+ (such )?cases/i);
+});
+
+test('a FIR id RAG invents does not survive re-grounding', () => {
+	// retrieveSimilar maps ids through the store and drops what does not resolve.
+	assert.equal(store.getFir('FIR-9999'), null);
+	assert.ok(store.getFir('FIR-0161'));
 });
 
 test('the spoken total and the charted total cannot disagree', async () => {

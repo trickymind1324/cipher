@@ -115,4 +115,5 @@ async function chat({ prompt, system, temperature = 0.1, max_tokens = 700, timeo
 	}
 }
 
-module.exports = { chat, isConfigured, config: cfg };
+// accessToken is shared with rag.js — both endpoints take the same OAuth bearer.
+module.exports = { chat, isConfigured, config: cfg, accessToken };

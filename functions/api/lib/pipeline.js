@@ -16,6 +16,7 @@
 const store = require('./store');
 const nlu = require('./nlu');
 const llm = require('./llm');
+const rag = require('./rag');
 const trends = require('./trends');
 
 const ID_RE = /\b(?:FIR-\d{3,4}|P-\d{3,4})\b/gi;
@@ -30,6 +31,32 @@ function resolvePerson(entities) {
 		if (hits.length === 1) return hits[0];
 	}
 	return null;
+}
+
+/**
+ * Narrative similarity — the one question RAG is allowed to answer, and even here only as
+ * a source of candidate ids. Whatever RAG *says* about the cases is discarded; the ids it
+ * names are re-read from the store, and any id that doesn't resolve is dropped. So the
+ * worst a bad retrieval can do is return fewer cases, never wrong facts about them.
+ */
+async function retrieveSimilar(entities, question) {
+	const seed = entities.fir_id ? store.getFir(entities.fir_id) : null;
+	// Describe by MO if a case was named, else use the question itself.
+	const description = seed ? `${seed.crime_type}: ${seed.modus_operandi}` : question;
+
+	const { fir_ids } = await rag.similarFirIds(description);
+
+	const firs = fir_ids
+		.filter((id) => id !== seed?.fir_id) // a case is not similar to itself
+		.map((id) => store.getFir(id))
+		.filter(Boolean); // an id RAG invented simply vanishes here
+
+	return {
+		kind: 'similar',
+		records: firs,
+		evidence: [...(seed ? [seed.fir_id] : []), ...firs.map((f) => f.fir_id)],
+		data: { seed, description, rows: firs, proposed: fir_ids.length, resolved: firs.length },
+	};
 }
 
 /**
@@ -122,6 +149,17 @@ function contextBlock(r) {
 		}
 	}
 
+	if (r.kind === 'similar') {
+		if (d.seed) lines.push(`Reference case ${d.seed.fir_id}: ${d.seed.crime_type} — ${d.seed.modus_operandi}`);
+		lines.push(`Cases with a similar narrative (${d.rows.length}):`);
+		for (const f of d.rows) {
+			lines.push(`- ${f.fir_id} | ${f.crime_type} | ${f.taluk}, ${f.district} | ${f.occurrence_date} | ${f.status} | ${f.modus_operandi}`);
+		}
+		// The count below is the number of records that resolved, not a count of all such
+		// cases in the database. Say so, or the model will present it as a total.
+		lines.push('NOTE: this is a similarity shortlist, not a complete count of such cases.');
+	}
+
 	if (r.kind === 'fir') {
 		const f = d.fir;
 		lines.push(`${f.fir_id} (${f.fir_number}) | ${f.crime_type} | ${f.police_station}, ${f.taluk}, ${f.district}`);
@@ -188,6 +226,20 @@ function templateAnswer(r, parsed) {
 		const head = `Found ${d.total} FIR${d.total === 1 ? '' : 's'}${scope ? ` for ${scope}` : ''}. Showing the ${d.rows.length} most recent:`;
 		return [head, ...d.rows.map((f) => `• ${f.fir_id} — ${f.crime_type}, ${f.taluk} (${f.occurrence_date}), ${f.status}`)].join('\n');
 	}
+	if (r.kind === 'similar') {
+		// "shortlist", never "there are N such cases" — RAG returns its top matches, and
+		// reporting that number as a total is exactly how it misled the console test.
+		const head = d.seed
+			? `Cases resembling ${d.seed.fir_id} (${d.seed.crime_type} — ${d.seed.modus_operandi}):`
+			: 'Cases with a similar narrative:';
+		return [
+			head,
+			...d.rows.map((f) => `• ${f.fir_id} — ${f.crime_type}, ${f.taluk} (${f.occurrence_date}), ${f.status}`),
+			'',
+			'This is a similarity shortlist, not a count of every such case.',
+		].join('\n');
+	}
+
 	if (r.kind === 'fir') {
 		const f = d.fir;
 		const accused = d.parties.filter((p) => p.role === 'accused');
@@ -269,7 +321,22 @@ const unsupportedIds = (text, evidence) => {
 async function answer(question, context = {}) {
 	const started = Date.now();
 	const parsed = nlu.parse(question, context);
-	const r = retrieve(parsed.intent, parsed.entities);
+
+	let r;
+	let ragNote = null;
+
+	if (parsed.intent === 'SIMILAR_CASE' && rag.isConfigured()) {
+		try {
+			r = await retrieveSimilar(parsed.entities, question);
+		} catch (err) {
+			// RAG being down must not turn into a wrong answer; fall back to structured retrieval.
+			ragNote = { failed: true, detail: String(err.message).slice(0, 120) };
+			r = retrieve('RETRIEVE', parsed.entities);
+		}
+	} else {
+		if (parsed.intent === 'SIMILAR_CASE') ragNote = { failed: true, detail: 'rag_not_configured' };
+		r = retrieve(parsed.intent === 'SIMILAR_CASE' ? 'RETRIEVE' : parsed.intent, parsed.entities);
+	}
 
 	// (1) No records → abstain. This is a feature, not a failure.
 	if (!r.records.length) {
@@ -322,6 +389,7 @@ async function answer(question, context = {}) {
 		data: r.data,
 		source,
 		guardrail,
+		rag: ragNote,
 		latency_ms: Date.now() - started,
 	};
 }
