@@ -3,6 +3,7 @@
 const express = require('express');
 const store = require('./lib/store');
 const pipeline = require('./lib/pipeline');
+const network = require('./lib/network');
 const audit = require('./lib/audit');
 const llm = require('./lib/llm');
 
@@ -106,10 +107,30 @@ app.post('/query', async (req, res) => {
 
 app.get('/audit', (req, res) => res.json(audit.recent(Number(req.query.limit) || 50)));
 
+/** Criminal-network graph around a person. ?person_id=P-0070&depth=2 */
+app.get('/network', (req, res) => {
+	const { person_id, name, depth } = req.query;
+
+	let id = person_id;
+	if (!id && name) {
+		const hits = store.findPersons(name, 2);
+		if (hits.length !== 1) {
+			return res.status(hits.length ? 409 : 404).json({
+				error: hits.length ? 'ambiguous_person' : 'person_not_found',
+				candidates: hits.map((p) => ({ person_id: p.person_id, full_name: p.full_name })),
+			});
+		}
+		id = hits[0].person_id;
+	}
+	if (!id) return res.status(400).json({ error: 'person_id_or_name_required' });
+
+	const graph = network.build(id, depth);
+	if (!graph) return res.status(404).json({ error: 'person_not_found', person_id: id });
+	res.json(graph);
+});
+
 const notBuiltYet = (phase) => (req, res) =>
 	res.status(501).json({ error: 'not_implemented', phase });
-
-app.get('/network', notBuiltYet('P4'));
 app.get('/trends', notBuiltYet('P5'));
 app.post('/export-pdf', notBuiltYet('P6'));
 
