@@ -21,3 +21,5 @@ client/*
 # Catalyst CLI local state
 .catalystrc
 .catalyst/
+.build/
+catalyst-debug.log
