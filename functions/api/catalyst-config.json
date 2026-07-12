@@ -1,0 +1,12 @@
+{
+	"deployment": {
+		"name": "api",
+		"stack": "node24",
+		"type": "advancedio",
+		"memory": 512,
+		"timeout": 30
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

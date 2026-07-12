@@ -1,0 +1,13 @@
+{
+	"functions": {
+		"source": "functions",
+		"targets": [
+			"api"
+		]
+	},
+	"client": {
+		"source": "client"
+	},
+	"project_id": 43331000000013057,
+	"project_name": "cipher-ksp"
+}
