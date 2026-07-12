@@ -1,0 +1,1201 @@
+id,fir_id,person_id,role,arrest_date,bail_status
+FP-00001,FIR-0001,P-0074,accused,2024-08-02,in custody
+FP-00002,FIR-0001,P-0007,accused,2024-07-22,in custody
+FP-00003,FIR-0001,P-0131,victim,,
+FP-00004,FIR-0001,P-0131,complainant,,
+FP-00005,FIR-0002,P-0049,accused,,on bail
+FP-00006,FIR-0002,P-0232,victim,,
+FP-00007,FIR-0002,P-0232,complainant,,
+FP-00008,FIR-0002,P-0244,witness,,
+FP-00009,FIR-0003,P-0036,accused,2025-11-11,in custody
+FP-00010,FIR-0003,P-0313,victim,,
+FP-00011,FIR-0003,P-0313,complainant,,
+FP-00012,FIR-0003,P-0288,witness,,
+FP-00013,FIR-0004,P-0079,accused,2026-03-14,on bail
+FP-00014,FIR-0004,P-0011,accused,2026-04-15,on bail
+FP-00015,FIR-0004,P-0137,victim,,
+FP-00016,FIR-0004,P-0137,complainant,,
+FP-00017,FIR-0005,P-0033,accused,2026-04-23,on bail
+FP-00018,FIR-0005,P-0108,victim,,
+FP-00019,FIR-0005,P-0108,complainant,,
+FP-00020,FIR-0006,P-0089,accused,2025-01-15,on bail
+FP-00021,FIR-0006,P-0075,accused,2025-01-12,on bail
+FP-00022,FIR-0006,P-0174,victim,,
+FP-00023,FIR-0006,P-0174,complainant,,
+FP-00024,FIR-0007,P-0102,victim,,
+FP-00025,FIR-0007,P-0102,complainant,,
+FP-00026,FIR-0007,P-0296,witness,,
+FP-00027,FIR-0008,P-0087,accused,,in custody
+FP-00028,FIR-0008,P-0003,accused,2025-12-22,in custody
+FP-00029,FIR-0008,P-0109,victim,,
+FP-00030,FIR-0008,P-0109,complainant,,
+FP-00031,FIR-0009,P-0015,accused,2025-01-20,in custody
+FP-00032,FIR-0009,P-0070,accused,2025-01-23,on bail
+FP-00033,FIR-0009,P-0290,victim,,
+FP-00034,FIR-0009,P-0290,complainant,,
+FP-00035,FIR-0009,P-0199,witness,,
+FP-00036,FIR-0009,P-0100,witness,,
+FP-00037,FIR-0010,P-0077,accused,2024-08-01,on bail
+FP-00038,FIR-0010,P-0285,victim,,
+FP-00039,FIR-0010,P-0099,complainant,,
+FP-00040,FIR-0011,P-0050,accused,2026-02-22,on bail
+FP-00041,FIR-0011,P-0041,accused,,on bail
+FP-00042,FIR-0011,P-0325,victim,,
+FP-00043,FIR-0011,P-0259,complainant,,
+FP-00044,FIR-0012,P-0051,accused,2025-06-17,in custody
+FP-00045,FIR-0012,P-0008,accused,,on bail
+FP-00046,FIR-0012,P-0306,victim,,
+FP-00047,FIR-0012,P-0306,complainant,,
+FP-00048,FIR-0012,P-0232,witness,,
+FP-00049,FIR-0012,P-0113,witness,,
+FP-00050,FIR-0013,P-0008,accused,2025-12-15,in custody
+FP-00051,FIR-0013,P-0046,accused,,in custody
+FP-00052,FIR-0013,P-0103,victim,,
+FP-00053,FIR-0013,P-0103,complainant,,
+FP-00054,FIR-0013,P-0171,witness,,
+FP-00055,FIR-0013,P-0286,witness,,
+FP-00056,FIR-0014,P-0016,accused,2026-05-14,in custody
+FP-00057,FIR-0014,P-0188,victim,,
+FP-00058,FIR-0014,P-0188,complainant,,
+FP-00059,FIR-0014,P-0230,witness,,
+FP-00060,FIR-0014,P-0111,witness,,
+FP-00061,FIR-0015,P-0042,accused,2026-02-16,on bail
+FP-00062,FIR-0015,P-0034,accused,2026-02-26,in custody
+FP-00063,FIR-0015,P-0242,victim,,
+FP-00064,FIR-0015,P-0242,complainant,,
+FP-00065,FIR-0016,P-0207,victim,,
+FP-00066,FIR-0016,P-0207,complainant,,
+FP-00067,FIR-0017,P-0028,accused,,in custody
+FP-00068,FIR-0017,P-0007,accused,2024-09-10,on bail
+FP-00069,FIR-0017,P-0195,victim,,
+FP-00070,FIR-0017,P-0195,complainant,,
+FP-00071,FIR-0017,P-0115,witness,,
+FP-00072,FIR-0017,P-0202,witness,,
+FP-00073,FIR-0018,P-0039,accused,2025-12-18,on bail
+FP-00074,FIR-0018,P-0068,accused,2025-11-22,in custody
+FP-00075,FIR-0018,P-0163,victim,,
+FP-00076,FIR-0018,P-0163,complainant,,
+FP-00077,FIR-0019,P-0081,accused,,in custody
+FP-00078,FIR-0019,P-0001,accused,,in custody
+FP-00079,FIR-0019,P-0173,victim,,
+FP-00080,FIR-0019,P-0173,complainant,,
+FP-00081,FIR-0019,P-0152,witness,,
+FP-00082,FIR-0020,P-0018,accused,,in custody
+FP-00083,FIR-0020,P-0036,accused,2025-08-25,in custody
+FP-00084,FIR-0020,P-0146,victim,,
+FP-00085,FIR-0020,P-0146,complainant,,
+FP-00086,FIR-0020,P-0136,witness,,
+FP-00087,FIR-0021,P-0014,accused,,on bail
+FP-00088,FIR-0021,P-0001,accused,2025-12-27,on bail
+FP-00089,FIR-0021,P-0187,victim,,
+FP-00090,FIR-0021,P-0187,complainant,,
+FP-00091,FIR-0021,P-0154,witness,,
+FP-00092,FIR-0021,P-0151,witness,,
+FP-00093,FIR-0022,P-0268,victim,,
+FP-00094,FIR-0022,P-0268,complainant,,
+FP-00095,FIR-0022,P-0128,witness,,
+FP-00096,FIR-0023,P-0182,victim,,
+FP-00097,FIR-0023,P-0182,complainant,,
+FP-00098,FIR-0024,P-0011,accused,,in custody
+FP-00099,FIR-0024,P-0023,accused,2025-06-19,on bail
+FP-00100,FIR-0024,P-0302,victim,,
+FP-00101,FIR-0024,P-0302,complainant,,
+FP-00102,FIR-0025,P-0020,accused,2026-02-04,in custody
+FP-00103,FIR-0025,P-0058,accused,,in custody
+FP-00104,FIR-0025,P-0009,accused,2026-01-19,in custody
+FP-00105,FIR-0025,P-0201,victim,,
+FP-00106,FIR-0025,P-0201,complainant,,
+FP-00107,FIR-0025,P-0174,witness,,
+FP-00108,FIR-0025,P-0108,witness,,
+FP-00109,FIR-0026,P-0083,accused,2026-02-20,in custody
+FP-00110,FIR-0026,P-0151,victim,,
+FP-00111,FIR-0026,P-0151,complainant,,
+FP-00112,FIR-0026,P-0250,witness,,
+FP-00113,FIR-0026,P-0146,witness,,
+FP-00114,FIR-0027,P-0045,accused,,in custody
+FP-00115,FIR-0027,P-0311,victim,,
+FP-00116,FIR-0027,P-0311,complainant,,
+FP-00117,FIR-0028,P-0024,accused,,on bail
+FP-00118,FIR-0028,P-0087,accused,2025-10-19,on bail
+FP-00119,FIR-0028,P-0032,accused,,on bail
+FP-00120,FIR-0028,P-0278,victim,,
+FP-00121,FIR-0028,P-0278,complainant,,
+FP-00122,FIR-0028,P-0263,witness,,
+FP-00123,FIR-0029,P-0057,accused,2025-02-27,in custody
+FP-00124,FIR-0029,P-0047,accused,2025-03-03,in custody
+FP-00125,FIR-0029,P-0081,accused,,on bail
+FP-00126,FIR-0029,P-0101,victim,,
+FP-00127,FIR-0029,P-0194,complainant,,
+FP-00128,FIR-0030,P-0026,accused,,in custody
+FP-00129,FIR-0030,P-0286,victim,,
+FP-00130,FIR-0030,P-0286,complainant,,
+FP-00131,FIR-0030,P-0135,witness,,
+FP-00132,FIR-0030,P-0285,witness,,
+FP-00133,FIR-0031,P-0061,accused,2025-01-03,on bail
+FP-00134,FIR-0031,P-0108,victim,,
+FP-00135,FIR-0031,P-0215,complainant,,
+FP-00136,FIR-0031,P-0221,witness,,
+FP-00137,FIR-0032,P-0140,victim,,
+FP-00138,FIR-0032,P-0140,complainant,,
+FP-00139,FIR-0033,P-0032,accused,2026-01-06,in custody
+FP-00140,FIR-0033,P-0070,accused,2026-01-22,on bail
+FP-00141,FIR-0033,P-0303,victim,,
+FP-00142,FIR-0033,P-0303,complainant,,
+FP-00143,FIR-0033,P-0270,witness,,
+FP-00144,FIR-0034,P-0018,accused,2025-11-15,on bail
+FP-00145,FIR-0034,P-0190,victim,,
+FP-00146,FIR-0034,P-0190,complainant,,
+FP-00147,FIR-0034,P-0234,witness,,
+FP-00148,FIR-0035,P-0063,accused,,in custody
+FP-00149,FIR-0035,P-0009,accused,,on bail
+FP-00150,FIR-0035,P-0256,victim,,
+FP-00151,FIR-0035,P-0256,complainant,,
+FP-00152,FIR-0036,P-0089,accused,2025-08-24,on bail
+FP-00153,FIR-0036,P-0037,accused,2025-09-28,in custody
+FP-00154,FIR-0036,P-0206,victim,,
+FP-00155,FIR-0036,P-0206,complainant,,
+FP-00156,FIR-0037,P-0045,accused,2026-04-19,on bail
+FP-00157,FIR-0037,P-0087,accused,,on bail
+FP-00158,FIR-0037,P-0032,accused,2026-04-04,in custody
+FP-00159,FIR-0037,P-0321,victim,,
+FP-00160,FIR-0037,P-0321,complainant,,
+FP-00161,FIR-0038,P-0282,victim,,
+FP-00162,FIR-0038,P-0282,complainant,,
+FP-00163,FIR-0039,P-0057,accused,,in custody
+FP-00164,FIR-0039,P-0208,victim,,
+FP-00165,FIR-0039,P-0208,complainant,,
+FP-00166,FIR-0039,P-0101,witness,,
+FP-00167,FIR-0040,P-0067,accused,2025-08-31,in custody
+FP-00168,FIR-0040,P-0048,accused,2025-09-22,in custody
+FP-00169,FIR-0040,P-0262,victim,,
+FP-00170,FIR-0040,P-0262,complainant,,
+FP-00171,FIR-0041,P-0024,accused,2024-10-17,on bail
+FP-00172,FIR-0041,P-0301,victim,,
+FP-00173,FIR-0041,P-0301,complainant,,
+FP-00174,FIR-0042,P-0074,accused,2024-11-13,on bail
+FP-00175,FIR-0042,P-0193,victim,,
+FP-00176,FIR-0042,P-0193,complainant,,
+FP-00177,FIR-0042,P-0264,witness,,
+FP-00178,FIR-0042,P-0224,witness,,
+FP-00179,FIR-0043,P-0058,accused,2025-02-15,in custody
+FP-00180,FIR-0043,P-0075,accused,2025-02-10,in custody
+FP-00181,FIR-0043,P-0205,victim,,
+FP-00182,FIR-0043,P-0205,complainant,,
+FP-00183,FIR-0044,P-0213,victim,,
+FP-00184,FIR-0044,P-0193,complainant,,
+FP-00185,FIR-0044,P-0209,witness,,
+FP-00186,FIR-0045,P-0009,accused,2025-09-20,in custody
+FP-00187,FIR-0045,P-0096,victim,,
+FP-00188,FIR-0045,P-0096,complainant,,
+FP-00189,FIR-0045,P-0324,witness,,
+FP-00190,FIR-0045,P-0309,witness,,
+FP-00191,FIR-0046,P-0009,accused,,on bail
+FP-00192,FIR-0046,P-0033,accused,2026-04-21,on bail
+FP-00193,FIR-0046,P-0140,victim,,
+FP-00194,FIR-0046,P-0140,complainant,,
+FP-00195,FIR-0046,P-0114,witness,,
+FP-00196,FIR-0046,P-0118,witness,,
+FP-00197,FIR-0047,P-0065,accused,,in custody
+FP-00198,FIR-0047,P-0033,accused,,in custody
+FP-00199,FIR-0047,P-0311,victim,,
+FP-00200,FIR-0047,P-0311,complainant,,
+FP-00201,FIR-0048,P-0060,accused,,on bail
+FP-00202,FIR-0048,P-0126,victim,,
+FP-00203,FIR-0048,P-0126,complainant,,
+FP-00204,FIR-0049,P-0073,accused,2024-08-22,on bail
+FP-00205,FIR-0049,P-0217,victim,,
+FP-00206,FIR-0049,P-0217,complainant,,
+FP-00207,FIR-0050,P-0193,victim,,
+FP-00208,FIR-0050,P-0193,complainant,,
+FP-00209,FIR-0050,P-0321,witness,,
+FP-00210,FIR-0051,P-0112,victim,,
+FP-00211,FIR-0051,P-0112,complainant,,
+FP-00212,FIR-0051,P-0119,witness,,
+FP-00213,FIR-0051,P-0295,witness,,
+FP-00214,FIR-0052,P-0059,accused,2024-10-16,on bail
+FP-00215,FIR-0052,P-0091,victim,,
+FP-00216,FIR-0052,P-0269,complainant,,
+FP-00217,FIR-0053,P-0060,accused,2025-10-19,on bail
+FP-00218,FIR-0053,P-0021,accused,2025-10-05,in custody
+FP-00219,FIR-0053,P-0249,victim,,
+FP-00220,FIR-0053,P-0205,complainant,,
+FP-00221,FIR-0053,P-0170,witness,,
+FP-00222,FIR-0054,P-0033,accused,,on bail
+FP-00223,FIR-0054,P-0065,accused,,on bail
+FP-00224,FIR-0054,P-0195,victim,,
+FP-00225,FIR-0054,P-0195,complainant,,
+FP-00226,FIR-0055,P-0045,accused,2025-11-22,in custody
+FP-00227,FIR-0055,P-0087,accused,,in custody
+FP-00228,FIR-0055,P-0070,accused,2025-10-24,on bail
+FP-00229,FIR-0055,P-0197,victim,,
+FP-00230,FIR-0055,P-0197,complainant,,
+FP-00231,FIR-0055,P-0174,witness,,
+FP-00232,FIR-0055,P-0284,witness,,
+FP-00233,FIR-0056,P-0216,victim,,
+FP-00234,FIR-0056,P-0216,complainant,,
+FP-00235,FIR-0057,P-0007,accused,,on bail
+FP-00236,FIR-0057,P-0020,accused,2025-08-12,in custody
+FP-00237,FIR-0057,P-0134,victim,,
+FP-00238,FIR-0057,P-0134,complainant,,
+FP-00239,FIR-0058,P-0084,accused,2025-03-04,on bail
+FP-00240,FIR-0058,P-0175,victim,,
+FP-00241,FIR-0058,P-0175,complainant,,
+FP-00242,FIR-0058,P-0289,witness,,
+FP-00243,FIR-0059,P-0065,accused,2026-06-23,in custody
+FP-00244,FIR-0059,P-0108,victim,,
+FP-00245,FIR-0059,P-0272,complainant,,
+FP-00246,FIR-0060,P-0119,victim,,
+FP-00247,FIR-0060,P-0119,complainant,,
+FP-00248,FIR-0061,P-0042,accused,2025-03-19,on bail
+FP-00249,FIR-0061,P-0306,victim,,
+FP-00250,FIR-0061,P-0306,complainant,,
+FP-00251,FIR-0062,P-0067,accused,,on bail
+FP-00252,FIR-0062,P-0250,victim,,
+FP-00253,FIR-0062,P-0176,complainant,,
+FP-00254,FIR-0062,P-0136,witness,,
+FP-00255,FIR-0062,P-0111,witness,,
+FP-00256,FIR-0063,P-0032,accused,2026-04-28,on bail
+FP-00257,FIR-0063,P-0070,accused,,on bail
+FP-00258,FIR-0063,P-0238,victim,,
+FP-00259,FIR-0063,P-0238,complainant,,
+FP-00260,FIR-0064,P-0089,accused,2025-10-20,in custody
+FP-00261,FIR-0064,P-0003,accused,,on bail
+FP-00262,FIR-0064,P-0127,victim,,
+FP-00263,FIR-0064,P-0316,complainant,,
+FP-00264,FIR-0064,P-0145,witness,,
+FP-00265,FIR-0064,P-0180,witness,,
+FP-00266,FIR-0065,P-0047,accused,,on bail
+FP-00267,FIR-0065,P-0041,accused,,in custody
+FP-00268,FIR-0065,P-0212,victim,,
+FP-00269,FIR-0065,P-0212,complainant,,
+FP-00270,FIR-0066,P-0047,accused,2026-01-31,in custody
+FP-00271,FIR-0066,P-0222,victim,,
+FP-00272,FIR-0066,P-0222,complainant,,
+FP-00273,FIR-0066,P-0300,witness,,
+FP-00274,FIR-0066,P-0111,witness,,
+FP-00275,FIR-0067,P-0112,victim,,
+FP-00276,FIR-0067,P-0112,complainant,,
+FP-00277,FIR-0067,P-0268,witness,,
+FP-00278,FIR-0068,P-0020,accused,2026-05-10,on bail
+FP-00279,FIR-0068,P-0223,victim,,
+FP-00280,FIR-0068,P-0223,complainant,,
+FP-00281,FIR-0068,P-0303,witness,,
+FP-00282,FIR-0068,P-0127,witness,,
+FP-00283,FIR-0069,P-0178,victim,,
+FP-00284,FIR-0069,P-0178,complainant,,
+FP-00285,FIR-0070,P-0224,victim,,
+FP-00286,FIR-0070,P-0224,complainant,,
+FP-00287,FIR-0070,P-0311,witness,,
+FP-00288,FIR-0070,P-0201,witness,,
+FP-00289,FIR-0071,P-0070,accused,,in custody
+FP-00290,FIR-0071,P-0045,accused,2024-09-25,in custody
+FP-00291,FIR-0071,P-0038,accused,,in custody
+FP-00292,FIR-0071,P-0330,victim,,
+FP-00293,FIR-0071,P-0330,complainant,,
+FP-00294,FIR-0072,P-0002,accused,2025-06-26,on bail
+FP-00295,FIR-0072,P-0045,accused,,in custody
+FP-00296,FIR-0072,P-0185,victim,,
+FP-00297,FIR-0072,P-0185,complainant,,
+FP-00298,FIR-0073,P-0024,accused,2026-04-09,on bail
+FP-00299,FIR-0073,P-0038,accused,2026-04-02,on bail
+FP-00300,FIR-0073,P-0045,accused,,in custody
+FP-00301,FIR-0073,P-0321,victim,,
+FP-00302,FIR-0073,P-0321,complainant,,
+FP-00303,FIR-0074,P-0007,accused,,on bail
+FP-00304,FIR-0074,P-0264,victim,,
+FP-00305,FIR-0074,P-0264,complainant,,
+FP-00306,FIR-0075,P-0036,accused,2026-07-28,on bail
+FP-00307,FIR-0075,P-0101,victim,,
+FP-00308,FIR-0075,P-0101,complainant,,
+FP-00309,FIR-0075,P-0102,witness,,
+FP-00310,FIR-0075,P-0275,witness,,
+FP-00311,FIR-0076,P-0032,accused,2026-04-17,in custody
+FP-00312,FIR-0076,P-0009,accused,2026-04-21,on bail
+FP-00313,FIR-0076,P-0206,victim,,
+FP-00314,FIR-0076,P-0206,complainant,,
+FP-00315,FIR-0077,P-0061,accused,2024-08-14,on bail
+FP-00316,FIR-0077,P-0028,accused,2024-08-26,on bail
+FP-00317,FIR-0077,P-0096,victim,,
+FP-00318,FIR-0077,P-0096,complainant,,
+FP-00319,FIR-0077,P-0206,witness,,
+FP-00320,FIR-0078,P-0067,accused,2025-10-12,on bail
+FP-00321,FIR-0078,P-0162,victim,,
+FP-00322,FIR-0078,P-0162,complainant,,
+FP-00323,FIR-0078,P-0163,witness,,
+FP-00324,FIR-0079,P-0166,victim,,
+FP-00325,FIR-0079,P-0166,complainant,,
+FP-00326,FIR-0080,P-0218,victim,,
+FP-00327,FIR-0080,P-0135,complainant,,
+FP-00328,FIR-0081,P-0020,accused,,in custody
+FP-00329,FIR-0081,P-0002,accused,,on bail
+FP-00330,FIR-0081,P-0009,accused,2024-11-14,on bail
+FP-00331,FIR-0081,P-0126,victim,,
+FP-00332,FIR-0081,P-0126,complainant,,
+FP-00333,FIR-0081,P-0206,witness,,
+FP-00334,FIR-0082,P-0068,accused,,in custody
+FP-00335,FIR-0082,P-0082,accused,,in custody
+FP-00336,FIR-0082,P-0243,victim,,
+FP-00337,FIR-0082,P-0243,complainant,,
+FP-00338,FIR-0082,P-0148,witness,,
+FP-00339,FIR-0083,P-0080,accused,2025-11-10,on bail
+FP-00340,FIR-0083,P-0315,victim,,
+FP-00341,FIR-0083,P-0315,complainant,,
+FP-00342,FIR-0084,P-0176,victim,,
+FP-00343,FIR-0084,P-0176,complainant,,
+FP-00344,FIR-0085,P-0045,accused,2026-04-17,in custody
+FP-00345,FIR-0085,P-0070,accused,,on bail
+FP-00346,FIR-0085,P-0032,accused,,on bail
+FP-00347,FIR-0085,P-0281,victim,,
+FP-00348,FIR-0085,P-0281,complainant,,
+FP-00349,FIR-0086,P-0003,accused,2025-07-27,in custody
+FP-00350,FIR-0086,P-0096,victim,,
+FP-00351,FIR-0086,P-0256,complainant,,
+FP-00352,FIR-0087,P-0062,accused,2025-08-26,in custody
+FP-00353,FIR-0087,P-0149,victim,,
+FP-00354,FIR-0087,P-0251,complainant,,
+FP-00355,FIR-0087,P-0209,witness,,
+FP-00356,FIR-0087,P-0205,witness,,
+FP-00357,FIR-0088,P-0326,victim,,
+FP-00358,FIR-0088,P-0326,complainant,,
+FP-00359,FIR-0089,P-0064,accused,2025-08-06,on bail
+FP-00360,FIR-0089,P-0066,accused,2025-08-13,in custody
+FP-00361,FIR-0089,P-0198,victim,,
+FP-00362,FIR-0089,P-0244,complainant,,
+FP-00363,FIR-0090,P-0081,accused,,on bail
+FP-00364,FIR-0090,P-0068,accused,2025-05-13,on bail
+FP-00365,FIR-0090,P-0143,victim,,
+FP-00366,FIR-0090,P-0143,complainant,,
+FP-00367,FIR-0091,P-0038,accused,,in custody
+FP-00368,FIR-0091,P-0070,accused,2024-12-03,in custody
+FP-00369,FIR-0091,P-0045,accused,,on bail
+FP-00370,FIR-0091,P-0301,victim,,
+FP-00371,FIR-0091,P-0127,complainant,,
+FP-00372,FIR-0092,P-0024,accused,2025-03-13,on bail
+FP-00373,FIR-0092,P-0070,accused,,on bail
+FP-00374,FIR-0092,P-0193,victim,,
+FP-00375,FIR-0092,P-0193,complainant,,
+FP-00376,FIR-0093,P-0090,accused,2025-04-08,in custody
+FP-00377,FIR-0093,P-0154,victim,,
+FP-00378,FIR-0093,P-0154,complainant,,
+FP-00379,FIR-0093,P-0247,witness,,
+FP-00380,FIR-0094,P-0186,victim,,
+FP-00381,FIR-0094,P-0219,complainant,,
+FP-00382,FIR-0094,P-0141,witness,,
+FP-00383,FIR-0095,P-0061,accused,2024-11-11,on bail
+FP-00384,FIR-0095,P-0272,victim,,
+FP-00385,FIR-0095,P-0316,complainant,,
+FP-00386,FIR-0096,P-0007,accused,,in custody
+FP-00387,FIR-0096,P-0195,victim,,
+FP-00388,FIR-0096,P-0278,complainant,,
+FP-00389,FIR-0097,P-0050,accused,2025-02-24,on bail
+FP-00390,FIR-0097,P-0039,accused,,on bail
+FP-00391,FIR-0097,P-0230,victim,,
+FP-00392,FIR-0097,P-0230,complainant,,
+FP-00393,FIR-0098,P-0279,victim,,
+FP-00394,FIR-0098,P-0141,complainant,,
+FP-00395,FIR-0099,P-0076,accused,,on bail
+FP-00396,FIR-0099,P-0059,accused,2026-04-23,on bail
+FP-00397,FIR-0099,P-0141,victim,,
+FP-00398,FIR-0099,P-0141,complainant,,
+FP-00399,FIR-0100,P-0066,accused,,on bail
+FP-00400,FIR-0100,P-0051,accused,,in custody
+FP-00401,FIR-0100,P-0160,victim,,
+FP-00402,FIR-0100,P-0160,complainant,,
+FP-00403,FIR-0100,P-0308,witness,,
+FP-00404,FIR-0101,P-0015,accused,2026-06-20,in custody
+FP-00405,FIR-0101,P-0329,victim,,
+FP-00406,FIR-0101,P-0329,complainant,,
+FP-00407,FIR-0102,P-0213,victim,,
+FP-00408,FIR-0102,P-0213,complainant,,
+FP-00409,FIR-0102,P-0329,witness,,
+FP-00410,FIR-0102,P-0231,witness,,
+FP-00411,FIR-0103,P-0073,accused,2024-09-17,in custody
+FP-00412,FIR-0103,P-0072,accused,2024-10-13,on bail
+FP-00413,FIR-0103,P-0116,victim,,
+FP-00414,FIR-0103,P-0116,complainant,,
+FP-00415,FIR-0104,P-0035,accused,,in custody
+FP-00416,FIR-0104,P-0092,victim,,
+FP-00417,FIR-0104,P-0092,complainant,,
+FP-00418,FIR-0104,P-0095,witness,,
+FP-00419,FIR-0104,P-0252,witness,,
+FP-00420,FIR-0105,P-0030,accused,2026-01-01,on bail
+FP-00421,FIR-0105,P-0035,accused,,on bail
+FP-00422,FIR-0105,P-0306,victim,,
+FP-00423,FIR-0105,P-0139,complainant,,
+FP-00424,FIR-0106,P-0045,accused,2024-07-17,in custody
+FP-00425,FIR-0106,P-0038,accused,2024-07-23,on bail
+FP-00426,FIR-0106,P-0278,victim,,
+FP-00427,FIR-0106,P-0278,complainant,,
+FP-00428,FIR-0106,P-0301,witness,,
+FP-00429,FIR-0106,P-0327,witness,,
+FP-00430,FIR-0107,P-0252,victim,,
+FP-00431,FIR-0107,P-0252,complainant,,
+FP-00432,FIR-0107,P-0242,witness,,
+FP-00433,FIR-0108,P-0085,accused,2026-02-16,in custody
+FP-00434,FIR-0108,P-0286,victim,,
+FP-00435,FIR-0108,P-0124,complainant,,
+FP-00436,FIR-0109,P-0042,accused,,in custody
+FP-00437,FIR-0109,P-0054,accused,2024-09-16,in custody
+FP-00438,FIR-0109,P-0308,victim,,
+FP-00439,FIR-0109,P-0308,complainant,,
+FP-00440,FIR-0110,P-0029,accused,,in custody
+FP-00441,FIR-0110,P-0203,victim,,
+FP-00442,FIR-0110,P-0203,complainant,,
+FP-00443,FIR-0111,P-0028,accused,2025-09-18,in custody
+FP-00444,FIR-0111,P-0180,victim,,
+FP-00445,FIR-0111,P-0180,complainant,,
+FP-00446,FIR-0112,P-0070,accused,2026-03-05,on bail
+FP-00447,FIR-0112,P-0045,accused,,in custody
+FP-00448,FIR-0112,P-0236,victim,,
+FP-00449,FIR-0112,P-0236,complainant,,
+FP-00450,FIR-0112,P-0271,witness,,
+FP-00451,FIR-0112,P-0329,witness,,
+FP-00452,FIR-0113,P-0193,victim,,
+FP-00453,FIR-0113,P-0193,complainant,,
+FP-00454,FIR-0114,P-0164,victim,,
+FP-00455,FIR-0114,P-0205,complainant,,
+FP-00456,FIR-0115,P-0050,accused,,on bail
+FP-00457,FIR-0115,P-0313,victim,,
+FP-00458,FIR-0115,P-0313,complainant,,
+FP-00459,FIR-0115,P-0293,witness,,
+FP-00460,FIR-0116,P-0125,victim,,
+FP-00461,FIR-0116,P-0125,complainant,,
+FP-00462,FIR-0117,P-0192,victim,,
+FP-00463,FIR-0117,P-0192,complainant,,
+FP-00464,FIR-0117,P-0308,witness,,
+FP-00465,FIR-0117,P-0295,witness,,
+FP-00466,FIR-0118,P-0125,victim,,
+FP-00467,FIR-0118,P-0125,complainant,,
+FP-00468,FIR-0118,P-0149,witness,,
+FP-00469,FIR-0119,P-0067,accused,2024-11-16,in custody
+FP-00470,FIR-0119,P-0257,victim,,
+FP-00471,FIR-0119,P-0257,complainant,,
+FP-00472,FIR-0119,P-0179,witness,,
+FP-00473,FIR-0120,P-0051,accused,2026-05-17,on bail
+FP-00474,FIR-0120,P-0269,victim,,
+FP-00475,FIR-0120,P-0227,complainant,,
+FP-00476,FIR-0121,P-0211,victim,,
+FP-00477,FIR-0121,P-0211,complainant,,
+FP-00478,FIR-0121,P-0187,witness,,
+FP-00479,FIR-0121,P-0288,witness,,
+FP-00480,FIR-0122,P-0050,accused,,in custody
+FP-00481,FIR-0122,P-0025,accused,2024-08-24,on bail
+FP-00482,FIR-0122,P-0313,victim,,
+FP-00483,FIR-0122,P-0187,complainant,,
+FP-00484,FIR-0123,P-0009,accused,2024-10-24,in custody
+FP-00485,FIR-0123,P-0238,victim,,
+FP-00486,FIR-0123,P-0238,complainant,,
+FP-00487,FIR-0124,P-0038,accused,2025-09-03,on bail
+FP-00488,FIR-0124,P-0024,accused,2025-08-29,in custody
+FP-00489,FIR-0124,P-0032,accused,,on bail
+FP-00490,FIR-0124,P-0127,victim,,
+FP-00491,FIR-0124,P-0235,complainant,,
+FP-00492,FIR-0124,P-0231,witness,,
+FP-00493,FIR-0125,P-0230,victim,,
+FP-00494,FIR-0125,P-0136,complainant,,
+FP-00495,FIR-0125,P-0260,witness,,
+FP-00496,FIR-0126,P-0038,accused,,on bail
+FP-00497,FIR-0126,P-0024,accused,2025-07-27,on bail
+FP-00498,FIR-0126,P-0115,victim,,
+FP-00499,FIR-0126,P-0115,complainant,,
+FP-00500,FIR-0127,P-0097,victim,,
+FP-00501,FIR-0127,P-0097,complainant,,
+FP-00502,FIR-0127,P-0268,witness,,
+FP-00503,FIR-0128,P-0134,victim,,
+FP-00504,FIR-0128,P-0134,complainant,,
+FP-00505,FIR-0129,P-0127,victim,,
+FP-00506,FIR-0129,P-0127,complainant,,
+FP-00507,FIR-0129,P-0157,witness,,
+FP-00508,FIR-0129,P-0131,witness,,
+FP-00509,FIR-0130,P-0065,accused,,in custody
+FP-00510,FIR-0130,P-0028,accused,2025-05-17,on bail
+FP-00511,FIR-0130,P-0256,victim,,
+FP-00512,FIR-0130,P-0290,complainant,,
+FP-00513,FIR-0131,P-0076,accused,2025-11-25,in custody
+FP-00514,FIR-0131,P-0042,accused,,on bail
+FP-00515,FIR-0131,P-0227,victim,,
+FP-00516,FIR-0131,P-0227,complainant,,
+FP-00517,FIR-0132,P-0033,accused,2024-08-26,in custody
+FP-00518,FIR-0132,P-0204,victim,,
+FP-00519,FIR-0132,P-0161,complainant,,
+FP-00520,FIR-0133,P-0054,accused,2024-08-12,in custody
+FP-00521,FIR-0133,P-0137,victim,,
+FP-00522,FIR-0133,P-0137,complainant,,
+FP-00523,FIR-0134,P-0070,accused,,on bail
+FP-00524,FIR-0134,P-0087,accused,,in custody
+FP-00525,FIR-0134,P-0172,victim,,
+FP-00526,FIR-0134,P-0172,complainant,,
+FP-00527,FIR-0134,P-0312,witness,,
+FP-00528,FIR-0134,P-0206,witness,,
+FP-00529,FIR-0135,P-0051,accused,2025-03-10,on bail
+FP-00530,FIR-0135,P-0200,victim,,
+FP-00531,FIR-0135,P-0200,complainant,,
+FP-00532,FIR-0136,P-0090,accused,2024-11-28,on bail
+FP-00533,FIR-0136,P-0044,accused,2024-11-25,on bail
+FP-00534,FIR-0136,P-0228,victim,,
+FP-00535,FIR-0136,P-0228,complainant,,
+FP-00536,FIR-0136,P-0111,witness,,
+FP-00537,FIR-0137,P-0285,victim,,
+FP-00538,FIR-0137,P-0286,complainant,,
+FP-00539,FIR-0138,P-0069,accused,2025-09-30,in custody
+FP-00540,FIR-0138,P-0189,victim,,
+FP-00541,FIR-0138,P-0099,complainant,,
+FP-00542,FIR-0138,P-0095,witness,,
+FP-00543,FIR-0138,P-0203,witness,,
+FP-00544,FIR-0139,P-0045,accused,2025-02-09,on bail
+FP-00545,FIR-0139,P-0145,victim,,
+FP-00546,FIR-0139,P-0145,complainant,,
+FP-00547,FIR-0139,P-0272,witness,,
+FP-00548,FIR-0139,P-0149,witness,,
+FP-00549,FIR-0140,P-0094,victim,,
+FP-00550,FIR-0140,P-0260,complainant,,
+FP-00551,FIR-0141,P-0065,accused,,in custody
+FP-00552,FIR-0141,P-0009,accused,2024-11-04,in custody
+FP-00553,FIR-0141,P-0178,victim,,
+FP-00554,FIR-0141,P-0178,complainant,,
+FP-00555,FIR-0141,P-0153,witness,,
+FP-00556,FIR-0142,P-0021,accused,,in custody
+FP-00557,FIR-0142,P-0235,victim,,
+FP-00558,FIR-0142,P-0235,complainant,,
+FP-00559,FIR-0143,P-0029,accused,,on bail
+FP-00560,FIR-0143,P-0317,victim,,
+FP-00561,FIR-0143,P-0317,complainant,,
+FP-00562,FIR-0144,P-0010,accused,,in custody
+FP-00563,FIR-0144,P-0077,accused,,on bail
+FP-00564,FIR-0144,P-0203,victim,,
+FP-00565,FIR-0144,P-0203,complainant,,
+FP-00566,FIR-0145,P-0054,accused,,in custody
+FP-00567,FIR-0145,P-0004,accused,2025-12-18,in custody
+FP-00568,FIR-0145,P-0203,victim,,
+FP-00569,FIR-0145,P-0203,complainant,,
+FP-00570,FIR-0145,P-0269,witness,,
+FP-00571,FIR-0145,P-0282,witness,,
+FP-00572,FIR-0146,P-0020,accused,2026-02-24,on bail
+FP-00573,FIR-0146,P-0058,accused,2026-03-18,in custody
+FP-00574,FIR-0146,P-0278,victim,,
+FP-00575,FIR-0146,P-0278,complainant,,
+FP-00576,FIR-0147,P-0021,accused,2025-04-16,on bail
+FP-00577,FIR-0147,P-0024,accused,2025-04-18,on bail
+FP-00578,FIR-0147,P-0131,victim,,
+FP-00579,FIR-0147,P-0131,complainant,,
+FP-00580,FIR-0147,P-0311,witness,,
+FP-00581,FIR-0148,P-0075,accused,,in custody
+FP-00582,FIR-0148,P-0108,victim,,
+FP-00583,FIR-0148,P-0108,complainant,,
+FP-00584,FIR-0148,P-0272,witness,,
+FP-00585,FIR-0149,P-0058,accused,2025-12-28,in custody
+FP-00586,FIR-0149,P-0043,accused,2025-12-21,on bail
+FP-00587,FIR-0149,P-0096,victim,,
+FP-00588,FIR-0149,P-0096,complainant,,
+FP-00589,FIR-0150,P-0037,accused,2025-12-19,on bail
+FP-00590,FIR-0150,P-0015,accused,2025-12-25,in custody
+FP-00591,FIR-0150,P-0209,victim,,
+FP-00592,FIR-0150,P-0209,complainant,,
+FP-00593,FIR-0151,P-0033,accused,2025-12-04,on bail
+FP-00594,FIR-0151,P-0206,victim,,
+FP-00595,FIR-0151,P-0206,complainant,,
+FP-00596,FIR-0151,P-0213,witness,,
+FP-00597,FIR-0151,P-0199,witness,,
+FP-00598,FIR-0152,P-0015,accused,2025-02-07,on bail
+FP-00599,FIR-0152,P-0314,victim,,
+FP-00600,FIR-0152,P-0314,complainant,,
+FP-00601,FIR-0152,P-0178,witness,,
+FP-00602,FIR-0153,P-0276,victim,,
+FP-00603,FIR-0153,P-0303,complainant,,
+FP-00604,FIR-0154,P-0002,accused,2025-03-07,in custody
+FP-00605,FIR-0154,P-0231,victim,,
+FP-00606,FIR-0154,P-0231,complainant,,
+FP-00607,FIR-0154,P-0263,witness,,
+FP-00608,FIR-0154,P-0182,witness,,
+FP-00609,FIR-0155,P-0089,accused,,on bail
+FP-00610,FIR-0155,P-0065,accused,,on bail
+FP-00611,FIR-0155,P-0248,victim,,
+FP-00612,FIR-0155,P-0108,complainant,,
+FP-00613,FIR-0155,P-0115,witness,,
+FP-00614,FIR-0156,P-0265,victim,,
+FP-00615,FIR-0156,P-0265,complainant,,
+FP-00616,FIR-0157,P-0048,accused,2024-11-28,in custody
+FP-00617,FIR-0157,P-0154,victim,,
+FP-00618,FIR-0157,P-0154,complainant,,
+FP-00619,FIR-0157,P-0258,witness,,
+FP-00620,FIR-0157,P-0211,witness,,
+FP-00621,FIR-0158,P-0028,accused,2026-07-18,on bail
+FP-00622,FIR-0158,P-0142,victim,,
+FP-00623,FIR-0158,P-0142,complainant,,
+FP-00624,FIR-0159,P-0052,accused,2025-04-08,on bail
+FP-00625,FIR-0159,P-0311,victim,,
+FP-00626,FIR-0159,P-0311,complainant,,
+FP-00627,FIR-0159,P-0122,witness,,
+FP-00628,FIR-0160,P-0303,victim,,
+FP-00629,FIR-0160,P-0303,complainant,,
+FP-00630,FIR-0160,P-0299,witness,,
+FP-00631,FIR-0161,P-0054,accused,,in custody
+FP-00632,FIR-0161,P-0285,victim,,
+FP-00633,FIR-0161,P-0285,complainant,,
+FP-00634,FIR-0162,P-0223,victim,,
+FP-00635,FIR-0162,P-0223,complainant,,
+FP-00636,FIR-0163,P-0062,accused,,in custody
+FP-00637,FIR-0163,P-0248,victim,,
+FP-00638,FIR-0163,P-0248,complainant,,
+FP-00639,FIR-0163,P-0161,witness,,
+FP-00640,FIR-0163,P-0182,witness,,
+FP-00641,FIR-0164,P-0303,victim,,
+FP-00642,FIR-0164,P-0303,complainant,,
+FP-00643,FIR-0165,P-0072,accused,2025-10-12,in custody
+FP-00644,FIR-0165,P-0177,victim,,
+FP-00645,FIR-0165,P-0177,complainant,,
+FP-00646,FIR-0166,P-0071,accused,2025-12-03,on bail
+FP-00647,FIR-0166,P-0312,victim,,
+FP-00648,FIR-0166,P-0309,complainant,,
+FP-00649,FIR-0166,P-0206,witness,,
+FP-00650,FIR-0166,P-0301,witness,,
+FP-00651,FIR-0167,P-0074,accused,,on bail
+FP-00652,FIR-0167,P-0327,victim,,
+FP-00653,FIR-0167,P-0327,complainant,,
+FP-00654,FIR-0167,P-0309,witness,,
+FP-00655,FIR-0168,P-0072,accused,,on bail
+FP-00656,FIR-0168,P-0169,victim,,
+FP-00657,FIR-0168,P-0169,complainant,,
+FP-00658,FIR-0168,P-0169,witness,,
+FP-00659,FIR-0168,P-0112,witness,,
+FP-00660,FIR-0169,P-0043,accused,,in custody
+FP-00661,FIR-0169,P-0108,victim,,
+FP-00662,FIR-0169,P-0108,complainant,,
+FP-00663,FIR-0169,P-0256,witness,,
+FP-00664,FIR-0170,P-0045,accused,,on bail
+FP-00665,FIR-0170,P-0206,victim,,
+FP-00666,FIR-0170,P-0206,complainant,,
+FP-00667,FIR-0170,P-0249,witness,,
+FP-00668,FIR-0170,P-0199,witness,,
+FP-00669,FIR-0171,P-0020,accused,,on bail
+FP-00670,FIR-0171,P-0065,accused,2025-12-23,in custody
+FP-00671,FIR-0171,P-0235,victim,,
+FP-00672,FIR-0171,P-0235,complainant,,
+FP-00673,FIR-0171,P-0153,witness,,
+FP-00674,FIR-0172,P-0006,accused,,in custody
+FP-00675,FIR-0172,P-0111,victim,,
+FP-00676,FIR-0172,P-0111,complainant,,
+FP-00677,FIR-0173,P-0046,accused,2024-12-03,on bail
+FP-00678,FIR-0173,P-0027,accused,,on bail
+FP-00679,FIR-0173,P-0091,victim,,
+FP-00680,FIR-0173,P-0091,complainant,,
+FP-00681,FIR-0173,P-0295,witness,,
+FP-00682,FIR-0173,P-0189,witness,,
+FP-00683,FIR-0174,P-0083,accused,2025-05-17,in custody
+FP-00684,FIR-0174,P-0163,victim,,
+FP-00685,FIR-0174,P-0191,complainant,,
+FP-00686,FIR-0175,P-0019,accused,2024-12-10,on bail
+FP-00687,FIR-0175,P-0280,victim,,
+FP-00688,FIR-0175,P-0280,complainant,,
+FP-00689,FIR-0176,P-0185,victim,,
+FP-00690,FIR-0176,P-0185,complainant,,
+FP-00691,FIR-0176,P-0278,witness,,
+FP-00692,FIR-0176,P-0195,witness,,
+FP-00693,FIR-0177,P-0063,accused,,on bail
+FP-00694,FIR-0177,P-0028,accused,2025-08-07,on bail
+FP-00695,FIR-0177,P-0129,victim,,
+FP-00696,FIR-0177,P-0129,complainant,,
+FP-00697,FIR-0178,P-0070,accused,2026-03-12,in custody
+FP-00698,FIR-0178,P-0032,accused,2026-03-26,in custody
+FP-00699,FIR-0178,P-0024,accused,2026-03-30,on bail
+FP-00700,FIR-0178,P-0278,victim,,
+FP-00701,FIR-0178,P-0278,complainant,,
+FP-00702,FIR-0178,P-0263,witness,,
+FP-00703,FIR-0179,P-0065,accused,2025-06-29,on bail
+FP-00704,FIR-0179,P-0263,victim,,
+FP-00705,FIR-0179,P-0263,complainant,,
+FP-00706,FIR-0180,P-0019,accused,2025-06-23,in custody
+FP-00707,FIR-0180,P-0177,victim,,
+FP-00708,FIR-0180,P-0237,complainant,,
+FP-00709,FIR-0180,P-0113,witness,,
+FP-00710,FIR-0180,P-0269,witness,,
+FP-00711,FIR-0181,P-0067,accused,,on bail
+FP-00712,FIR-0181,P-0151,victim,,
+FP-00713,FIR-0181,P-0151,complainant,,
+FP-00714,FIR-0181,P-0159,witness,,
+FP-00715,FIR-0181,P-0158,witness,,
+FP-00716,FIR-0182,P-0083,accused,2024-11-20,in custody
+FP-00717,FIR-0182,P-0044,accused,,in custody
+FP-00718,FIR-0182,P-0210,victim,,
+FP-00719,FIR-0182,P-0210,complainant,,
+FP-00720,FIR-0182,P-0287,witness,,
+FP-00721,FIR-0182,P-0313,witness,,
+FP-00722,FIR-0183,P-0020,accused,2025-10-23,on bail
+FP-00723,FIR-0183,P-0058,accused,2025-11-05,on bail
+FP-00724,FIR-0183,P-0330,victim,,
+FP-00725,FIR-0183,P-0330,complainant,,
+FP-00726,FIR-0184,P-0183,victim,,
+FP-00727,FIR-0184,P-0183,complainant,,
+FP-00728,FIR-0184,P-0136,witness,,
+FP-00729,FIR-0184,P-0144,witness,,
+FP-00730,FIR-0185,P-0057,accused,2025-12-08,on bail
+FP-00731,FIR-0185,P-0016,accused,2025-12-26,in custody
+FP-00732,FIR-0185,P-0226,victim,,
+FP-00733,FIR-0185,P-0226,complainant,,
+FP-00734,FIR-0185,P-0105,witness,,
+FP-00735,FIR-0185,P-0111,witness,,
+FP-00736,FIR-0186,P-0020,accused,2025-03-26,on bail
+FP-00737,FIR-0186,P-0299,victim,,
+FP-00738,FIR-0186,P-0299,complainant,,
+FP-00739,FIR-0186,P-0235,witness,,
+FP-00740,FIR-0186,P-0231,witness,,
+FP-00741,FIR-0187,P-0059,accused,2026-02-12,on bail
+FP-00742,FIR-0187,P-0072,accused,,on bail
+FP-00743,FIR-0187,P-0103,victim,,
+FP-00744,FIR-0187,P-0261,complainant,,
+FP-00745,FIR-0187,P-0095,witness,,
+FP-00746,FIR-0188,P-0002,accused,2025-11-23,on bail
+FP-00747,FIR-0188,P-0058,accused,2025-12-17,on bail
+FP-00748,FIR-0188,P-0043,accused,,in custody
+FP-00749,FIR-0188,P-0270,victim,,
+FP-00750,FIR-0188,P-0270,complainant,,
+FP-00751,FIR-0189,P-0067,accused,2026-02-01,in custody
+FP-00752,FIR-0189,P-0050,accused,,in custody
+FP-00753,FIR-0189,P-0297,victim,,
+FP-00754,FIR-0189,P-0158,complainant,,
+FP-00755,FIR-0189,P-0298,witness,,
+FP-00756,FIR-0189,P-0162,witness,,
+FP-00757,FIR-0190,P-0063,accused,2024-08-09,on bail
+FP-00758,FIR-0190,P-0199,victim,,
+FP-00759,FIR-0190,P-0108,complainant,,
+FP-00760,FIR-0190,P-0292,witness,,
+FP-00761,FIR-0190,P-0312,witness,,
+FP-00762,FIR-0191,P-0070,accused,,on bail
+FP-00763,FIR-0191,P-0032,accused,,in custody
+FP-00764,FIR-0191,P-0221,victim,,
+FP-00765,FIR-0191,P-0207,complainant,,
+FP-00766,FIR-0192,P-0156,victim,,
+FP-00767,FIR-0192,P-0156,complainant,,
+FP-00768,FIR-0192,P-0260,witness,,
+FP-00769,FIR-0193,P-0025,accused,2024-12-24,in custody
+FP-00770,FIR-0193,P-0101,victim,,
+FP-00771,FIR-0193,P-0101,complainant,,
+FP-00772,FIR-0194,P-0057,accused,,on bail
+FP-00773,FIR-0194,P-0083,accused,,on bail
+FP-00774,FIR-0194,P-0101,victim,,
+FP-00775,FIR-0194,P-0101,complainant,,
+FP-00776,FIR-0194,P-0262,witness,,
+FP-00777,FIR-0194,P-0266,witness,,
+FP-00778,FIR-0195,P-0030,accused,2026-03-22,in custody
+FP-00779,FIR-0195,P-0051,accused,2026-03-19,in custody
+FP-00780,FIR-0195,P-0171,victim,,
+FP-00781,FIR-0195,P-0171,complainant,,
+FP-00782,FIR-0196,P-0032,accused,,on bail
+FP-00783,FIR-0196,P-0062,accused,2026-02-23,on bail
+FP-00784,FIR-0196,P-0236,victim,,
+FP-00785,FIR-0196,P-0276,complainant,,
+FP-00786,FIR-0196,P-0122,witness,,
+FP-00787,FIR-0196,P-0231,witness,,
+FP-00788,FIR-0197,P-0106,victim,,
+FP-00789,FIR-0197,P-0106,complainant,,
+FP-00790,FIR-0197,P-0285,witness,,
+FP-00791,FIR-0198,P-0047,accused,2026-04-23,in custody
+FP-00792,FIR-0198,P-0057,accused,,on bail
+FP-00793,FIR-0198,P-0081,accused,2026-04-30,in custody
+FP-00794,FIR-0198,P-0175,victim,,
+FP-00795,FIR-0198,P-0175,complainant,,
+FP-00796,FIR-0199,P-0282,victim,,
+FP-00797,FIR-0199,P-0282,complainant,,
+FP-00798,FIR-0200,P-0038,accused,,on bail
+FP-00799,FIR-0200,P-0024,accused,2026-04-28,in custody
+FP-00800,FIR-0200,P-0284,victim,,
+FP-00801,FIR-0200,P-0284,complainant,,
+FP-00802,FIR-0200,P-0114,witness,,
+FP-00803,FIR-0201,P-0201,victim,,
+FP-00804,FIR-0201,P-0201,complainant,,
+FP-00805,FIR-0201,P-0131,witness,,
+FP-00806,FIR-0201,P-0223,witness,,
+FP-00807,FIR-0202,P-0153,victim,,
+FP-00808,FIR-0202,P-0153,complainant,,
+FP-00809,FIR-0203,P-0015,accused,2025-04-20,in custody
+FP-00810,FIR-0203,P-0009,accused,2025-04-09,on bail
+FP-00811,FIR-0203,P-0270,victim,,
+FP-00812,FIR-0203,P-0270,complainant,,
+FP-00813,FIR-0204,P-0055,accused,2026-06-16,in custody
+FP-00814,FIR-0204,P-0012,accused,2026-06-24,in custody
+FP-00815,FIR-0204,P-0136,victim,,
+FP-00816,FIR-0204,P-0136,complainant,,
+FP-00817,FIR-0205,P-0203,victim,,
+FP-00818,FIR-0205,P-0203,complainant,,
+FP-00819,FIR-0206,P-0061,accused,,in custody
+FP-00820,FIR-0206,P-0028,accused,,on bail
+FP-00821,FIR-0206,P-0284,victim,,
+FP-00822,FIR-0206,P-0202,complainant,,
+FP-00823,FIR-0207,P-0025,accused,2026-03-23,on bail
+FP-00824,FIR-0207,P-0014,accused,,on bail
+FP-00825,FIR-0207,P-0175,victim,,
+FP-00826,FIR-0207,P-0175,complainant,,
+FP-00827,FIR-0208,P-0024,accused,2025-01-13,on bail
+FP-00828,FIR-0208,P-0060,accused,,on bail
+FP-00829,FIR-0208,P-0224,victim,,
+FP-00830,FIR-0208,P-0224,complainant,,
+FP-00831,FIR-0208,P-0182,witness,,
+FP-00832,FIR-0209,P-0108,victim,,
+FP-00833,FIR-0209,P-0108,complainant,,
+FP-00834,FIR-0210,P-0087,accused,,on bail
+FP-00835,FIR-0210,P-0032,accused,2026-05-05,on bail
+FP-00836,FIR-0210,P-0038,accused,2026-04-13,in custody
+FP-00837,FIR-0210,P-0110,victim,,
+FP-00838,FIR-0210,P-0110,complainant,,
+FP-00839,FIR-0211,P-0051,accused,2025-06-29,on bail
+FP-00840,FIR-0211,P-0091,victim,,
+FP-00841,FIR-0211,P-0091,complainant,,
+FP-00842,FIR-0211,P-0269,witness,,
+FP-00843,FIR-0212,P-0059,accused,,on bail
+FP-00844,FIR-0212,P-0322,victim,,
+FP-00845,FIR-0212,P-0294,complainant,,
+FP-00846,FIR-0212,P-0137,witness,,
+FP-00847,FIR-0212,P-0323,witness,,
+FP-00848,FIR-0213,P-0032,accused,,on bail
+FP-00849,FIR-0213,P-0045,accused,2025-12-16,in custody
+FP-00850,FIR-0213,P-0024,accused,2026-01-01,in custody
+FP-00851,FIR-0213,P-0178,victim,,
+FP-00852,FIR-0213,P-0178,complainant,,
+FP-00853,FIR-0213,P-0140,witness,,
+FP-00854,FIR-0213,P-0238,witness,,
+FP-00855,FIR-0214,P-0024,accused,,in custody
+FP-00856,FIR-0214,P-0045,accused,2026-01-29,on bail
+FP-00857,FIR-0214,P-0199,victim,,
+FP-00858,FIR-0214,P-0199,complainant,,
+FP-00859,FIR-0214,P-0202,witness,,
+FP-00860,FIR-0215,P-0011,accused,,in custody
+FP-00861,FIR-0215,P-0008,accused,2025-02-28,in custody
+FP-00862,FIR-0215,P-0244,victim,,
+FP-00863,FIR-0215,P-0244,complainant,,
+FP-00864,FIR-0216,P-0300,victim,,
+FP-00865,FIR-0216,P-0243,complainant,,
+FP-00866,FIR-0216,P-0152,witness,,
+FP-00867,FIR-0216,P-0162,witness,,
+FP-00868,FIR-0217,P-0067,accused,2026-01-24,on bail
+FP-00869,FIR-0217,P-0293,victim,,
+FP-00870,FIR-0217,P-0293,complainant,,
+FP-00871,FIR-0217,P-0196,witness,,
+FP-00872,FIR-0218,P-0024,accused,2026-02-07,on bail
+FP-00873,FIR-0218,P-0038,accused,2026-02-08,on bail
+FP-00874,FIR-0218,P-0185,victim,,
+FP-00875,FIR-0218,P-0185,complainant,,
+FP-00876,FIR-0218,P-0149,witness,,
+FP-00877,FIR-0218,P-0114,witness,,
+FP-00878,FIR-0219,P-0041,accused,2026-04-05,on bail
+FP-00879,FIR-0219,P-0117,victim,,
+FP-00880,FIR-0219,P-0117,complainant,,
+FP-00881,FIR-0220,P-0309,victim,,
+FP-00882,FIR-0220,P-0309,complainant,,
+FP-00883,FIR-0221,P-0058,accused,2025-02-11,on bail
+FP-00884,FIR-0221,P-0206,victim,,
+FP-00885,FIR-0221,P-0206,complainant,,
+FP-00886,FIR-0222,P-0016,accused,2024-07-31,in custody
+FP-00887,FIR-0222,P-0298,victim,,
+FP-00888,FIR-0222,P-0298,complainant,,
+FP-00889,FIR-0222,P-0257,witness,,
+FP-00890,FIR-0222,P-0194,witness,,
+FP-00891,FIR-0223,P-0183,victim,,
+FP-00892,FIR-0223,P-0183,complainant,,
+FP-00893,FIR-0223,P-0228,witness,,
+FP-00894,FIR-0223,P-0250,witness,,
+FP-00895,FIR-0224,P-0021,accused,,in custody
+FP-00896,FIR-0224,P-0327,victim,,
+FP-00897,FIR-0224,P-0327,complainant,,
+FP-00898,FIR-0225,P-0021,accused,,on bail
+FP-00899,FIR-0225,P-0311,victim,,
+FP-00900,FIR-0225,P-0311,complainant,,
+FP-00901,FIR-0226,P-0024,accused,2026-07-09,on bail
+FP-00902,FIR-0226,P-0033,accused,2026-06-29,on bail
+FP-00903,FIR-0226,P-0292,victim,,
+FP-00904,FIR-0226,P-0292,complainant,,
+FP-00905,FIR-0227,P-0021,accused,,in custody
+FP-00906,FIR-0227,P-0089,accused,,on bail
+FP-00907,FIR-0227,P-0221,victim,,
+FP-00908,FIR-0227,P-0221,complainant,,
+FP-00909,FIR-0227,P-0272,witness,,
+FP-00910,FIR-0227,P-0225,witness,,
+FP-00911,FIR-0228,P-0032,accused,2025-12-25,on bail
+FP-00912,FIR-0228,P-0070,accused,,on bail
+FP-00913,FIR-0228,P-0251,victim,,
+FP-00914,FIR-0228,P-0251,complainant,,
+FP-00915,FIR-0229,P-0108,victim,,
+FP-00916,FIR-0229,P-0108,complainant,,
+FP-00917,FIR-0229,P-0140,witness,,
+FP-00918,FIR-0230,P-0042,accused,,on bail
+FP-00919,FIR-0230,P-0141,victim,,
+FP-00920,FIR-0230,P-0141,complainant,,
+FP-00921,FIR-0230,P-0240,witness,,
+FP-00922,FIR-0230,P-0106,witness,,
+FP-00923,FIR-0231,P-0054,accused,2026-05-10,in custody
+FP-00924,FIR-0231,P-0034,accused,,in custody
+FP-00925,FIR-0231,P-0160,victim,,
+FP-00926,FIR-0231,P-0160,complainant,,
+FP-00927,FIR-0232,P-0009,accused,2024-09-07,on bail
+FP-00928,FIR-0232,P-0206,victim,,
+FP-00929,FIR-0232,P-0263,complainant,,
+FP-00930,FIR-0233,P-0052,accused,2026-05-17,on bail
+FP-00931,FIR-0233,P-0037,accused,,in custody
+FP-00932,FIR-0233,P-0272,victim,,
+FP-00933,FIR-0233,P-0272,complainant,,
+FP-00934,FIR-0233,P-0174,witness,,
+FP-00935,FIR-0233,P-0100,witness,,
+FP-00936,FIR-0234,P-0316,victim,,
+FP-00937,FIR-0234,P-0316,complainant,,
+FP-00938,FIR-0235,P-0003,accused,2026-01-15,in custody
+FP-00939,FIR-0235,P-0033,accused,2026-02-02,on bail
+FP-00940,FIR-0235,P-0324,victim,,
+FP-00941,FIR-0235,P-0238,complainant,,
+FP-00942,FIR-0235,P-0122,witness,,
+FP-00943,FIR-0235,P-0161,witness,,
+FP-00944,FIR-0236,P-0035,accused,2024-10-26,in custody
+FP-00945,FIR-0236,P-0302,victim,,
+FP-00946,FIR-0236,P-0302,complainant,,
+FP-00947,FIR-0237,P-0125,victim,,
+FP-00948,FIR-0237,P-0125,complainant,,
+FP-00949,FIR-0238,P-0001,accused,,in custody
+FP-00950,FIR-0238,P-0057,accused,2026-03-26,on bail
+FP-00951,FIR-0238,P-0102,victim,,
+FP-00952,FIR-0238,P-0102,complainant,,
+FP-00953,FIR-0239,P-0063,accused,2025-03-21,on bail
+FP-00954,FIR-0239,P-0032,accused,2025-03-06,on bail
+FP-00955,FIR-0239,P-0309,victim,,
+FP-00956,FIR-0239,P-0309,complainant,,
+FP-00957,FIR-0240,P-0071,accused,2026-05-28,in custody
+FP-00958,FIR-0240,P-0075,accused,,in custody
+FP-00959,FIR-0240,P-0251,victim,,
+FP-00960,FIR-0240,P-0251,complainant,,
+FP-00961,FIR-0241,P-0069,accused,,in custody
+FP-00962,FIR-0241,P-0008,accused,2026-02-06,on bail
+FP-00963,FIR-0241,P-0232,victim,,
+FP-00964,FIR-0241,P-0232,complainant,,
+FP-00965,FIR-0241,P-0198,witness,,
+FP-00966,FIR-0241,P-0099,witness,,
+FP-00967,FIR-0242,P-0038,accused,2026-01-13,in custody
+FP-00968,FIR-0242,P-0087,accused,,in custody
+FP-00969,FIR-0242,P-0314,victim,,
+FP-00970,FIR-0242,P-0314,complainant,,
+FP-00971,FIR-0243,P-0020,accused,2026-03-08,on bail
+FP-00972,FIR-0243,P-0043,accused,,on bail
+FP-00973,FIR-0243,P-0291,victim,,
+FP-00974,FIR-0243,P-0264,complainant,,
+FP-00975,FIR-0244,P-0032,accused,,in custody
+FP-00976,FIR-0244,P-0009,accused,2025-04-22,on bail
+FP-00977,FIR-0244,P-0199,victim,,
+FP-00978,FIR-0244,P-0199,complainant,,
+FP-00979,FIR-0245,P-0019,accused,2025-03-27,in custody
+FP-00980,FIR-0245,P-0054,accused,2025-03-15,on bail
+FP-00981,FIR-0245,P-0261,victim,,
+FP-00982,FIR-0245,P-0261,complainant,,
+FP-00983,FIR-0246,P-0074,accused,,in custody
+FP-00984,FIR-0246,P-0185,victim,,
+FP-00985,FIR-0246,P-0185,complainant,,
+FP-00986,FIR-0247,P-0071,accused,2024-09-22,in custody
+FP-00987,FIR-0247,P-0070,accused,,on bail
+FP-00988,FIR-0247,P-0125,victim,,
+FP-00989,FIR-0247,P-0125,complainant,,
+FP-00990,FIR-0248,P-0038,accused,2025-06-10,in custody
+FP-00991,FIR-0248,P-0251,victim,,
+FP-00992,FIR-0248,P-0118,complainant,,
+FP-00993,FIR-0249,P-0001,accused,2025-06-27,in custody
+FP-00994,FIR-0249,P-0152,victim,,
+FP-00995,FIR-0249,P-0152,complainant,,
+FP-00996,FIR-0249,P-0313,witness,,
+FP-00997,FIR-0250,P-0037,accused,2024-10-01,in custody
+FP-00998,FIR-0250,P-0263,victim,,
+FP-00999,FIR-0250,P-0263,complainant,,
+FP-01000,FIR-0250,P-0276,witness,,
+FP-01001,FIR-0250,P-0216,witness,,
+FP-01002,FIR-0251,P-0077,accused,2024-10-27,in custody
+FP-01003,FIR-0251,P-0232,victim,,
+FP-01004,FIR-0251,P-0286,complainant,,
+FP-01005,FIR-0252,P-0020,accused,,on bail
+FP-01006,FIR-0252,P-0043,accused,,in custody
+FP-01007,FIR-0252,P-0125,victim,,
+FP-01008,FIR-0252,P-0125,complainant,,
+FP-01009,FIR-0253,P-0104,victim,,
+FP-01010,FIR-0253,P-0104,complainant,,
+FP-01011,FIR-0253,P-0159,witness,,
+FP-01012,FIR-0254,P-0061,accused,,on bail
+FP-01013,FIR-0254,P-0264,victim,,
+FP-01014,FIR-0254,P-0264,complainant,,
+FP-01015,FIR-0255,P-0047,accused,2024-09-01,in custody
+FP-01016,FIR-0255,P-0057,accused,,on bail
+FP-01017,FIR-0255,P-0081,accused,,on bail
+FP-01018,FIR-0255,P-0190,victim,,
+FP-01019,FIR-0255,P-0190,complainant,,
+FP-01020,FIR-0256,P-0029,accused,,in custody
+FP-01021,FIR-0256,P-0192,victim,,
+FP-01022,FIR-0256,P-0192,complainant,,
+FP-01023,FIR-0257,P-0033,accused,,in custody
+FP-01024,FIR-0257,P-0172,victim,,
+FP-01025,FIR-0257,P-0172,complainant,,
+FP-01026,FIR-0258,P-0067,accused,2025-12-19,in custody
+FP-01027,FIR-0258,P-0104,victim,,
+FP-01028,FIR-0258,P-0104,complainant,,
+FP-01029,FIR-0259,P-0041,accused,2026-02-06,on bail
+FP-01030,FIR-0259,P-0006,accused,2026-02-03,in custody
+FP-01031,FIR-0259,P-0143,victim,,
+FP-01032,FIR-0259,P-0234,complainant,,
+FP-01033,FIR-0259,P-0165,witness,,
+FP-01034,FIR-0259,P-0230,witness,,
+FP-01035,FIR-0260,P-0050,accused,2025-03-13,on bail
+FP-01036,FIR-0260,P-0001,accused,,in custody
+FP-01037,FIR-0260,P-0307,victim,,
+FP-01038,FIR-0260,P-0283,complainant,,
+FP-01039,FIR-0261,P-0070,accused,2025-12-07,on bail
+FP-01040,FIR-0261,P-0045,accused,,in custody
+FP-01041,FIR-0261,P-0038,accused,,on bail
+FP-01042,FIR-0261,P-0254,victim,,
+FP-01043,FIR-0261,P-0254,complainant,,
+FP-01044,FIR-0261,P-0126,witness,,
+FP-01045,FIR-0261,P-0155,witness,,
+FP-01046,FIR-0262,P-0081,accused,,in custody
+FP-01047,FIR-0262,P-0083,accused,,on bail
+FP-01048,FIR-0262,P-0132,victim,,
+FP-01049,FIR-0262,P-0132,complainant,,
+FP-01050,FIR-0263,P-0069,accused,,in custody
+FP-01051,FIR-0263,P-0192,victim,,
+FP-01052,FIR-0263,P-0192,complainant,,
+FP-01053,FIR-0264,P-0001,accused,,in custody
+FP-01054,FIR-0264,P-0184,victim,,
+FP-01055,FIR-0264,P-0184,complainant,,
+FP-01056,FIR-0265,P-0030,accused,2025-12-15,in custody
+FP-01057,FIR-0265,P-0240,victim,,
+FP-01058,FIR-0265,P-0240,complainant,,
+FP-01059,FIR-0266,P-0107,victim,,
+FP-01060,FIR-0266,P-0107,complainant,,
+FP-01061,FIR-0267,P-0015,accused,,on bail
+FP-01062,FIR-0267,P-0199,victim,,
+FP-01063,FIR-0267,P-0199,complainant,,
+FP-01064,FIR-0268,P-0002,accused,2025-06-24,on bail
+FP-01065,FIR-0268,P-0043,accused,2025-06-07,on bail
+FP-01066,FIR-0268,P-0239,victim,,
+FP-01067,FIR-0268,P-0239,complainant,,
+FP-01068,FIR-0268,P-0235,witness,,
+FP-01069,FIR-0269,P-0039,accused,2025-06-29,in custody
+FP-01070,FIR-0269,P-0053,accused,2025-07-03,in custody
+FP-01071,FIR-0269,P-0121,victim,,
+FP-01072,FIR-0269,P-0196,complainant,,
+FP-01073,FIR-0269,P-0179,witness,,
+FP-01074,FIR-0270,P-0056,accused,2024-10-12,on bail
+FP-01075,FIR-0270,P-0077,accused,2024-10-27,in custody
+FP-01076,FIR-0270,P-0106,victim,,
+FP-01077,FIR-0270,P-0106,complainant,,
+FP-01078,FIR-0270,P-0286,witness,,
+FP-01079,FIR-0271,P-0017,accused,,in custody
+FP-01080,FIR-0271,P-0088,accused,2025-05-21,in custody
+FP-01081,FIR-0271,P-0218,victim,,
+FP-01082,FIR-0271,P-0218,complainant,,
+FP-01083,FIR-0272,P-0084,accused,2026-04-18,in custody
+FP-01084,FIR-0272,P-0313,victim,,
+FP-01085,FIR-0272,P-0313,complainant,,
+FP-01086,FIR-0272,P-0300,witness,,
+FP-01087,FIR-0272,P-0173,witness,,
+FP-01088,FIR-0273,P-0284,victim,,
+FP-01089,FIR-0273,P-0284,complainant,,
+FP-01090,FIR-0273,P-0292,witness,,
+FP-01091,FIR-0273,P-0290,witness,,
+FP-01092,FIR-0274,P-0081,accused,2026-06-13,on bail
+FP-01093,FIR-0274,P-0083,accused,2026-06-02,on bail
+FP-01094,FIR-0274,P-0111,victim,,
+FP-01095,FIR-0274,P-0111,complainant,,
+FP-01096,FIR-0275,P-0002,accused,,on bail
+FP-01097,FIR-0275,P-0058,accused,2026-06-06,on bail
+FP-01098,FIR-0275,P-0256,victim,,
+FP-01099,FIR-0275,P-0256,complainant,,
+FP-01100,FIR-0276,P-0047,accused,2026-04-27,in custody
+FP-01101,FIR-0276,P-0083,accused,2026-05-06,on bail
+FP-01102,FIR-0276,P-0259,victim,,
+FP-01103,FIR-0276,P-0259,complainant,,
+FP-01104,FIR-0277,P-0032,accused,2026-05-16,in custody
+FP-01105,FIR-0277,P-0045,accused,2026-04-15,on bail
+FP-01106,FIR-0277,P-0070,accused,2026-05-02,on bail
+FP-01107,FIR-0277,P-0142,victim,,
+FP-01108,FIR-0277,P-0142,complainant,,
+FP-01109,FIR-0277,P-0249,witness,,
+FP-01110,FIR-0277,P-0170,witness,,
+FP-01111,FIR-0278,P-0051,accused,,in custody
+FP-01112,FIR-0278,P-0232,victim,,
+FP-01113,FIR-0278,P-0244,complainant,,
+FP-01114,FIR-0278,P-0320,witness,,
+FP-01115,FIR-0278,P-0326,witness,,
+FP-01116,FIR-0279,P-0080,accused,2025-10-15,on bail
+FP-01117,FIR-0279,P-0163,victim,,
+FP-01118,FIR-0279,P-0163,complainant,,
+FP-01119,FIR-0280,P-0087,accused,,in custody
+FP-01120,FIR-0280,P-0045,accused,2026-04-02,in custody
+FP-01121,FIR-0280,P-0070,accused,2026-04-01,on bail
+FP-01122,FIR-0280,P-0223,victim,,
+FP-01123,FIR-0280,P-0223,complainant,,
+FP-01124,FIR-0281,P-0106,victim,,
+FP-01125,FIR-0281,P-0106,complainant,,
+FP-01126,FIR-0281,P-0322,witness,,
+FP-01127,FIR-0282,P-0067,accused,2025-09-21,in custody
+FP-01128,FIR-0282,P-0175,victim,,
+FP-01129,FIR-0282,P-0175,complainant,,
+FP-01130,FIR-0282,P-0210,witness,,
+FP-01131,FIR-0282,P-0258,witness,,
+FP-01132,FIR-0283,P-0055,accused,,on bail
+FP-01133,FIR-0283,P-0307,victim,,
+FP-01134,FIR-0283,P-0183,complainant,,
+FP-01135,FIR-0284,P-0072,accused,,in custody
+FP-01136,FIR-0284,P-0267,victim,,
+FP-01137,FIR-0284,P-0267,complainant,,
+FP-01138,FIR-0284,P-0189,witness,,
+FP-01139,FIR-0285,P-0031,accused,2025-06-18,in custody
+FP-01140,FIR-0285,P-0136,victim,,
+FP-01141,FIR-0285,P-0136,complainant,,
+FP-01142,FIR-0286,P-0287,victim,,
+FP-01143,FIR-0286,P-0287,complainant,,
+FP-01144,FIR-0287,P-0020,accused,2026-05-17,in custody
+FP-01145,FIR-0287,P-0043,accused,2026-05-03,in custody
+FP-01146,FIR-0287,P-0172,victim,,
+FP-01147,FIR-0287,P-0172,complainant,,
+FP-01148,FIR-0287,P-0238,witness,,
+FP-01149,FIR-0288,P-0038,accused,2025-09-23,on bail
+FP-01150,FIR-0288,P-0070,accused,2025-10-21,on bail
+FP-01151,FIR-0288,P-0238,victim,,
+FP-01152,FIR-0288,P-0271,complainant,,
+FP-01153,FIR-0288,P-0270,witness,,
+FP-01154,FIR-0289,P-0025,accused,2024-10-03,on bail
+FP-01155,FIR-0289,P-0031,accused,,in custody
+FP-01156,FIR-0289,P-0159,victim,,
+FP-01157,FIR-0289,P-0159,complainant,,
+FP-01158,FIR-0289,P-0158,witness,,
+FP-01159,FIR-0289,P-0257,witness,,
+FP-01160,FIR-0290,P-0088,accused,2024-11-06,on bail
+FP-01161,FIR-0290,P-0011,accused,2024-11-01,on bail
+FP-01162,FIR-0290,P-0124,victim,,
+FP-01163,FIR-0290,P-0124,complainant,,
+FP-01164,FIR-0291,P-0213,victim,,
+FP-01165,FIR-0291,P-0213,complainant,,
+FP-01166,FIR-0291,P-0108,witness,,
+FP-01167,FIR-0292,P-0058,accused,2026-06-15,on bail
+FP-01168,FIR-0292,P-0060,accused,2026-06-10,in custody
+FP-01169,FIR-0292,P-0197,victim,,
+FP-01170,FIR-0292,P-0197,complainant,,
+FP-01171,FIR-0293,P-0013,accused,2026-03-25,in custody
+FP-01172,FIR-0293,P-0068,accused,,in custody
+FP-01173,FIR-0293,P-0175,victim,,
+FP-01174,FIR-0293,P-0175,complainant,,
+FP-01175,FIR-0294,P-0204,victim,,
+FP-01176,FIR-0294,P-0204,complainant,,
+FP-01177,FIR-0295,P-0046,accused,2026-03-19,in custody
+FP-01178,FIR-0295,P-0280,victim,,
+FP-01179,FIR-0295,P-0186,complainant,,
+FP-01180,FIR-0296,P-0015,accused,2026-07-24,on bail
+FP-01181,FIR-0296,P-0058,accused,,in custody
+FP-01182,FIR-0296,P-0201,victim,,
+FP-01183,FIR-0296,P-0201,complainant,,
+FP-01184,FIR-0296,P-0178,witness,,
+FP-01185,FIR-0297,P-0084,accused,,on bail
+FP-01186,FIR-0297,P-0039,accused,2026-06-11,in custody
+FP-01187,FIR-0297,P-0258,victim,,
+FP-01188,FIR-0297,P-0258,complainant,,
+FP-01189,FIR-0298,P-0268,victim,,
+FP-01190,FIR-0298,P-0268,complainant,,
+FP-01191,FIR-0298,P-0322,witness,,
+FP-01192,FIR-0299,P-0024,accused,2026-05-03,on bail
+FP-01193,FIR-0299,P-0070,accused,2026-04-30,on bail
+FP-01194,FIR-0299,P-0032,accused,,in custody
+FP-01195,FIR-0299,P-0127,victim,,
+FP-01196,FIR-0299,P-0127,complainant,,
+FP-01197,FIR-0300,P-0304,victim,,
+FP-01198,FIR-0300,P-0211,complainant,,
+FP-01199,FIR-0300,P-0313,witness,,
+FP-01200,FIR-0300,P-0120,witness,,

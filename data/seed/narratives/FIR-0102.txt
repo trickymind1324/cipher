@@ -1,0 +1,22 @@
+FIR ID: FIR-0102
+FIR Number: 102/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-01-07 at 02:14:00
+Date of Registration: 2026-01-10
+Investigating Officer: PSI Deepa Kumar
+Status: under investigation
+
+Complaint:
+On 2026-01-07, Naveen Kulkarni (P-0213), a resident of 157, Cross Road, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Manjunath Rao (P-0329), Ananya Gowda (P-0231).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

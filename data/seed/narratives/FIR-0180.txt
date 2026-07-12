@@ -1,0 +1,22 @@
+FIR ID: FIR-0180
+FIR Number: 180/2025
+Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-05-21 at 02:06:00
+Date of Registration: 2025-05-23
+Investigating Officer: PSI Suresh Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2025-05-21, Deepa Naik (P-0237), a resident of 176, Extension, Aland, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Deepa Achar (P-0019).
+
+Witnesses:
+Witnesses examined: Nagaraj Gowda (P-0113), Vinay Naik (P-0269).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

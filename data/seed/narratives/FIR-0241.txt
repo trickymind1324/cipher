@@ -1,0 +1,22 @@
+FIR ID: FIR-0241
+FIR Number: 241/2025
+Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-12-28 at 05:46:00
+Date of Registration: 2025-12-29
+Investigating Officer: PSI Chetan Rao
+Status: closed
+
+Complaint:
+On 2025-12-28, Nagaraj Swamy (P-0232), a resident of 68, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Nagaraj Pujari (P-0069), Ananya Desai (P-0008).
+
+Witnesses:
+Witnesses examined: Shwetha Achar (P-0198), Chetan Pujari (P-0099).
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

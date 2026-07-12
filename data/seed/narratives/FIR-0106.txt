@@ -1,0 +1,22 @@
+FIR ID: FIR-0106
+FIR Number: 106/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2024-07-14 at 07:52:00
+Date of Registration: 2024-07-16
+Investigating Officer: PSI Pooja Rao
+Status: under investigation
+
+Complaint:
+On 2024-07-14, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045), Kiran Jadhav (P-0038).
+
+Witnesses:
+Witnesses examined: Shwetha Achar (P-0301), Imran Desai (P-0327).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

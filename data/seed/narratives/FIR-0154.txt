@@ -1,0 +1,22 @@
+FIR ID: FIR-0154
+FIR Number: 154/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-03-02 at 21:51:00
+Date of Registration: 2025-03-05
+Investigating Officer: PSI Umesh Kulkarni
+Status: chargesheeted
+
+Complaint:
+On 2025-03-02, Ananya Gowda (P-0231), a resident of 168, Main Road, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002).
+
+Witnesses:
+Witnesses examined: Prakash Hegde (P-0263), Girish Reddy (P-0182).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

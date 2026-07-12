@@ -1,0 +1,22 @@
+FIR ID: FIR-0206
+FIR Number: 206/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-15 at 06:02:00
+Date of Registration: 2026-04-15
+Investigating Officer: PSI Nandini Prasad
+Status: chargesheeted
+
+Complaint:
+On 2026-04-15, Kiran Prasad (P-0202), a resident of 87, Main Road, Hebbal, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061), Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

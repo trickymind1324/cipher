@@ -1,0 +1,22 @@
+FIR ID: FIR-0099
+FIR Number: 099/2026
+Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-03-15 at 23:27:00
+Date of Registration: 2026-03-18
+Investigating Officer: PSI Deepa Gowda
+Status: closed
+
+Complaint:
+On 2026-03-15, Santhosh Kamath (P-0141), a resident of 47, Cross Road, Kalaburagi City, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Kumar (P-0076), Girish Desai (P-0059).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

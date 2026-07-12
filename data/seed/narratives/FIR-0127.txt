@@ -1,0 +1,22 @@
+FIR ID: FIR-0127
+FIR Number: 127/2026
+Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-05-09 at 11:04:00
+Date of Registration: 2026-05-11
+Investigating Officer: PSI Roopa Murthy
+Status: under investigation
+
+Complaint:
+On 2026-05-09, Deepa Reddy (P-0097), a resident of 11, Extension, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Nandini Desai (P-0268).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,22 @@
+FIR ID: FIR-0217
+FIR Number: 217/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-01-07 at 17:03:00
+Date of Registration: 2026-01-08
+Investigating Officer: PSI Mahesh Rao
+Status: under investigation
+
+Complaint:
+On 2026-01-07, Yusuf Kamath (P-0293), a resident of 142, Colony, Krishnaraja, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Vinay Pujari (P-0196).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

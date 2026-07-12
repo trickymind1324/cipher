@@ -1,0 +1,22 @@
+FIR ID: FIR-0259
+FIR Number: 259/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-01-04 at 02:05:00
+Date of Registration: 2026-01-07
+Investigating Officer: PSI Shwetha Murthy
+Status: under investigation
+
+Complaint:
+On 2026-01-04, Mahesh Reddy (P-0234), a resident of 4, Layout, Hunsur, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Pujari (P-0041), Chetan Pujari (P-0006).
+
+Witnesses:
+Witnesses examined: Lakshmi Gowda (P-0165), Naveen Gowda (P-0230).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

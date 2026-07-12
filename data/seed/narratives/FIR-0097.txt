@@ -1,0 +1,22 @@
+FIR ID: FIR-0097
+FIR Number: 097/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-02-19 at 00:31:00
+Date of Registration: 2025-02-20
+Investigating Officer: PSI Shwetha Kumar
+Status: chargesheeted
+
+Complaint:
+On 2025-02-19, Naveen Gowda (P-0230), a resident of 166, Extension, Krishnaraja, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050), Imran Shetty (P-0039).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,22 @@
+FIR ID: FIR-0239
+FIR Number: 239/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-03-02 at 08:28:00
+Date of Registration: 2025-03-02
+Investigating Officer: PSI Mahesh Reddy
+Status: closed
+
+Complaint:
+On 2025-03-02, Bhavya Gowda (P-0309), a resident of 55, Colony, Peenya, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

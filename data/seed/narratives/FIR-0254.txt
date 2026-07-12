@@ -1,0 +1,22 @@
+FIR ID: FIR-0254
+FIR Number: 254/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-04-16 at 17:18:00
+Date of Registration: 2025-04-19
+Investigating Officer: PSI Anand Shetty
+Status: chargesheeted
+
+Complaint:
+On 2025-04-16, Vidya Patil (P-0264), a resident of 109, Extension, RT Nagar, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

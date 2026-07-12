@@ -1,0 +1,22 @@
+FIR ID: FIR-0192
+FIR Number: 192/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-07-12 at 00:38:00
+Date of Registration: 2025-07-14
+Investigating Officer: PSI Rakesh Kamath
+Status: under investigation
+
+Complaint:
+On 2025-07-12, Umesh Murthy (P-0156), a resident of 81, Colony, Hunsur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Bhavya Pujari (P-0260).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,22 @@
+FIR ID: FIR-0108
+FIR Number: 108/2026
+Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-01-26 at 05:40:00
+Date of Registration: 2026-01-27
+Investigating Officer: PSI Lokesh Murthy
+Status: chargesheeted
+
+Complaint:
+On 2026-01-26, Umesh Reddy (P-0124), a resident of 86, Layout, Kalaburagi City, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Vidya Shetty (P-0085).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

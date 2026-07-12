@@ -1,0 +1,22 @@
+FIR ID: FIR-0038
+FIR Number: 038/2026
+Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-22 at 02:20:00
+Date of Registration: 2026-04-25
+Investigating Officer: PSI Rakesh Shetty
+Status: under investigation
+
+Complaint:
+On 2026-04-22, Ravi Achar (P-0282), a resident of 76, Main Road, Chittapur, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

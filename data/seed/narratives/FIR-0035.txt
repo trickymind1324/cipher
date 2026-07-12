@@ -1,0 +1,22 @@
+FIR ID: FIR-0035
+FIR Number: 035/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-02-07 at 17:44:00
+Date of Registration: 2025-02-07
+Investigating Officer: PSI Basavaraj Naik
+Status: chargesheeted
+
+Complaint:
+On 2025-02-07, Deepa Shetty (P-0256), a resident of 10, Extension, Yelahanka, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063), Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

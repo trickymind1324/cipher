@@ -1,0 +1,22 @@
+FIR ID: FIR-0007
+FIR Number: 007/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-22 at 20:16:00
+Date of Registration: 2026-02-25
+Investigating Officer: PSI Manjunath Reddy
+Status: under investigation
+
+Complaint:
+On 2026-02-22, Roopa Rao (P-0102), a resident of 160, Colony, Nanjangud, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Vidya Rao (P-0296).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

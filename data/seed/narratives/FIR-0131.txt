@@ -1,0 +1,22 @@
+FIR ID: FIR-0131
+FIR Number: 131/2025
+Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-11-11 at 05:20:00
+Date of Registration: 2025-11-12
+Investigating Officer: PSI Deepa Pujari
+Status: chargesheeted
+
+Complaint:
+On 2025-11-11, Naveen Naik (P-0227), a resident of 45, Extension, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Kumar (P-0076), Prakash Shetty (P-0042).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

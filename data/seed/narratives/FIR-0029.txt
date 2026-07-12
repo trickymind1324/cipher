@@ -1,0 +1,22 @@
+FIR ID: FIR-0029
+FIR Number: 029/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-01-25 at 06:49:00
+Date of Registration: 2025-01-27
+Investigating Officer: PSI Pooja Desai
+Status: closed
+
+Complaint:
+On 2025-01-25, Shivakumar Hegde (P-0194), a resident of 76, Main Road, Hunsur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Gowda (P-0057), Kiran Jadhav (P-0047), Lokesh Hegde (P-0081).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

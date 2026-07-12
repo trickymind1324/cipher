@@ -1,0 +1,22 @@
+FIR ID: FIR-0012
+FIR Number: 012/2025
+Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-06-01 at 04:33:00
+Date of Registration: 2025-06-02
+Investigating Officer: PSI Imran Bhat
+Status: chargesheeted
+
+Complaint:
+On 2025-06-01, Mahesh Shetty (P-0306), a resident of 42, Extension, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Prasad (P-0051), Ananya Desai (P-0008).
+
+Witnesses:
+Witnesses examined: Nagaraj Swamy (P-0232), Nagaraj Gowda (P-0113).
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,22 @@
+FIR ID: FIR-0295
+FIR Number: 295/2026
+Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-02-24 at 16:35:00
+Date of Registration: 2026-02-26
+Investigating Officer: PSI Ananya Reddy
+Status: chargesheeted
+
+Complaint:
+On 2026-02-24, Roopa Shetty (P-0186), a resident of 26, Cross Road, Chittapur, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Naik (P-0046).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

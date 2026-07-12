@@ -1,0 +1,22 @@
+FIR ID: FIR-0057
+FIR Number: 057/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-08-02 at 03:02:00
+Date of Registration: 2025-08-05
+Investigating Officer: PSI Suresh Reddy
+Status: closed
+
+Complaint:
+On 2025-08-02, Kiran Shetty (P-0134), a resident of 147, Main Road, Yelahanka, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Kulkarni (P-0007), Ramesh Swamy (P-0020).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

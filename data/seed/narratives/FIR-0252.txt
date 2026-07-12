@@ -1,0 +1,22 @@
+FIR ID: FIR-0252
+FIR Number: 252/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-11-09 at 11:54:00
+Date of Registration: 2025-11-11
+Investigating Officer: PSI Prakash Achar
+Status: closed
+
+Complaint:
+On 2025-11-09, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Vidya Gowda (P-0043).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

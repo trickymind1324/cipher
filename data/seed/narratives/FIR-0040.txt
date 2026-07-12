@@ -1,0 +1,22 @@
+FIR ID: FIR-0040
+FIR Number: 040/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-08-26 at 20:38:00
+Date of Registration: 2025-08-27
+Investigating Officer: PSI Umesh Gowda
+Status: chargesheeted
+
+Complaint:
+On 2025-08-26, Naveen Kulkarni (P-0262), a resident of 63, Colony, Krishnaraja, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067), Shivakumar Achar (P-0048).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
