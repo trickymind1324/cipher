@@ -18,7 +18,11 @@ import { writeFileSync, mkdirSync, rmSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const ROOT = join(dirname(fileURLToPath(import.meta.url)), 'seed');
+const HERE = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(HERE, 'seed');
+// The function bundles its own copy of the tables so it can serve them without a
+// Data Store round-trip. Generated here (not copied by hand) so the two never drift.
+const FN_DATA = join(HERE, '..', 'functions', 'api', 'data');
 const SEED = 20260712;
 
 // ── deterministic PRNG (mulberry32) ────────────────────────────────────────────
@@ -422,9 +426,11 @@ mkdirSync(join(ROOT, 'narratives'), { recursive: true });
 const firPublic = fir.map(({ _accused, _complainant, _witnesses, ...rest }) => rest);
 
 const tables = { person, fir: firPublic, fir_party, attribute, socio_economic, police_station };
+mkdirSync(FN_DATA, { recursive: true });
 for (const [name, rows] of Object.entries(tables)) {
 	writeFileSync(join(ROOT, `${name}.json`), JSON.stringify(rows, null, 2));
 	writeFileSync(join(ROOT, `${name}.csv`), toCsv(rows));
+	writeFileSync(join(FN_DATA, `${name}.json`), JSON.stringify(rows));
 }
 
 let maxDoc = 0;
