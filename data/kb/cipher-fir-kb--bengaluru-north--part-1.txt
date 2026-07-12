@@ -1,0 +1,3806 @@
+CIPHER — FIR NARRATIVE RECORDS
+District: Bengaluru North
+Part 1
+Records in this document: 152 (FIR-0001 … FIR-0299)
+Each record below begins with its FIR ID. Cite that ID when answering.
+ALL RECORDS ARE SYNTHETIC — generated for the CIPHER prototype, not real FIRs.
+
+======================================================================
+
+FIR ID: FIR-0001
+FIR Number: 001/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-07-04 at 12:51:00
+Date of Registration: 2024-07-06
+Investigating Officer: PSI Pooja Reddy
+Status: chargesheeted
+
+Complaint:
+On 2024-07-04, Rakesh Naik (P-0131), a resident of 21, Colony, Peenya, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Achar (P-0074), Imran Kulkarni (P-0007).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0005
+FIR Number: 005/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-14 at 00:19:00
+Date of Registration: 2026-04-14
+Investigating Officer: PSI Pooja Patil
+Status: chargesheeted
+
+Complaint:
+On 2026-04-14, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Bhat (P-0033).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0006
+FIR Number: 006/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-12-20 at 16:44:00
+Date of Registration: 2024-12-22
+Investigating Officer: PSI Shwetha Achar
+Status: under investigation
+
+Complaint:
+On 2024-12-20, Basavaraj Jadhav (P-0174), a resident of 117, Cross Road, Yelahanka, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Reddy (P-0089), Girish Achar (P-0075).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0008
+FIR Number: 008/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-11-21 at 10:20:00
+Date of Registration: 2025-11-22
+Investigating Officer: PSI Manjunath Desai
+Status: under investigation
+
+Complaint:
+On 2025-11-21, Naveen Murthy (P-0109), a resident of 176, Cross Road, Peenya, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Basavaraj Pujari (P-0087), Prakash Achar (P-0003).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0009
+FIR Number: 009/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-01-02 at 22:40:00
+Date of Registration: 2025-01-05
+Investigating Officer: PSI Santhosh Kamath
+Status: chargesheeted
+
+Complaint:
+On 2025-01-02, Girish Desai (P-0290), a resident of 108, Cross Road, Peenya, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015), Ravi Patil (P-0070).
+
+Witnesses:
+Witnesses examined: Umesh Kulkarni (P-0199), Lokesh Swamy (P-0100).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0016
+FIR Number: 016/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-15 at 22:04:00
+Date of Registration: 2026-02-17
+Investigating Officer: PSI Mahesh Bhat
+Status: under investigation
+
+Complaint:
+On 2026-02-15, Kiran Murthy (P-0207), a resident of 147, Extension, Hebbal, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0017
+FIR Number: 017/2024
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-08-22 at 01:37:00
+Date of Registration: 2024-08-22
+Investigating Officer: PSI Santhosh Swamy
+Status: under investigation
+
+Complaint:
+On 2024-08-22, Bhavya Gowda (P-0195), a resident of 122, Colony, Yelahanka, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Jadhav (P-0028), Imran Kulkarni (P-0007).
+
+Witnesses:
+Witnesses examined: Prakash Achar (P-0115), Kiran Prasad (P-0202).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0023
+FIR Number: 023/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2026-02-25 at 02:54:00
+Date of Registration: 2026-02-28
+Investigating Officer: PSI Kavitha Desai
+Status: under investigation
+
+Complaint:
+On 2026-02-25, Girish Reddy (P-0182), a resident of 104, Colony, Yelahanka, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0025
+FIR Number: 025/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-01-07 at 18:20:00
+Date of Registration: 2026-01-10
+Investigating Officer: PSI Manjunath Pujari
+Status: chargesheeted
+
+Complaint:
+On 2026-01-07, Pooja Desai (P-0201), a resident of 6, Colony, Peenya, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Kiran Rao (P-0058), Prakash Gowda (P-0009).
+
+Witnesses:
+Witnesses examined: Basavaraj Jadhav (P-0174), Ramesh Prasad (P-0108).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0027
+FIR Number: 027/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-06-06 at 12:03:00
+Date of Registration: 2025-06-09
+Investigating Officer: PSI Farhan Kumar
+Status: closed
+
+Complaint:
+On 2025-06-06, Harish Hegde (P-0311), a resident of 170, Extension, Yelahanka, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0028
+FIR Number: 028/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-09-13 at 06:42:00
+Date of Registration: 2025-09-15
+Investigating Officer: PSI Nagaraj Bhat
+Status: chargesheeted
+
+Complaint:
+On 2025-09-13, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Basavaraj Pujari (P-0087), Harish Rao (P-0032).
+
+Witnesses:
+Witnesses examined: Prakash Hegde (P-0263).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0031
+FIR Number: 031/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2024-12-25 at 17:12:00
+Date of Registration: 2024-12-25
+Investigating Officer: PSI Ananya Shetty
+Status: closed
+
+Complaint:
+On 2024-12-25, Farhan Swamy (P-0215), a resident of 16, Cross Road, Peenya, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061).
+
+Witnesses:
+Witnesses examined: Santhosh Jadhav (P-0221).
+
+This case was registered under NDPS 20; NDPS 22 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0032
+FIR Number: 032/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-09-10 at 05:35:00
+Date of Registration: 2025-09-10
+Investigating Officer: PSI Vidya Kamath
+Status: under investigation
+
+Complaint:
+On 2025-09-10, Farhan Shetty (P-0140), a resident of 179, Main Road, Yelahanka, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0033
+FIR Number: 033/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-12-28 at 05:26:00
+Date of Registration: 2025-12-30
+Investigating Officer: PSI Shivakumar Prasad
+Status: under investigation
+
+Complaint:
+On 2025-12-28, Chetan Jadhav (P-0303), a resident of 70, Colony, Yelahanka, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Ravi Patil (P-0070).
+
+Witnesses:
+Witnesses examined: Ananya Gowda (P-0270).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0035
+FIR Number: 035/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-02-07 at 17:44:00
+Date of Registration: 2025-02-07
+Investigating Officer: PSI Basavaraj Naik
+Status: chargesheeted
+
+Complaint:
+On 2025-02-07, Deepa Shetty (P-0256), a resident of 10, Extension, Yelahanka, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063), Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0036
+FIR Number: 036/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-08-17 at 17:19:00
+Date of Registration: 2025-08-19
+Investigating Officer: PSI Ravi Gowda
+Status: closed
+
+Complaint:
+On 2025-08-17, Savitha Achar (P-0206), a resident of 135, Cross Road, Peenya, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Reddy (P-0089), Lakshmi Murthy (P-0037).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0037
+FIR Number: 037/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-03-20 at 00:14:00
+Date of Registration: 2026-03-20
+Investigating Officer: PSI Imran Gowda
+Status: chargesheeted
+
+Complaint:
+On 2026-03-20, Vinay Gowda (P-0321), a resident of 74, Layout, Yelahanka, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045), Basavaraj Pujari (P-0087), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0041
+FIR Number: 041/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-09-28 at 11:39:00
+Date of Registration: 2024-09-28
+Investigating Officer: PSI Anand Shetty
+Status: chargesheeted
+
+Complaint:
+On 2024-09-28, Shwetha Achar (P-0301), a resident of 82, Main Road, RT Nagar, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0042
+FIR Number: 042/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2024-10-25 at 04:25:00
+Date of Registration: 2024-10-26
+Investigating Officer: PSI Naveen Gowda
+Status: chargesheeted
+
+Complaint:
+On 2024-10-25, Prakash Desai (P-0193), a resident of 75, Cross Road, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Achar (P-0074).
+
+Witnesses:
+Witnesses examined: Vidya Patil (P-0264), Nandini Patil (P-0224).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0043
+FIR Number: 043/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-01-26 at 23:36:00
+Date of Registration: 2025-01-28
+Investigating Officer: PSI Suresh Bhat
+Status: chargesheeted
+
+Complaint:
+On 2025-01-26, Vinay Desai (P-0205), a resident of 67, Extension, Peenya, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Rao (P-0058), Girish Achar (P-0075).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0044
+FIR Number: 044/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-01-05 at 17:21:00
+Date of Registration: 2025-01-08
+Investigating Officer: PSI Vidya Bhat
+Status: under investigation
+
+Complaint:
+On 2025-01-05, Prakash Desai (P-0193), a resident of 75, Cross Road, Yelahanka, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Naveen Kamath (P-0209).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0045
+FIR Number: 045/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-09-06 at 02:23:00
+Date of Registration: 2025-09-07
+Investigating Officer: PSI Girish Prasad
+Status: closed
+
+Complaint:
+On 2025-09-06, Nagaraj Gowda (P-0096), a resident of 161, Cross Road, Peenya, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Gowda (P-0009).
+
+Witnesses:
+Witnesses examined: Girish Reddy (P-0324), Bhavya Gowda (P-0309).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0046
+FIR Number: 046/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-03-27 at 21:48:00
+Date of Registration: 2026-03-30
+Investigating Officer: PSI Nagaraj Kumar
+Status: chargesheeted
+
+Complaint:
+On 2026-03-27, Farhan Shetty (P-0140), a resident of 179, Main Road, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Gowda (P-0009), Lakshmi Bhat (P-0033).
+
+Witnesses:
+Witnesses examined: Kiran Prasad (P-0114), Ravi Hegde (P-0118).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0047
+FIR Number: 047/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-02-24 at 02:27:00
+Date of Registration: 2026-02-27
+Investigating Officer: PSI Manjunath Desai
+Status: closed
+
+Complaint:
+On 2026-02-24, Harish Hegde (P-0311), a resident of 170, Extension, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Naik (P-0065), Lakshmi Bhat (P-0033).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0048
+FIR Number: 048/2024
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-08-06 at 07:21:00
+Date of Registration: 2024-08-06
+Investigating Officer: PSI Ravi Swamy
+Status: chargesheeted
+
+Complaint:
+On 2024-08-06, Ananya Rao (P-0126), a resident of 176, Cross Road, RT Nagar, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Shivakumar Shetty (P-0060).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0050
+FIR Number: 050/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-12-16 at 03:14:00
+Date of Registration: 2025-12-16
+Investigating Officer: PSI Farhan Kamath
+Status: under investigation
+
+Complaint:
+On 2025-12-16, Prakash Desai (P-0193), a resident of 75, Cross Road, Yelahanka, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Vinay Gowda (P-0321).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0053
+FIR Number: 053/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-09-11 at 23:11:00
+Date of Registration: 2025-09-13
+Investigating Officer: PSI Umesh Hegde
+Status: chargesheeted
+
+Complaint:
+On 2025-09-11, Vinay Desai (P-0205), a resident of 67, Extension, Peenya, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Shivakumar Shetty (P-0060), Santhosh Rao (P-0021).
+
+Witnesses:
+Witnesses examined: Deepa Kumar (P-0170).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0054
+FIR Number: 054/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-11-22 at 09:31:00
+Date of Registration: 2025-11-24
+Investigating Officer: PSI Yusuf Murthy
+Status: chargesheeted
+
+Complaint:
+On 2025-11-22, Bhavya Gowda (P-0195), a resident of 122, Colony, Yelahanka, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Bhat (P-0033), Kavitha Naik (P-0065).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0055
+FIR Number: 055/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-10-21 at 05:01:00
+Date of Registration: 2025-10-23
+Investigating Officer: PSI Imran Achar
+Status: under investigation
+
+Complaint:
+On 2025-10-21, Naveen Patil (P-0197), a resident of 9, Cross Road, Yelahanka, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045), Basavaraj Pujari (P-0087), Ravi Patil (P-0070).
+
+Witnesses:
+Witnesses examined: Basavaraj Jadhav (P-0174), Chetan Kumar (P-0284).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0056
+FIR Number: 056/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-10-28 at 01:41:00
+Date of Registration: 2025-10-29
+Investigating Officer: PSI Mahesh Rao
+Status: under investigation
+
+Complaint:
+On 2025-10-28, Mahesh Jadhav (P-0216), a resident of 123, Layout, Hebbal, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0057
+FIR Number: 057/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-08-02 at 03:02:00
+Date of Registration: 2025-08-05
+Investigating Officer: PSI Suresh Reddy
+Status: closed
+
+Complaint:
+On 2025-08-02, Kiran Shetty (P-0134), a resident of 147, Main Road, Yelahanka, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Kulkarni (P-0007), Ramesh Swamy (P-0020).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0059
+FIR Number: 059/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-06-22 at 05:26:00
+Date of Registration: 2026-06-22
+Investigating Officer: PSI Lokesh Swamy
+Status: chargesheeted
+
+Complaint:
+On 2026-06-22, Kiran Rao (P-0272), a resident of 172, Main Road, RT Nagar, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Naik (P-0065).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0063
+FIR Number: 063/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-05 at 13:48:00
+Date of Registration: 2026-04-08
+Investigating Officer: PSI Harish Swamy
+Status: closed
+
+Complaint:
+On 2026-04-05, Farhan Patil (P-0238), a resident of 76, Cross Road, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Ravi Patil (P-0070).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0064
+FIR Number: 064/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-10-07 at 10:23:00
+Date of Registration: 2025-10-10
+Investigating Officer: PSI Naveen Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2025-10-07, Roopa Reddy (P-0316), a resident of 1, Cross Road, Peenya, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Reddy (P-0089), Prakash Achar (P-0003).
+
+Witnesses:
+Witnesses examined: Ravi Naik (P-0145), Vinay Achar (P-0180).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0068
+FIR Number: 068/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-05-02 at 09:30:00
+Date of Registration: 2026-05-03
+Investigating Officer: PSI Ramesh Reddy
+Status: chargesheeted
+
+Complaint:
+On 2026-05-02, Imran Naik (P-0223), a resident of 13, Extension, Yelahanka, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020).
+
+Witnesses:
+Witnesses examined: Chetan Jadhav (P-0303), Shivakumar Gowda (P-0127).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0069
+FIR Number: 069/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-07-14 at 05:38:00
+Date of Registration: 2025-07-16
+Investigating Officer: PSI Anand Kulkarni
+Status: under investigation
+
+Complaint:
+On 2025-07-14, Manjunath Rao (P-0178), a resident of 16, Layout, Yelahanka, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0070
+FIR Number: 070/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-12-02 at 11:39:00
+Date of Registration: 2025-12-03
+Investigating Officer: PSI Santhosh Jadhav
+Status: under investigation
+
+Complaint:
+On 2025-12-02, Nandini Patil (P-0224), a resident of 156, Main Road, Yelahanka, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Harish Hegde (P-0311), Pooja Desai (P-0201).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0071
+FIR Number: 071/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2024-08-16 at 17:49:00
+Date of Registration: 2024-08-18
+Investigating Officer: PSI Savitha Rao
+Status: under investigation
+
+Complaint:
+On 2024-08-16, Farhan Prasad (P-0330), a resident of 152, Cross Road, Peenya, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Kiran Kumar (P-0045), Kiran Jadhav (P-0038).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0072
+FIR Number: 072/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-06-13 at 05:04:00
+Date of Registration: 2025-06-15
+Investigating Officer: PSI Harish Desai
+Status: under investigation
+
+Complaint:
+On 2025-06-13, Chetan Prasad (P-0185), a resident of 48, Cross Road, Hebbal, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002), Kiran Kumar (P-0045).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0073
+FIR Number: 073/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-03-27 at 19:34:00
+Date of Registration: 2026-03-27
+Investigating Officer: PSI Ramesh Achar
+Status: chargesheeted
+
+Complaint:
+On 2026-03-27, Vinay Gowda (P-0321), a resident of 74, Layout, Yelahanka, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Kiran Jadhav (P-0038), Kiran Kumar (P-0045).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0074
+FIR Number: 074/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-09-05 at 16:43:00
+Date of Registration: 2024-09-06
+Investigating Officer: PSI Pooja Gowda
+Status: closed
+
+Complaint:
+On 2024-09-05, Vidya Patil (P-0264), a resident of 109, Extension, RT Nagar, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Kulkarni (P-0007).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0076
+FIR Number: 076/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-03-14 at 21:32:00
+Date of Registration: 2026-03-17
+Investigating Officer: PSI Anand Kamath
+Status: chargesheeted
+
+Complaint:
+On 2026-03-14, Savitha Achar (P-0206), a resident of 135, Cross Road, Peenya, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0077
+FIR Number: 077/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2024-07-18 at 01:21:00
+Date of Registration: 2024-07-21
+Investigating Officer: PSI Ravi Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2024-07-18, Nagaraj Gowda (P-0096), a resident of 161, Cross Road, Peenya, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061), Ramesh Jadhav (P-0028).
+
+Witnesses:
+Witnesses examined: Savitha Achar (P-0206).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0081
+FIR Number: 081/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2024-11-02 at 12:55:00
+Date of Registration: 2024-11-05
+Investigating Officer: PSI Shivakumar Kumar
+Status: chargesheeted
+
+Complaint:
+On 2024-11-02, Ananya Rao (P-0126), a resident of 176, Cross Road, RT Nagar, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Anand Murthy (P-0002), Prakash Gowda (P-0009).
+
+Witnesses:
+Witnesses examined: Savitha Achar (P-0206).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0085
+FIR Number: 085/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-03-09 at 03:47:00
+Date of Registration: 2026-03-11
+Investigating Officer: PSI Bhavya Reddy
+Status: chargesheeted
+
+Complaint:
+On 2026-03-09, Girish Patil (P-0281), a resident of 159, Layout, RT Nagar, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045), Ravi Patil (P-0070), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0086
+FIR Number: 086/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-07-12 at 02:04:00
+Date of Registration: 2025-07-12
+Investigating Officer: PSI Harish Naik
+Status: under investigation
+
+Complaint:
+On 2025-07-12, Deepa Shetty (P-0256), a resident of 10, Extension, Yelahanka, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Achar (P-0003).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0087
+FIR Number: 087/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-08-19 at 15:58:00
+Date of Registration: 2025-08-20
+Investigating Officer: PSI Ravi Reddy
+Status: chargesheeted
+
+Complaint:
+On 2025-08-19, Imran Shetty (P-0251), a resident of 41, Main Road, RT Nagar, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Reddy (P-0062).
+
+Witnesses:
+Witnesses examined: Naveen Kamath (P-0209), Vinay Desai (P-0205).
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0091
+FIR Number: 091/2024
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2024-11-12 at 18:34:00
+Date of Registration: 2024-11-13
+Investigating Officer: PSI Ramesh Hegde
+Status: chargesheeted
+
+Complaint:
+On 2024-11-12, Shivakumar Gowda (P-0127), a resident of 48, Main Road, RT Nagar, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Ravi Patil (P-0070), Kiran Kumar (P-0045).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0092
+FIR Number: 092/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-02-28 at 23:09:00
+Date of Registration: 2025-03-01
+Investigating Officer: PSI Vinay Patil
+Status: chargesheeted
+
+Complaint:
+On 2025-02-28, Prakash Desai (P-0193), a resident of 75, Cross Road, Yelahanka, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Ravi Patil (P-0070).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0095
+FIR Number: 095/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-11-10 at 00:10:00
+Date of Registration: 2024-11-10
+Investigating Officer: PSI Vinay Swamy
+Status: closed
+
+Complaint:
+On 2024-11-10, Roopa Reddy (P-0316), a resident of 1, Cross Road, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0096
+FIR Number: 096/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-01-16 at 16:55:00
+Date of Registration: 2025-01-19
+Investigating Officer: PSI Girish Gowda
+Status: under investigation
+
+Complaint:
+On 2025-01-16, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Kulkarni (P-0007).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0101
+FIR Number: 101/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-05-13 at 16:32:00
+Date of Registration: 2026-05-15
+Investigating Officer: PSI Anand Murthy
+Status: chargesheeted
+
+Complaint:
+On 2026-05-13, Manjunath Rao (P-0329), a resident of 5, Colony, Yelahanka, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0102
+FIR Number: 102/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-01-07 at 02:14:00
+Date of Registration: 2026-01-10
+Investigating Officer: PSI Deepa Kumar
+Status: under investigation
+
+Complaint:
+On 2026-01-07, Naveen Kulkarni (P-0213), a resident of 157, Cross Road, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Manjunath Rao (P-0329), Ananya Gowda (P-0231).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0106
+FIR Number: 106/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2024-07-14 at 07:52:00
+Date of Registration: 2024-07-16
+Investigating Officer: PSI Pooja Rao
+Status: under investigation
+
+Complaint:
+On 2024-07-14, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045), Kiran Jadhav (P-0038).
+
+Witnesses:
+Witnesses examined: Shwetha Achar (P-0301), Imran Desai (P-0327).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0111
+FIR Number: 111/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-08-14 at 06:36:00
+Date of Registration: 2025-08-17
+Investigating Officer: PSI Shivakumar Bhat
+Status: chargesheeted
+
+Complaint:
+On 2025-08-14, Vinay Achar (P-0180), a resident of 3, Cross Road, RT Nagar, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0112
+FIR Number: 112/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-02-02 at 08:49:00
+Date of Registration: 2026-02-05
+Investigating Officer: PSI Rakesh Jadhav
+Status: under investigation
+
+Complaint:
+On 2026-02-02, Imran Shetty (P-0236), a resident of 85, Colony, Peenya, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Kiran Kumar (P-0045).
+
+Witnesses:
+Witnesses examined: Lakshmi Rao (P-0271), Manjunath Rao (P-0329).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0113
+FIR Number: 113/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-11-19 at 12:49:00
+Date of Registration: 2025-11-21
+Investigating Officer: PSI Suresh Bhat
+Status: under investigation
+
+Complaint:
+On 2025-11-19, Prakash Desai (P-0193), a resident of 75, Cross Road, Yelahanka, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0114
+FIR Number: 114/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2024-07-17 at 15:11:00
+Date of Registration: 2024-07-17
+Investigating Officer: PSI Basavaraj Hegde
+Status: under investigation
+
+Complaint:
+On 2024-07-17, Vinay Desai (P-0205), a resident of 67, Extension, Peenya, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0116
+FIR Number: 116/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-11-14 at 17:49:00
+Date of Registration: 2024-11-15
+Investigating Officer: PSI Imran Rao
+Status: under investigation
+
+Complaint:
+On 2024-11-14, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0118
+FIR Number: 118/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-12-24 at 21:44:00
+Date of Registration: 2025-12-25
+Investigating Officer: PSI Basavaraj Reddy
+Status: under investigation
+
+Complaint:
+On 2025-12-24, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Roopa Hegde (P-0149).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0123
+FIR Number: 123/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2024-09-16 at 17:49:00
+Date of Registration: 2024-09-19
+Investigating Officer: PSI Mahesh Gowda
+Status: chargesheeted
+
+Complaint:
+On 2024-09-16, Farhan Patil (P-0238), a resident of 76, Cross Road, Yelahanka, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0124
+FIR Number: 124/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-08-26 at 18:04:00
+Date of Registration: 2025-08-27
+Investigating Officer: PSI Ramesh Rao
+Status: chargesheeted
+
+Complaint:
+On 2025-08-26, Santhosh Patil (P-0235), a resident of 8, Cross Road, Peenya, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Girish Shetty (P-0024), Harish Rao (P-0032).
+
+Witnesses:
+Witnesses examined: Ananya Gowda (P-0231).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0126
+FIR Number: 126/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-07-01 at 10:51:00
+Date of Registration: 2025-07-03
+Investigating Officer: PSI Vidya Jadhav
+Status: closed
+
+Complaint:
+On 2025-07-01, Prakash Achar (P-0115), a resident of 151, Main Road, Yelahanka, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Girish Shetty (P-0024).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0128
+FIR Number: 128/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-01-15 at 21:51:00
+Date of Registration: 2025-01-18
+Investigating Officer: PSI Shivakumar Bhat
+Status: under investigation
+
+Complaint:
+On 2025-01-15, Kiran Shetty (P-0134), a resident of 147, Main Road, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0129
+FIR Number: 129/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-03-22 at 11:14:00
+Date of Registration: 2025-03-25
+Investigating Officer: PSI Bhavya Jadhav
+Status: under investigation
+
+Complaint:
+On 2025-03-22, Shivakumar Gowda (P-0127), a resident of 48, Main Road, RT Nagar, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Vinay Patil (P-0157), Rakesh Naik (P-0131).
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0130
+FIR Number: 130/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-04-22 at 22:33:00
+Date of Registration: 2025-04-24
+Investigating Officer: PSI Shivakumar Gowda
+Status: chargesheeted
+
+Complaint:
+On 2025-04-22, Girish Desai (P-0290), a resident of 108, Cross Road, Peenya, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Naik (P-0065), Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0132
+FIR Number: 132/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-07-22 at 14:59:00
+Date of Registration: 2024-07-23
+Investigating Officer: PSI Basavaraj Kulkarni
+Status: closed
+
+Complaint:
+On 2024-07-22, Pooja Hegde (P-0161), a resident of 3, Extension, RT Nagar, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Bhat (P-0033).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0134
+FIR Number: 134/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-05-11 at 23:54:00
+Date of Registration: 2026-05-12
+Investigating Officer: PSI Santhosh Rao
+Status: chargesheeted
+
+Complaint:
+On 2026-05-11, Vidya Reddy (P-0172), a resident of 104, Extension, Yelahanka, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Basavaraj Pujari (P-0087).
+
+Witnesses:
+Witnesses examined: Nagaraj Rao (P-0312), Savitha Achar (P-0206).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0139
+FIR Number: 139/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-01-03 at 13:18:00
+Date of Registration: 2025-01-06
+Investigating Officer: PSI Mahesh Murthy
+Status: closed
+
+Complaint:
+On 2025-01-03, Ravi Naik (P-0145), a resident of 142, Layout, Peenya, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045).
+
+Witnesses:
+Witnesses examined: Kiran Rao (P-0272), Roopa Hegde (P-0149).
+
+This case was registered under IPC 323; IPC 324 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0141
+FIR Number: 141/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-10-13 at 13:02:00
+Date of Registration: 2024-10-15
+Investigating Officer: PSI Shwetha Kulkarni
+Status: under investigation
+
+Complaint:
+On 2024-10-13, Manjunath Rao (P-0178), a resident of 16, Layout, Yelahanka, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Naik (P-0065), Prakash Gowda (P-0009).
+
+Witnesses:
+Witnesses examined: Lakshmi Kumar (P-0153).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0142
+FIR Number: 142/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2024-12-15 at 04:29:00
+Date of Registration: 2024-12-17
+Investigating Officer: PSI Harish Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2024-12-15, Santhosh Patil (P-0235), a resident of 8, Cross Road, Peenya, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Santhosh Rao (P-0021).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0146
+FIR Number: 146/2026
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-07 at 13:50:00
+Date of Registration: 2026-02-07
+Investigating Officer: PSI Naveen Prasad
+Status: under investigation
+
+Complaint:
+On 2026-02-07, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Kiran Rao (P-0058).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0147
+FIR Number: 147/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-04-06 at 11:08:00
+Date of Registration: 2025-04-08
+Investigating Officer: PSI Harish Hegde
+Status: closed
+
+Complaint:
+On 2025-04-06, Rakesh Naik (P-0131), a resident of 21, Colony, Peenya, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Santhosh Rao (P-0021), Girish Shetty (P-0024).
+
+Witnesses:
+Witnesses examined: Harish Hegde (P-0311).
+
+This case was registered under NDPS 20; NDPS 22 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0148
+FIR Number: 148/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-09-10 at 09:59:00
+Date of Registration: 2025-09-12
+Investigating Officer: PSI Roopa Prasad
+Status: closed
+
+Complaint:
+On 2025-09-10, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Achar (P-0075).
+
+Witnesses:
+Witnesses examined: Kiran Rao (P-0272).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0149
+FIR Number: 149/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-11-24 at 15:31:00
+Date of Registration: 2025-11-26
+Investigating Officer: PSI Savitha Gowda
+Status: under investigation
+
+Complaint:
+On 2025-11-24, Nagaraj Gowda (P-0096), a resident of 161, Cross Road, Peenya, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Rao (P-0058), Vidya Gowda (P-0043).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0150
+FIR Number: 150/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-12-14 at 13:38:00
+Date of Registration: 2025-12-17
+Investigating Officer: PSI Prakash Prasad
+Status: chargesheeted
+
+Complaint:
+On 2025-12-14, Naveen Kamath (P-0209), a resident of 142, Main Road, Hebbal, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Murthy (P-0037), Roopa Murthy (P-0015).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0151
+FIR Number: 151/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-11-02 at 02:57:00
+Date of Registration: 2025-11-04
+Investigating Officer: PSI Nagaraj Shetty
+Status: closed
+
+Complaint:
+On 2025-11-02, Savitha Achar (P-0206), a resident of 135, Cross Road, Peenya, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Bhat (P-0033).
+
+Witnesses:
+Witnesses examined: Naveen Kulkarni (P-0213), Umesh Kulkarni (P-0199).
+
+This case was registered under NDPS 20; NDPS 22 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0152
+FIR Number: 152/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-01-26 at 05:54:00
+Date of Registration: 2025-01-27
+Investigating Officer: PSI Mahesh Rao
+Status: chargesheeted
+
+Complaint:
+On 2025-01-26, Chetan Pujari (P-0314), a resident of 12, Cross Road, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015).
+
+Witnesses:
+Witnesses examined: Manjunath Rao (P-0178).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0153
+FIR Number: 153/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-07-25 at 23:18:00
+Date of Registration: 2025-07-27
+Investigating Officer: PSI Lakshmi Reddy
+Status: under investigation
+
+Complaint:
+On 2025-07-25, Chetan Jadhav (P-0303), a resident of 70, Colony, Yelahanka, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0154
+FIR Number: 154/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-03-02 at 21:51:00
+Date of Registration: 2025-03-05
+Investigating Officer: PSI Umesh Kulkarni
+Status: chargesheeted
+
+Complaint:
+On 2025-03-02, Ananya Gowda (P-0231), a resident of 168, Main Road, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002).
+
+Witnesses:
+Witnesses examined: Prakash Hegde (P-0263), Girish Reddy (P-0182).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0155
+FIR Number: 155/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-10-21 at 12:54:00
+Date of Registration: 2025-10-24
+Investigating Officer: PSI Ananya Reddy
+Status: chargesheeted
+
+Complaint:
+On 2025-10-21, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Reddy (P-0089), Kavitha Naik (P-0065).
+
+Witnesses:
+Witnesses examined: Prakash Achar (P-0115).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0158
+FIR Number: 158/2026
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-06-11 at 04:27:00
+Date of Registration: 2026-06-14
+Investigating Officer: PSI Lakshmi Achar
+Status: closed
+
+Complaint:
+On 2026-06-11, Harish Shetty (P-0142), a resident of 31, Cross Road, RT Nagar, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0159
+FIR Number: 159/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-03-14 at 18:41:00
+Date of Registration: 2025-03-14
+Investigating Officer: PSI Nandini Naik
+Status: closed
+
+Complaint:
+On 2025-03-14, Harish Hegde (P-0311), a resident of 170, Extension, Yelahanka, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Naveen Hegde (P-0052).
+
+Witnesses:
+Witnesses examined: Savitha Shetty (P-0122).
+
+This case was registered under NDPS 20; NDPS 22 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0160
+FIR Number: 160/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-08-10 at 19:07:00
+Date of Registration: 2025-08-11
+Investigating Officer: PSI Kavitha Jadhav
+Status: under investigation
+
+Complaint:
+On 2025-08-10, Chetan Jadhav (P-0303), a resident of 70, Colony, Yelahanka, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Lokesh Naik (P-0299).
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0162
+FIR Number: 162/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-11-27 at 17:40:00
+Date of Registration: 2025-11-29
+Investigating Officer: PSI Mahesh Pujari
+Status: under investigation
+
+Complaint:
+On 2025-11-27, Imran Naik (P-0223), a resident of 13, Extension, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0163
+FIR Number: 163/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-05-11 at 17:29:00
+Date of Registration: 2026-05-13
+Investigating Officer: PSI Savitha Reddy
+Status: under investigation
+
+Complaint:
+On 2026-05-11, Deepa Pujari (P-0248), a resident of 53, Extension, Hebbal, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Reddy (P-0062).
+
+Witnesses:
+Witnesses examined: Pooja Hegde (P-0161), Girish Reddy (P-0182).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0164
+FIR Number: 164/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-07-20 at 18:22:00
+Date of Registration: 2025-07-23
+Investigating Officer: PSI Imran Pujari
+Status: under investigation
+
+Complaint:
+On 2025-07-20, Chetan Jadhav (P-0303), a resident of 70, Colony, Yelahanka, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0166
+FIR Number: 166/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-11-09 at 02:23:00
+Date of Registration: 2025-11-11
+Investigating Officer: PSI Nagaraj Achar
+Status: chargesheeted
+
+Complaint:
+On 2025-11-09, Bhavya Gowda (P-0309), a resident of 55, Colony, Peenya, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Hegde (P-0071).
+
+Witnesses:
+Witnesses examined: Savitha Achar (P-0206), Shwetha Achar (P-0301).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0167
+FIR Number: 167/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-09-15 at 06:36:00
+Date of Registration: 2025-09-15
+Investigating Officer: PSI Rakesh Gowda
+Status: closed
+
+Complaint:
+On 2025-09-15, Imran Desai (P-0327), a resident of 159, Main Road, Hebbal, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Achar (P-0074).
+
+Witnesses:
+Witnesses examined: Bhavya Gowda (P-0309).
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0169
+FIR Number: 169/2026
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-05-10 at 20:24:00
+Date of Registration: 2026-05-10
+Investigating Officer: PSI Suresh Gowda
+Status: chargesheeted
+
+Complaint:
+On 2026-05-10, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Vidya Gowda (P-0043).
+
+Witnesses:
+Witnesses examined: Deepa Shetty (P-0256).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0170
+FIR Number: 170/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-10-18 at 18:49:00
+Date of Registration: 2024-10-19
+Investigating Officer: PSI Vinay Hegde
+Status: under investigation
+
+Complaint:
+On 2024-10-18, Savitha Achar (P-0206), a resident of 135, Cross Road, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Kumar (P-0045).
+
+Witnesses:
+Witnesses examined: Manjunath Naik (P-0249), Umesh Kulkarni (P-0199).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0171
+FIR Number: 171/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-12-06 at 18:48:00
+Date of Registration: 2025-12-09
+Investigating Officer: PSI Prakash Prasad
+Status: chargesheeted
+
+Complaint:
+On 2025-12-06, Santhosh Patil (P-0235), a resident of 8, Cross Road, Peenya, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Kavitha Naik (P-0065).
+
+Witnesses:
+Witnesses examined: Lakshmi Kumar (P-0153).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0176
+FIR Number: 176/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-05-15 at 16:16:00
+Date of Registration: 2026-05-16
+Investigating Officer: PSI Vidya Gowda
+Status: under investigation
+
+Complaint:
+On 2026-05-15, Chetan Prasad (P-0185), a resident of 48, Cross Road, Hebbal, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Ramesh Murthy (P-0278), Bhavya Gowda (P-0195).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0177
+FIR Number: 177/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-06-26 at 02:09:00
+Date of Registration: 2025-06-28
+Investigating Officer: PSI Nagaraj Reddy
+Status: closed
+
+Complaint:
+On 2025-06-26, Shivakumar Shetty (P-0129), a resident of 154, Main Road, Hebbal, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063), Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0178
+FIR Number: 178/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-02-18 at 09:43:00
+Date of Registration: 2026-02-21
+Investigating Officer: PSI Lakshmi Patil
+Status: chargesheeted
+
+Complaint:
+On 2026-02-18, Ramesh Murthy (P-0278), a resident of 45, Cross Road, Peenya, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Harish Rao (P-0032), Girish Shetty (P-0024).
+
+Witnesses:
+Witnesses examined: Prakash Hegde (P-0263).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0179
+FIR Number: 179/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-06-15 at 06:26:00
+Date of Registration: 2025-06-18
+Investigating Officer: PSI Prakash Patil
+Status: chargesheeted
+
+Complaint:
+On 2025-06-15, Prakash Hegde (P-0263), a resident of 47, Layout, RT Nagar, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Naik (P-0065).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0183
+FIR Number: 183/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-10-17 at 09:49:00
+Date of Registration: 2025-10-17
+Investigating Officer: PSI Manjunath Achar
+Status: closed
+
+Complaint:
+On 2025-10-17, Farhan Prasad (P-0330), a resident of 152, Cross Road, Peenya, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Kiran Rao (P-0058).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0186
+FIR Number: 186/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-02-15 at 15:30:00
+Date of Registration: 2025-02-17
+Investigating Officer: PSI Naveen Kamath
+Status: closed
+
+Complaint:
+On 2025-02-15, Lokesh Naik (P-0299), a resident of 90, Cross Road, Hebbal, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020).
+
+Witnesses:
+Witnesses examined: Santhosh Patil (P-0235), Ananya Gowda (P-0231).
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0188
+FIR Number: 188/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-11-17 at 13:32:00
+Date of Registration: 2025-11-17
+Investigating Officer: PSI Manjunath Hegde
+Status: chargesheeted
+
+Complaint:
+On 2025-11-17, Ananya Gowda (P-0270), a resident of 126, Layout, RT Nagar, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002), Kiran Rao (P-0058), Vidya Gowda (P-0043).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0190
+FIR Number: 190/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-07-25 at 21:17:00
+Date of Registration: 2024-07-27
+Investigating Officer: PSI Nandini Shetty
+Status: under investigation
+
+Complaint:
+On 2024-07-25, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063).
+
+Witnesses:
+Witnesses examined: Rakesh Jadhav (P-0292), Nagaraj Rao (P-0312).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0191
+FIR Number: 191/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-05-15 at 08:03:00
+Date of Registration: 2026-05-16
+Investigating Officer: PSI Shwetha Reddy
+Status: closed
+
+Complaint:
+On 2026-05-15, Kiran Murthy (P-0207), a resident of 147, Extension, Hebbal, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0196
+FIR Number: 196/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-02-15 at 04:44:00
+Date of Registration: 2026-02-15
+Investigating Officer: PSI Naveen Kulkarni
+Status: chargesheeted
+
+Complaint:
+On 2026-02-15, Harish Jadhav (P-0276), a resident of 102, Cross Road, RT Nagar, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Mahesh Reddy (P-0062).
+
+Witnesses:
+Witnesses examined: Savitha Shetty (P-0122), Ananya Gowda (P-0231).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0200
+FIR Number: 200/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-18 at 02:01:00
+Date of Registration: 2026-04-21
+Investigating Officer: PSI Yusuf Shetty
+Status: chargesheeted
+
+Complaint:
+On 2026-04-18, Chetan Kumar (P-0284), a resident of 109, Cross Road, Hebbal, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Girish Shetty (P-0024).
+
+Witnesses:
+Witnesses examined: Kiran Prasad (P-0114).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0201
+FIR Number: 201/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-06-04 at 19:45:00
+Date of Registration: 2026-06-06
+Investigating Officer: PSI Suresh Naik
+Status: under investigation
+
+Complaint:
+On 2026-06-04, Pooja Desai (P-0201), a resident of 6, Colony, Peenya, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Rakesh Naik (P-0131), Imran Naik (P-0223).
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0202
+FIR Number: 202/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-02-11 at 21:33:00
+Date of Registration: 2025-02-11
+Investigating Officer: PSI Girish Shetty
+Status: under investigation
+
+Complaint:
+On 2025-02-11, Lakshmi Kumar (P-0153), a resident of 85, Colony, Yelahanka, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0203
+FIR Number: 203/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-03-20 at 01:00:00
+Date of Registration: 2025-03-22
+Investigating Officer: PSI Prakash Shetty
+Status: chargesheeted
+
+Complaint:
+On 2025-03-20, Ananya Gowda (P-0270), a resident of 126, Layout, RT Nagar, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015), Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0206
+FIR Number: 206/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-15 at 06:02:00
+Date of Registration: 2026-04-15
+Investigating Officer: PSI Nandini Prasad
+Status: chargesheeted
+
+Complaint:
+On 2026-04-15, Kiran Prasad (P-0202), a resident of 87, Main Road, Hebbal, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061), Ramesh Jadhav (P-0028).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0208
+FIR Number: 208/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-01-02 at 12:59:00
+Date of Registration: 2025-01-05
+Investigating Officer: PSI Girish Murthy
+Status: chargesheeted
+
+Complaint:
+On 2025-01-02, Nandini Patil (P-0224), a resident of 156, Main Road, Yelahanka, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Shivakumar Shetty (P-0060).
+
+Witnesses:
+Witnesses examined: Girish Reddy (P-0182).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0209
+FIR Number: 209/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-06-27 at 04:19:00
+Date of Registration: 2025-06-27
+Investigating Officer: PSI Lakshmi Bhat
+Status: under investigation
+
+Complaint:
+On 2025-06-27, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0210
+FIR Number: 210/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-02 at 14:21:00
+Date of Registration: 2026-04-02
+Investigating Officer: PSI Santhosh Prasad
+Status: closed
+
+Complaint:
+On 2026-04-02, Mahesh Kumar (P-0110), a resident of 73, Colony, RT Nagar, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Basavaraj Pujari (P-0087), Harish Rao (P-0032), Kiran Jadhav (P-0038).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0213
+FIR Number: 213/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-12-11 at 05:12:00
+Date of Registration: 2025-12-14
+Investigating Officer: PSI Kavitha Kumar
+Status: chargesheeted
+
+Complaint:
+On 2025-12-11, Manjunath Rao (P-0178), a resident of 16, Layout, Yelahanka, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Kiran Kumar (P-0045), Girish Shetty (P-0024).
+
+Witnesses:
+Witnesses examined: Farhan Shetty (P-0140), Farhan Patil (P-0238).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0214
+FIR Number: 214/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-01-06 at 22:43:00
+Date of Registration: 2026-01-08
+Investigating Officer: PSI Savitha Kulkarni
+Status: under investigation
+
+Complaint:
+On 2026-01-06, Umesh Kulkarni (P-0199), a resident of 134, Cross Road, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Kiran Kumar (P-0045).
+
+Witnesses:
+Witnesses examined: Kiran Prasad (P-0202).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0218
+FIR Number: 218/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-01-16 at 09:36:00
+Date of Registration: 2026-01-16
+Investigating Officer: PSI Ananya Swamy
+Status: closed
+
+Complaint:
+On 2026-01-16, Chetan Prasad (P-0185), a resident of 48, Cross Road, Hebbal, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Kiran Jadhav (P-0038).
+
+Witnesses:
+Witnesses examined: Roopa Hegde (P-0149), Kiran Prasad (P-0114).
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0220
+FIR Number: 220/2024
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2024-10-09 at 10:32:00
+Date of Registration: 2024-10-12
+Investigating Officer: PSI Suresh Bhat
+Status: under investigation
+
+Complaint:
+On 2024-10-09, Bhavya Gowda (P-0309), a resident of 55, Colony, Peenya, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0221
+FIR Number: 221/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-01-07 at 13:55:00
+Date of Registration: 2025-01-10
+Investigating Officer: PSI Shivakumar Achar
+Status: chargesheeted
+
+Complaint:
+On 2025-01-07, Savitha Achar (P-0206), a resident of 135, Cross Road, Peenya, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Rao (P-0058).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0224
+FIR Number: 224/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-06-27 at 01:08:00
+Date of Registration: 2026-06-27
+Investigating Officer: PSI Girish Rao
+Status: chargesheeted
+
+Complaint:
+On 2026-06-27, Imran Desai (P-0327), a resident of 159, Main Road, Hebbal, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Santhosh Rao (P-0021).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0225
+FIR Number: 225/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2026-06-11 at 00:44:00
+Date of Registration: 2026-06-12
+Investigating Officer: PSI Mahesh Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2026-06-11, Harish Hegde (P-0311), a resident of 170, Extension, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Santhosh Rao (P-0021).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0226
+FIR Number: 226/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-06-20 at 10:10:00
+Date of Registration: 2026-06-22
+Investigating Officer: PSI Nagaraj Pujari
+Status: chargesheeted
+
+Complaint:
+On 2026-06-20, Rakesh Jadhav (P-0292), a resident of 72, Main Road, Peenya, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Lakshmi Bhat (P-0033).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0227
+FIR Number: 227/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-04-07 at 02:48:00
+Date of Registration: 2025-04-08
+Investigating Officer: PSI Imran Hegde
+Status: closed
+
+Complaint:
+On 2025-04-07, Santhosh Jadhav (P-0221), a resident of 40, Extension, Yelahanka, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Santhosh Rao (P-0021), Chetan Reddy (P-0089).
+
+Witnesses:
+Witnesses examined: Kiran Rao (P-0272), Mahesh Pujari (P-0225).
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0228
+FIR Number: 228/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-11-17 at 15:21:00
+Date of Registration: 2025-11-18
+Investigating Officer: PSI Prakash Rao
+Status: under investigation
+
+Complaint:
+On 2025-11-17, Imran Shetty (P-0251), a resident of 41, Main Road, RT Nagar, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Ravi Patil (P-0070).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0229
+FIR Number: 229/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-04-25 at 12:35:00
+Date of Registration: 2026-04-28
+Investigating Officer: PSI Deepa Desai
+Status: under investigation
+
+Complaint:
+On 2026-04-25, Ramesh Prasad (P-0108), a resident of 121, Layout, RT Nagar, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Farhan Shetty (P-0140).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0232
+FIR Number: 232/2024
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-09-01 at 06:12:00
+Date of Registration: 2024-09-01
+Investigating Officer: PSI Anand Naik
+Status: closed
+
+Complaint:
+On 2024-09-01, Prakash Hegde (P-0263), a resident of 47, Layout, RT Nagar, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0233
+FIR Number: 233/2026
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-05-01 at 14:31:00
+Date of Registration: 2026-05-03
+Investigating Officer: PSI Imran Bhat
+Status: chargesheeted
+
+Complaint:
+On 2026-05-01, Kiran Rao (P-0272), a resident of 172, Main Road, RT Nagar, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Naveen Hegde (P-0052), Lakshmi Murthy (P-0037).
+
+Witnesses:
+Witnesses examined: Basavaraj Jadhav (P-0174), Lokesh Swamy (P-0100).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0234
+FIR Number: 234/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-01-20 at 14:47:00
+Date of Registration: 2025-01-21
+Investigating Officer: PSI Deepa Kumar
+Status: under investigation
+
+Complaint:
+On 2025-01-20, Roopa Reddy (P-0316), a resident of 1, Cross Road, Peenya, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0235
+FIR Number: 235/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-12-24 at 11:41:00
+Date of Registration: 2025-12-27
+Investigating Officer: PSI Deepa Reddy
+Status: under investigation
+
+Complaint:
+On 2025-12-24, Farhan Patil (P-0238), a resident of 76, Cross Road, Yelahanka, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Prakash Achar (P-0003), Lakshmi Bhat (P-0033).
+
+Witnesses:
+Witnesses examined: Savitha Shetty (P-0122), Pooja Hegde (P-0161).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0237
+FIR Number: 237/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-06-12 at 12:51:00
+Date of Registration: 2025-06-15
+Investigating Officer: PSI Vinay Hegde
+Status: under investigation
+
+Complaint:
+On 2025-06-12, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0239
+FIR Number: 239/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-03-02 at 08:28:00
+Date of Registration: 2025-03-02
+Investigating Officer: PSI Mahesh Reddy
+Status: closed
+
+Complaint:
+On 2025-03-02, Bhavya Gowda (P-0309), a resident of 55, Colony, Peenya, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0063), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0240
+FIR Number: 240/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-05-09 at 20:15:00
+Date of Registration: 2026-05-10
+Investigating Officer: PSI Ananya Kamath
+Status: chargesheeted
+
+Complaint:
+On 2026-05-09, Imran Shetty (P-0251), a resident of 41, Main Road, RT Nagar, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Hegde (P-0071), Girish Achar (P-0075).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0242
+FIR Number: 242/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-01-05 at 19:47:00
+Date of Registration: 2026-01-08
+Investigating Officer: PSI Roopa Shetty
+Status: chargesheeted
+
+Complaint:
+On 2026-01-05, Chetan Pujari (P-0314), a resident of 12, Cross Road, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Basavaraj Pujari (P-0087).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0243
+FIR Number: 243/2026
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-18 at 08:47:00
+Date of Registration: 2026-02-20
+Investigating Officer: PSI Kavitha Shetty
+Status: under investigation
+
+Complaint:
+On 2026-02-18, Vidya Patil (P-0264), a resident of 109, Extension, RT Nagar, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Vidya Gowda (P-0043).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0244
+FIR Number: 244/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-03-23 at 22:36:00
+Date of Registration: 2025-03-24
+Investigating Officer: PSI Suresh Hegde
+Status: under investigation
+
+Complaint:
+On 2025-03-23, Umesh Kulkarni (P-0199), a resident of 134, Cross Road, Yelahanka, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Prakash Gowda (P-0009).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0246
+FIR Number: 246/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-01-02 at 21:15:00
+Date of Registration: 2025-01-03
+Investigating Officer: PSI Kiran Desai
+Status: chargesheeted
+
+Complaint:
+On 2025-01-02, Chetan Prasad (P-0185), a resident of 48, Cross Road, Hebbal, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Achar (P-0074).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0247
+FIR Number: 247/2024
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-08-23 at 14:55:00
+Date of Registration: 2024-08-24
+Investigating Officer: PSI Imran Naik
+Status: chargesheeted
+
+Complaint:
+On 2024-08-23, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Hegde (P-0071), Ravi Patil (P-0070).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0248
+FIR Number: 248/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-06-04 at 00:48:00
+Date of Registration: 2025-06-05
+Investigating Officer: PSI Anand Hegde
+Status: chargesheeted
+
+Complaint:
+On 2025-06-04, Ravi Hegde (P-0118), a resident of 130, Main Road, Peenya, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0250
+FIR Number: 250/2024
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-09-14 at 14:43:00
+Date of Registration: 2024-09-17
+Investigating Officer: PSI Roopa Achar
+Status: closed
+
+Complaint:
+On 2024-09-14, Prakash Hegde (P-0263), a resident of 47, Layout, RT Nagar, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Murthy (P-0037).
+
+Witnesses:
+Witnesses examined: Harish Jadhav (P-0276), Mahesh Jadhav (P-0216).
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0252
+FIR Number: 252/2025
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-11-09 at 11:54:00
+Date of Registration: 2025-11-11
+Investigating Officer: PSI Prakash Achar
+Status: closed
+
+Complaint:
+On 2025-11-09, Kiran Shetty (P-0125), a resident of 125, Layout, Hebbal, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Vidya Gowda (P-0043).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0254
+FIR Number: 254/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-04-16 at 17:18:00
+Date of Registration: 2025-04-19
+Investigating Officer: PSI Anand Shetty
+Status: chargesheeted
+
+Complaint:
+On 2025-04-16, Vidya Patil (P-0264), a resident of 109, Extension, RT Nagar, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Nandini Swamy (P-0061).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0257
+FIR Number: 257/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2024-09-28 at 16:36:00
+Date of Registration: 2024-09-30
+Investigating Officer: PSI Rakesh Kamath
+Status: under investigation
+
+Complaint:
+On 2024-09-28, Vidya Reddy (P-0172), a resident of 104, Extension, Yelahanka, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Bhat (P-0033).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0261
+FIR Number: 261/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-11-18 at 05:19:00
+Date of Registration: 2025-11-19
+Investigating Officer: PSI Naveen Jadhav
+Status: closed
+
+Complaint:
+On 2025-11-18, Farhan Kumar (P-0254), a resident of 49, Main Road, Peenya, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ravi Patil (P-0070), Kiran Kumar (P-0045), Kiran Jadhav (P-0038).
+
+Witnesses:
+Witnesses examined: Ananya Rao (P-0126), Naveen Prasad (P-0155).
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0267
+FIR Number: 267/2025
+Police Station: RT Nagar Police Station, RT Nagar, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-07-11 at 06:23:00
+Date of Registration: 2025-07-13
+Investigating Officer: PSI Nagaraj Bhat
+Status: closed
+
+Complaint:
+On 2025-07-11, Umesh Kulkarni (P-0199), a resident of 134, Cross Road, Yelahanka, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of RT Nagar Police Station in RT Nagar, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0268
+FIR Number: 268/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-05-19 at 07:13:00
+Date of Registration: 2025-05-22
+Investigating Officer: PSI Roopa Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2025-05-19, Vinay Kulkarni (P-0239), a resident of 7, Main Road, Yelahanka, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002), Vidya Gowda (P-0043).
+
+Witnesses:
+Witnesses examined: Santhosh Patil (P-0235).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0273
+FIR Number: 273/2024
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-12-26 at 10:57:00
+Date of Registration: 2024-12-27
+Investigating Officer: PSI Kiran Bhat
+Status: under investigation
+
+Complaint:
+On 2024-12-26, Chetan Kumar (P-0284), a resident of 109, Cross Road, Hebbal, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Rakesh Jadhav (P-0292), Girish Desai (P-0290).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0275
+FIR Number: 275/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-06-01 at 18:24:00
+Date of Registration: 2026-06-01
+Investigating Officer: PSI Santhosh Bhat
+Status: chargesheeted
+
+Complaint:
+On 2026-06-01, Deepa Shetty (P-0256), a resident of 10, Extension, Yelahanka, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0002), Kiran Rao (P-0058).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0277
+FIR Number: 277/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-10 at 01:41:00
+Date of Registration: 2026-04-10
+Investigating Officer: PSI Ananya Naik
+Status: closed
+
+Complaint:
+On 2026-04-10, Harish Shetty (P-0142), a resident of 31, Cross Road, RT Nagar, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Harish Rao (P-0032), Kiran Kumar (P-0045), Ravi Patil (P-0070).
+
+Witnesses:
+Witnesses examined: Manjunath Naik (P-0249), Deepa Kumar (P-0170).
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0280
+FIR Number: 280/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-02-23 at 12:36:00
+Date of Registration: 2026-02-23
+Investigating Officer: PSI Kiran Shetty
+Status: chargesheeted
+
+Complaint:
+On 2026-02-23, Imran Naik (P-0223), a resident of 13, Extension, Yelahanka, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Basavaraj Pujari (P-0087), Kiran Kumar (P-0045), Ravi Patil (P-0070).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0287
+FIR Number: 287/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-04-07 at 20:28:00
+Date of Registration: 2026-04-09
+Investigating Officer: PSI Lokesh Swamy
+Status: chargesheeted
+
+Complaint:
+On 2026-04-07, Vidya Reddy (P-0172), a resident of 104, Extension, Yelahanka, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Ramesh Swamy (P-0020), Vidya Gowda (P-0043).
+
+Witnesses:
+Witnesses examined: Farhan Patil (P-0238).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0288
+FIR Number: 288/2025
+Police Station: Peenya Police Station, Peenya, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-09-18 at 14:53:00
+Date of Registration: 2025-09-21
+Investigating Officer: PSI Naveen Shetty
+Status: closed
+
+Complaint:
+On 2025-09-18, Lakshmi Rao (P-0271), a resident of 107, Main Road, RT Nagar, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Peenya Police Station in Peenya, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0038), Ravi Patil (P-0070).
+
+Witnesses:
+Witnesses examined: Ananya Gowda (P-0270).
+
+This case was registered under NDPS 20; NDPS 22 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0291
+FIR Number: 291/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-04-14 at 03:05:00
+Date of Registration: 2025-04-14
+Investigating Officer: PSI Manjunath Achar
+Status: under investigation
+
+Complaint:
+On 2025-04-14, Naveen Kulkarni (P-0213), a resident of 157, Cross Road, RT Nagar, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Ramesh Prasad (P-0108).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0292
+FIR Number: 292/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-05-06 at 19:55:00
+Date of Registration: 2026-05-06
+Investigating Officer: PSI Nandini Naik
+Status: chargesheeted
+
+Complaint:
+On 2026-05-06, Naveen Patil (P-0197), a resident of 9, Cross Road, Yelahanka, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Rao (P-0058), Shivakumar Shetty (P-0060).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0294
+FIR Number: 294/2025
+Police Station: Hebbal Police Station, Hebbal, Bengaluru North district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-11-08 at 08:00:00
+Date of Registration: 2025-11-10
+Investigating Officer: PSI Suresh Prasad
+Status: under investigation
+
+Complaint:
+On 2025-11-08, Vinay Kumar (P-0204), a resident of 67, Colony, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hebbal Police Station in Hebbal, Bengaluru North district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0296
+FIR Number: 296/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-06-15 at 12:59:00
+Date of Registration: 2026-06-15
+Investigating Officer: PSI Rakesh Prasad
+Status: chargesheeted
+
+Complaint:
+On 2026-06-15, Pooja Desai (P-0201), a resident of 6, Colony, Peenya, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Roopa Murthy (P-0015), Kiran Rao (P-0058).
+
+Witnesses:
+Witnesses examined: Manjunath Rao (P-0178).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0299
+FIR Number: 299/2026
+Police Station: Yelahanka Police Station, Yelahanka, Bengaluru North district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-04-06 at 19:10:00
+Date of Registration: 2026-04-07
+Investigating Officer: PSI Kavitha Bhat
+Status: chargesheeted
+
+Complaint:
+On 2026-04-06, Shivakumar Gowda (P-0127), a resident of 48, Main Road, RT Nagar, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Yelahanka Police Station in Yelahanka, Bengaluru North district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Shetty (P-0024), Ravi Patil (P-0070), Harish Rao (P-0032).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

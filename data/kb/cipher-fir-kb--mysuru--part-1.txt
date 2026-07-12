@@ -1,0 +1,1906 @@
+CIPHER — FIR NARRATIVE RECORDS
+District: Mysuru
+Part 1
+Records in this document: 76 (FIR-0003 … FIR-0300)
+Each record below begins with its FIR ID. Cite that ID when answering.
+ALL RECORDS ARE SYNTHETIC — generated for the CIPHER prototype, not real FIRs.
+
+======================================================================
+
+FIR ID: FIR-0003
+FIR Number: 003/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-11-02 at 05:37:00
+Date of Registration: 2025-11-03
+Investigating Officer: PSI Kiran Naik
+Status: chargesheeted
+
+Complaint:
+On 2025-11-02, Naveen Kumar (P-0313), a resident of 140, Extension, Krishnaraja, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Naveen Jadhav (P-0036).
+
+Witnesses:
+Witnesses examined: Imran Murthy (P-0288).
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0007
+FIR Number: 007/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-22 at 20:16:00
+Date of Registration: 2026-02-25
+Investigating Officer: PSI Manjunath Reddy
+Status: under investigation
+
+Complaint:
+On 2026-02-22, Roopa Rao (P-0102), a resident of 160, Colony, Nanjangud, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Vidya Rao (P-0296).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0011
+FIR Number: 011/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-01-12 at 01:11:00
+Date of Registration: 2026-01-14
+Investigating Officer: PSI Lakshmi Swamy
+Status: chargesheeted
+
+Complaint:
+On 2026-01-12, Umesh Reddy (P-0259), a resident of 104, Cross Road, Hunsur, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050), Kavitha Pujari (P-0041).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0014
+FIR Number: 014/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-17 at 06:37:00
+Date of Registration: 2026-04-19
+Investigating Officer: PSI Harish Murthy
+Status: under investigation
+
+Complaint:
+On 2026-04-17, Kiran Achar (P-0188), a resident of 103, Colony, Hunsur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Rao (P-0016).
+
+Witnesses:
+Witnesses examined: Naveen Gowda (P-0230), Ramesh Bhat (P-0111).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0018
+FIR Number: 018/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-11-15 at 16:56:00
+Date of Registration: 2025-11-15
+Investigating Officer: PSI Rakesh Swamy
+Status: chargesheeted
+
+Complaint:
+On 2025-11-15, Suresh Patil (P-0163), a resident of 156, Main Road, Hunsur, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Shetty (P-0039), Deepa Patil (P-0068).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0019
+FIR Number: 019/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-06-06 at 01:14:00
+Date of Registration: 2026-06-06
+Investigating Officer: PSI Naveen Bhat
+Status: closed
+
+Complaint:
+On 2026-06-06, Nandini Naik (P-0173), a resident of 170, Extension, Hunsur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Lokesh Hegde (P-0081), Umesh Hegde (P-0001).
+
+Witnesses:
+Witnesses examined: Chetan Hegde (P-0152).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0020
+FIR Number: 020/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-08-06 at 05:48:00
+Date of Registration: 2025-08-09
+Investigating Officer: PSI Imran Prasad
+Status: chargesheeted
+
+Complaint:
+On 2025-08-06, Roopa Kumar (P-0146), a resident of 131, Layout, Nanjangud, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Yusuf Patil (P-0018), Naveen Jadhav (P-0036).
+
+Witnesses:
+Witnesses examined: Naveen Kamath (P-0136).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0021
+FIR Number: 021/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-11-15 at 00:50:00
+Date of Registration: 2025-11-17
+Investigating Officer: PSI Manjunath Swamy
+Status: chargesheeted
+
+Complaint:
+On 2025-11-15, Farhan Shetty (P-0187), a resident of 28, Cross Road, Hunsur, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Prasad (P-0014), Umesh Hegde (P-0001).
+
+Witnesses:
+Witnesses examined: Naveen Murthy (P-0154), Suresh Prasad (P-0151).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0026
+FIR Number: 026/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-02-06 at 16:55:00
+Date of Registration: 2026-02-08
+Investigating Officer: PSI Girish Patil
+Status: under investigation
+
+Complaint:
+On 2026-02-06, Suresh Prasad (P-0151), a resident of 100, Layout, Nanjangud, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Yusuf Gowda (P-0083).
+
+Witnesses:
+Witnesses examined: Shwetha Kumar (P-0250), Roopa Kumar (P-0146).
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0029
+FIR Number: 029/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-01-25 at 06:49:00
+Date of Registration: 2025-01-27
+Investigating Officer: PSI Pooja Desai
+Status: closed
+
+Complaint:
+On 2025-01-25, Shivakumar Hegde (P-0194), a resident of 76, Main Road, Hunsur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Gowda (P-0057), Kiran Jadhav (P-0047), Lokesh Hegde (P-0081).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0034
+FIR Number: 034/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-10-19 at 19:21:00
+Date of Registration: 2025-10-20
+Investigating Officer: PSI Farhan Kamath
+Status: under investigation
+
+Complaint:
+On 2025-10-19, Anand Bhat (P-0190), a resident of 89, Main Road, Hunsur, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Yusuf Patil (P-0018).
+
+Witnesses:
+Witnesses examined: Mahesh Reddy (P-0234).
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0039
+FIR Number: 039/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-08-09 at 08:27:00
+Date of Registration: 2025-08-09
+Investigating Officer: PSI Bhavya Pujari
+Status: chargesheeted
+
+Complaint:
+On 2025-08-09, Prakash Shetty (P-0208), a resident of 79, Cross Road, Krishnaraja, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Gowda (P-0057).
+
+Witnesses:
+Witnesses examined: Mahesh Jadhav (P-0101).
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0040
+FIR Number: 040/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-08-26 at 20:38:00
+Date of Registration: 2025-08-27
+Investigating Officer: PSI Umesh Gowda
+Status: chargesheeted
+
+Complaint:
+On 2025-08-26, Naveen Kulkarni (P-0262), a resident of 63, Colony, Krishnaraja, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067), Shivakumar Achar (P-0048).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0058
+FIR Number: 058/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-02-13 at 21:48:00
+Date of Registration: 2025-02-16
+Investigating Officer: PSI Basavaraj Murthy
+Status: closed
+
+Complaint:
+On 2025-02-13, Imran Jadhav (P-0175), a resident of 157, Colony, Krishnaraja, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Bhavya Jadhav (P-0084).
+
+Witnesses:
+Witnesses examined: Ravi Desai (P-0289).
+
+This case was registered under IPC 392; IPC 397 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0062
+FIR Number: 062/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-08-01 at 14:21:00
+Date of Registration: 2025-08-02
+Investigating Officer: PSI Girish Jadhav
+Status: chargesheeted
+
+Complaint:
+On 2025-08-01, Ravi Rao (P-0176), a resident of 65, Layout, Hunsur, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Naveen Kamath (P-0136), Ramesh Bhat (P-0111).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0065
+FIR Number: 065/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-09-17 at 05:06:00
+Date of Registration: 2025-09-20
+Investigating Officer: PSI Yusuf Bhat
+Status: under investigation
+
+Complaint:
+On 2025-09-17, Lokesh Jadhav (P-0212), a resident of 14, Layout, Hunsur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0047), Kavitha Pujari (P-0041).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0066
+FIR Number: 066/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-12-24 at 19:58:00
+Date of Registration: 2025-12-26
+Investigating Officer: PSI Chetan Hegde
+Status: closed
+
+Complaint:
+On 2025-12-24, Harish Achar (P-0222), a resident of 11, Extension, Nanjangud, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0047).
+
+Witnesses:
+Witnesses examined: Basavaraj Kamath (P-0300), Ramesh Bhat (P-0111).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0075
+FIR Number: 075/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-06-27 at 14:54:00
+Date of Registration: 2026-06-30
+Investigating Officer: PSI Ramesh Kulkarni
+Status: chargesheeted
+
+Complaint:
+On 2026-06-27, Mahesh Jadhav (P-0101), a resident of 82, Main Road, Krishnaraja, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Naveen Jadhav (P-0036).
+
+Witnesses:
+Witnesses examined: Roopa Rao (P-0102), Savitha Naik (P-0275).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0078
+FIR Number: 078/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-09-07 at 05:59:00
+Date of Registration: 2025-09-08
+Investigating Officer: PSI Vinay Prasad
+Status: under investigation
+
+Complaint:
+On 2025-09-07, Roopa Kamath (P-0162), a resident of 117, Main Road, Nanjangud, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Suresh Patil (P-0163).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0079
+FIR Number: 079/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2024-11-02 at 14:52:00
+Date of Registration: 2024-11-03
+Investigating Officer: PSI Naveen Murthy
+Status: under investigation
+
+Complaint:
+On 2024-11-02, Prakash Achar (P-0166), a resident of 133, Extension, Nanjangud, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0082
+FIR Number: 082/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-11-08 at 02:29:00
+Date of Registration: 2025-11-11
+Investigating Officer: PSI Pooja Murthy
+Status: chargesheeted
+
+Complaint:
+On 2025-11-08, Prakash Hegde (P-0243), a resident of 17, Layout, Nanjangud, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Deepa Patil (P-0068), Roopa Kamath (P-0082).
+
+Witnesses:
+Witnesses examined: Anand Shetty (P-0148).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0083
+FIR Number: 083/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-10-18 at 14:04:00
+Date of Registration: 2025-10-19
+Investigating Officer: PSI Savitha Prasad
+Status: chargesheeted
+
+Complaint:
+On 2025-10-18, Mahesh Reddy (P-0315), a resident of 175, Main Road, Hunsur, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Kumar (P-0080).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0084
+FIR Number: 084/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-03-14 at 08:53:00
+Date of Registration: 2025-03-17
+Investigating Officer: PSI Manjunath Patil
+Status: under investigation
+
+Complaint:
+On 2025-03-14, Ravi Rao (P-0176), a resident of 65, Layout, Hunsur, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0090
+FIR Number: 090/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-04-11 at 08:08:00
+Date of Registration: 2025-04-13
+Investigating Officer: PSI Suresh Naik
+Status: closed
+
+Complaint:
+On 2025-04-11, Suresh Prasad (P-0143), a resident of 111, Cross Road, Nanjangud, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Lokesh Hegde (P-0081), Deepa Patil (P-0068).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0093
+FIR Number: 093/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-03-06 at 02:05:00
+Date of Registration: 2025-03-09
+Investigating Officer: PSI Prakash Desai
+Status: chargesheeted
+
+Complaint:
+On 2025-03-06, Naveen Murthy (P-0154), a resident of 90, Main Road, Hunsur, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Deepa Shetty (P-0090).
+
+Witnesses:
+Witnesses examined: Shivakumar Swamy (P-0247).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0097
+FIR Number: 097/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-02-19 at 00:31:00
+Date of Registration: 2025-02-20
+Investigating Officer: PSI Shwetha Kumar
+Status: chargesheeted
+
+Complaint:
+On 2025-02-19, Naveen Gowda (P-0230), a resident of 166, Extension, Krishnaraja, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050), Imran Shetty (P-0039).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0115
+FIR Number: 115/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-07-20 at 03:05:00
+Date of Registration: 2025-07-23
+Investigating Officer: PSI Lokesh Reddy
+Status: chargesheeted
+
+Complaint:
+On 2025-07-20, Naveen Kumar (P-0313), a resident of 140, Extension, Krishnaraja, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050).
+
+Witnesses:
+Witnesses examined: Yusuf Kamath (P-0293).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0119
+FIR Number: 119/2024
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2024-10-09 at 18:03:00
+Date of Registration: 2024-10-11
+Investigating Officer: PSI Naveen Patil
+Status: chargesheeted
+
+Complaint:
+On 2024-10-09, Rakesh Kumar (P-0257), a resident of 95, Extension, Krishnaraja, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Basavaraj Rao (P-0179).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0121
+FIR Number: 121/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-07-21 at 11:51:00
+Date of Registration: 2025-07-22
+Investigating Officer: PSI Harish Achar
+Status: under investigation
+
+Complaint:
+On 2025-07-21, Anand Jadhav (P-0211), a resident of 162, Cross Road, Nanjangud, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Farhan Shetty (P-0187), Imran Murthy (P-0288).
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0122
+FIR Number: 122/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-07-19 at 09:22:00
+Date of Registration: 2024-07-22
+Investigating Officer: PSI Basavaraj Kumar
+Status: chargesheeted
+
+Complaint:
+On 2024-07-19, Farhan Shetty (P-0187), a resident of 28, Cross Road, Hunsur, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050), Anand Murthy (P-0025).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0125
+FIR Number: 125/2024
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2024-07-04 at 18:52:00
+Date of Registration: 2024-07-07
+Investigating Officer: PSI Naveen Prasad
+Status: under investigation
+
+Complaint:
+On 2024-07-04, Naveen Kamath (P-0136), a resident of 28, Colony, Krishnaraja, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Bhavya Pujari (P-0260).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0136
+FIR Number: 136/2024
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2024-10-25 at 18:38:00
+Date of Registration: 2024-10-26
+Investigating Officer: PSI Manjunath Shetty
+Status: chargesheeted
+
+Complaint:
+On 2024-10-25, Savitha Kulkarni (P-0228), a resident of 8, Colony, Nanjangud, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Deepa Shetty (P-0090), Ravi Shetty (P-0044).
+
+Witnesses:
+Witnesses examined: Ramesh Bhat (P-0111).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0140
+FIR Number: 140/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-05-17 at 06:50:00
+Date of Registration: 2026-05-20
+Investigating Officer: PSI Vinay Prasad
+Status: under investigation
+
+Complaint:
+On 2026-05-17, Bhavya Pujari (P-0260), a resident of 89, Colony, Hunsur, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0156
+FIR Number: 156/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2026-04-18 at 10:59:00
+Date of Registration: 2026-04-19
+Investigating Officer: PSI Girish Desai
+Status: under investigation
+
+Complaint:
+On 2026-04-18, Savitha Prasad (P-0265), a resident of 13, Colony, Krishnaraja, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0157
+FIR Number: 157/2024
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-11-24 at 21:40:00
+Date of Registration: 2024-11-25
+Investigating Officer: PSI Ramesh Patil
+Status: chargesheeted
+
+Complaint:
+On 2024-11-24, Naveen Murthy (P-0154), a resident of 90, Main Road, Hunsur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Shivakumar Achar (P-0048).
+
+Witnesses:
+Witnesses examined: Umesh Gowda (P-0258), Anand Jadhav (P-0211).
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0172
+FIR Number: 172/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2024-09-17 at 04:52:00
+Date of Registration: 2024-09-18
+Investigating Officer: PSI Basavaraj Gowda
+Status: under investigation
+
+Complaint:
+On 2024-09-17, Ramesh Bhat (P-0111), a resident of 31, Cross Road, Krishnaraja, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Chetan Pujari (P-0006).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0174
+FIR Number: 174/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-04-21 at 05:30:00
+Date of Registration: 2025-04-22
+Investigating Officer: PSI Shivakumar Gowda
+Status: chargesheeted
+
+Complaint:
+On 2025-04-21, Ramesh Patil (P-0191), a resident of 25, Extension, Krishnaraja, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Yusuf Gowda (P-0083).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0181
+FIR Number: 181/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-05-14 at 05:29:00
+Date of Registration: 2026-05-15
+Investigating Officer: PSI Nandini Patil
+Status: closed
+
+Complaint:
+On 2026-05-14, Suresh Prasad (P-0151), a resident of 100, Layout, Nanjangud, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Ananya Jadhav (P-0159), Manjunath Desai (P-0158).
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0182
+FIR Number: 182/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-11-08 at 09:50:00
+Date of Registration: 2024-11-11
+Investigating Officer: PSI Savitha Murthy
+Status: chargesheeted
+
+Complaint:
+On 2024-11-08, Vidya Swamy (P-0210), a resident of 135, Cross Road, Krishnaraja, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Yusuf Gowda (P-0083), Ravi Shetty (P-0044).
+
+Witnesses:
+Witnesses examined: Savitha Kulkarni (P-0287), Naveen Kumar (P-0313).
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0184
+FIR Number: 184/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-06-19 at 16:57:00
+Date of Registration: 2025-06-21
+Investigating Officer: PSI Pooja Prasad
+Status: under investigation
+
+Complaint:
+On 2025-06-19, Lakshmi Bhat (P-0183), a resident of 79, Main Road, Nanjangud, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Naveen Kamath (P-0136), Rakesh Gowda (P-0144).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0185
+FIR Number: 185/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-12-02 at 17:09:00
+Date of Registration: 2025-12-04
+Investigating Officer: PSI Shwetha Swamy
+Status: chargesheeted
+
+Complaint:
+On 2025-12-02, Nagaraj Bhat (P-0226), a resident of 111, Colony, Krishnaraja, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Gowda (P-0057), Imran Rao (P-0016).
+
+Witnesses:
+Witnesses examined: Suresh Achar (P-0105), Ramesh Bhat (P-0111).
+
+This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0189
+FIR Number: 189/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2025-12-23 at 05:09:00
+Date of Registration: 2025-12-24
+Investigating Officer: PSI Girish Kulkarni
+Status: under investigation
+
+Complaint:
+On 2025-12-23, Manjunath Desai (P-0158), a resident of 15, Main Road, Nanjangud, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067), Mahesh Gowda (P-0050).
+
+Witnesses:
+Witnesses examined: Anand Kulkarni (P-0298), Roopa Kamath (P-0162).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0192
+FIR Number: 192/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-07-12 at 00:38:00
+Date of Registration: 2025-07-14
+Investigating Officer: PSI Rakesh Kamath
+Status: under investigation
+
+Complaint:
+On 2025-07-12, Umesh Murthy (P-0156), a resident of 81, Colony, Hunsur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Bhavya Pujari (P-0260).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0193
+FIR Number: 193/2024
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2024-12-16 at 01:21:00
+Date of Registration: 2024-12-16
+Investigating Officer: PSI Lokesh Gowda
+Status: chargesheeted
+
+Complaint:
+On 2024-12-16, Mahesh Jadhav (P-0101), a resident of 82, Main Road, Krishnaraja, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0025).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0194
+FIR Number: 194/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-24 at 22:46:00
+Date of Registration: 2026-04-26
+Investigating Officer: PSI Girish Shetty
+Status: under investigation
+
+Complaint:
+On 2026-04-24, Mahesh Jadhav (P-0101), a resident of 82, Main Road, Krishnaraja, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Gowda (P-0057), Yusuf Gowda (P-0083).
+
+Witnesses:
+Witnesses examined: Naveen Kulkarni (P-0262), Naveen Rao (P-0266).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0198
+FIR Number: 198/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-03 at 19:04:00
+Date of Registration: 2026-04-03
+Investigating Officer: PSI Imran Bhat
+Status: chargesheeted
+
+Complaint:
+On 2026-04-03, Imran Jadhav (P-0175), a resident of 157, Colony, Krishnaraja, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0047), Kavitha Gowda (P-0057), Lokesh Hegde (P-0081).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0204
+FIR Number: 204/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-06-06 at 06:00:00
+Date of Registration: 2026-06-06
+Investigating Officer: PSI Savitha Gowda
+Status: under investigation
+
+Complaint:
+On 2026-06-06, Naveen Kamath (P-0136), a resident of 28, Colony, Krishnaraja, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Achar (P-0055), Vinay Rao (P-0012).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0207
+FIR Number: 207/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2026-02-14 at 14:25:00
+Date of Registration: 2026-02-14
+Investigating Officer: PSI Vinay Kamath
+Status: chargesheeted
+
+Complaint:
+On 2026-02-14, Imran Jadhav (P-0175), a resident of 157, Colony, Krishnaraja, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0025), Girish Prasad (P-0014).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0216
+FIR Number: 216/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-08-23 at 09:37:00
+Date of Registration: 2025-08-23
+Investigating Officer: PSI Imran Bhat
+Status: under investigation
+
+Complaint:
+On 2025-08-23, Prakash Hegde (P-0243), a resident of 17, Layout, Nanjangud, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Chetan Hegde (P-0152), Roopa Kamath (P-0162).
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0217
+FIR Number: 217/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-01-07 at 17:03:00
+Date of Registration: 2026-01-08
+Investigating Officer: PSI Mahesh Rao
+Status: under investigation
+
+Complaint:
+On 2026-01-07, Yusuf Kamath (P-0293), a resident of 142, Colony, Krishnaraja, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Vinay Pujari (P-0196).
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0219
+FIR Number: 219/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-03-04 at 09:20:00
+Date of Registration: 2026-03-04
+Investigating Officer: PSI Mahesh Hegde
+Status: chargesheeted
+
+Complaint:
+On 2026-03-04, Shivakumar Desai (P-0117), a resident of 20, Extension, Hunsur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Pujari (P-0041).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0222
+FIR Number: 222/2024
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-07-21 at 19:35:00
+Date of Registration: 2024-07-24
+Investigating Officer: PSI Nagaraj Prasad
+Status: chargesheeted
+
+Complaint:
+On 2024-07-21, Anand Kulkarni (P-0298), a resident of 41, Main Road, Hunsur, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Rao (P-0016).
+
+Witnesses:
+Witnesses examined: Rakesh Kumar (P-0257), Shivakumar Hegde (P-0194).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0223
+FIR Number: 223/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-04-27 at 03:54:00
+Date of Registration: 2026-04-29
+Investigating Officer: PSI Lokesh Murthy
+Status: under investigation
+
+Complaint:
+On 2026-04-27, Lakshmi Bhat (P-0183), a resident of 79, Main Road, Nanjangud, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Savitha Kulkarni (P-0228), Shwetha Kumar (P-0250).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0238
+FIR Number: 238/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-03-12 at 17:14:00
+Date of Registration: 2026-03-12
+Investigating Officer: PSI Kavitha Murthy
+Status: chargesheeted
+
+Complaint:
+On 2026-03-12, Roopa Rao (P-0102), a resident of 160, Colony, Nanjangud, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Umesh Hegde (P-0001), Kavitha Gowda (P-0057).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0249
+FIR Number: 249/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-06-09 at 10:22:00
+Date of Registration: 2025-06-09
+Investigating Officer: PSI Ramesh Hegde
+Status: under investigation
+
+Complaint:
+On 2025-06-09, Chetan Hegde (P-0152), a resident of 177, Colony, Krishnaraja, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Umesh Hegde (P-0001).
+
+Witnesses:
+Witnesses examined: Naveen Kumar (P-0313).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0253
+FIR Number: 253/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-05-02 at 12:15:00
+Date of Registration: 2025-05-03
+Investigating Officer: PSI Anand Kamath
+Status: under investigation
+
+Complaint:
+On 2025-05-02, Vinay Kulkarni (P-0104), a resident of 106, Cross Road, Krishnaraja, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Ananya Jadhav (P-0159).
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0255
+FIR Number: 255/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2024-07-23 at 15:26:00
+Date of Registration: 2024-07-26
+Investigating Officer: PSI Manjunath Jadhav
+Status: under investigation
+
+Complaint:
+On 2024-07-23, Anand Bhat (P-0190), a resident of 89, Main Road, Hunsur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0047), Kavitha Gowda (P-0057), Lokesh Hegde (P-0081).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0258
+FIR Number: 258/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-12-14 at 08:29:00
+Date of Registration: 2025-12-15
+Investigating Officer: PSI Bhavya Patil
+Status: under investigation
+
+Complaint:
+On 2025-12-14, Vinay Kulkarni (P-0104), a resident of 106, Cross Road, Krishnaraja, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0259
+FIR Number: 259/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-01-04 at 02:05:00
+Date of Registration: 2026-01-07
+Investigating Officer: PSI Shwetha Murthy
+Status: under investigation
+
+Complaint:
+On 2026-01-04, Mahesh Reddy (P-0234), a resident of 4, Layout, Hunsur, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kavitha Pujari (P-0041), Chetan Pujari (P-0006).
+
+Witnesses:
+Witnesses examined: Lakshmi Gowda (P-0165), Naveen Gowda (P-0230).
+
+This case was registered under IPC 392; IPC 397 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0260
+FIR Number: 260/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2025-03-03 at 23:32:00
+Date of Registration: 2025-03-04
+Investigating Officer: PSI Savitha Desai
+Status: closed
+
+Complaint:
+On 2025-03-03, Shivakumar Desai (P-0283), a resident of 104, Layout, Nanjangud, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Gowda (P-0050), Umesh Hegde (P-0001).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0262
+FIR Number: 262/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2025-12-20 at 23:49:00
+Date of Registration: 2025-12-20
+Investigating Officer: PSI Mahesh Achar
+Status: chargesheeted
+
+Complaint:
+On 2025-12-20, Vinay Achar (P-0132), a resident of 7, Cross Road, Krishnaraja, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Lokesh Hegde (P-0081), Yusuf Gowda (P-0083).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0264
+FIR Number: 264/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2026-02-21 at 05:40:00
+Date of Registration: 2026-02-24
+Investigating Officer: PSI Ramesh Naik
+Status: under investigation
+
+Complaint:
+On 2026-02-21, Shwetha Kulkarni (P-0184), a resident of 35, Main Road, Nanjangud, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Umesh Hegde (P-0001).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0266
+FIR Number: 266/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2025-04-22 at 03:40:00
+Date of Registration: 2025-04-24
+Investigating Officer: PSI Basavaraj Kulkarni
+Status: under investigation
+
+Complaint:
+On 2025-04-22, Nagaraj Naik (P-0107), a resident of 31, Cross Road, Hunsur, reported that a tip-off led to the seizure of contraband from a rented room. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0269
+FIR Number: 269/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2025-06-22 at 16:35:00
+Date of Registration: 2025-06-22
+Investigating Officer: PSI Savitha Pujari
+Status: closed
+
+Complaint:
+On 2025-06-22, Vinay Pujari (P-0196), a resident of 41, Cross Road, Krishnaraja, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Imran Shetty (P-0039), Prakash Achar (P-0053).
+
+Witnesses:
+Witnesses examined: Basavaraj Rao (P-0179).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0272
+FIR Number: 272/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-03-22 at 04:47:00
+Date of Registration: 2026-03-23
+Investigating Officer: PSI Mahesh Murthy
+Status: chargesheeted
+
+Complaint:
+On 2026-03-22, Naveen Kumar (P-0313), a resident of 140, Extension, Krishnaraja, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Bhavya Jadhav (P-0084).
+
+Witnesses:
+Witnesses examined: Basavaraj Kamath (P-0300), Nandini Naik (P-0173).
+
+This case was registered under NDPS 20; NDPS 22 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0274
+FIR Number: 274/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-05-17 at 11:03:00
+Date of Registration: 2026-05-20
+Investigating Officer: PSI Manjunath Kamath
+Status: chargesheeted
+
+Complaint:
+On 2026-05-17, Ramesh Bhat (P-0111), a resident of 31, Cross Road, Krishnaraja, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Lokesh Hegde (P-0081), Yusuf Gowda (P-0083).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0276
+FIR Number: 276/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Vehicle Theft
+Sections: IPC 379
+Date of Occurrence: 2026-04-26 at 06:54:00
+Date of Registration: 2026-04-26
+Investigating Officer: PSI Nagaraj Rao
+Status: under investigation
+
+Complaint:
+On 2026-04-26, Umesh Reddy (P-0259), a resident of 104, Cross Road, Hunsur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Kiran Jadhav (P-0047), Yusuf Gowda (P-0083).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0279
+FIR Number: 279/2025
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-10-08 at 07:58:00
+Date of Registration: 2025-10-09
+Investigating Officer: PSI Ravi Hegde
+Status: under investigation
+
+Complaint:
+On 2025-10-08, Suresh Patil (P-0163), a resident of 156, Main Road, Hunsur, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Mahesh Kumar (P-0080).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0282
+FIR Number: 282/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-09-16 at 22:29:00
+Date of Registration: 2025-09-19
+Investigating Officer: PSI Basavaraj Reddy
+Status: chargesheeted
+
+Complaint:
+On 2025-09-16, Imran Jadhav (P-0175), a resident of 157, Colony, Krishnaraja, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Manjunath Prasad (P-0067).
+
+Witnesses:
+Witnesses examined: Vidya Swamy (P-0210), Umesh Gowda (P-0258).
+
+This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0283
+FIR Number: 283/2026
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Narcotics (NDPS)
+Sections: NDPS 20; NDPS 22
+Date of Occurrence: 2026-05-25 at 04:59:00
+Date of Registration: 2026-05-25
+Investigating Officer: PSI Rakesh Prasad
+Status: under investigation
+
+Complaint:
+On 2026-05-25, Lakshmi Bhat (P-0183), a resident of 79, Main Road, Nanjangud, reported that the accused was found in possession of contraband during a vehicle check at a checkpost. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Girish Achar (P-0055).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under NDPS 20; NDPS 22 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0285
+FIR Number: 285/2025
+Police Station: Hunsur Police Station, Hunsur, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2025-06-07 at 23:15:00
+Date of Registration: 2025-06-07
+Investigating Officer: PSI Vidya Kamath
+Status: chargesheeted
+
+Complaint:
+On 2025-06-07, Naveen Kamath (P-0136), a resident of 28, Colony, Krishnaraja, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Hunsur Police Station in Hunsur, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Basavaraj Kamath (P-0031).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0286
+FIR Number: 286/2025
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Assault / Hurt
+Sections: IPC 323; IPC 324
+Date of Occurrence: 2025-02-27 at 01:10:00
+Date of Registration: 2025-03-01
+Investigating Officer: PSI Harish Bhat
+Status: under investigation
+
+Complaint:
+On 2025-02-27, Savitha Kulkarni (P-0287), a resident of 107, Layout, Nanjangud, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 323; IPC 324 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0289
+FIR Number: 289/2024
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Cheating / Online Fraud
+Sections: IPC 420; IPC 66D IT Act
+Date of Occurrence: 2024-09-01 at 17:24:00
+Date of Registration: 2024-09-02
+Investigating Officer: PSI Ravi Desai
+Status: chargesheeted
+
+Complaint:
+On 2024-09-01, Ananya Jadhav (P-0159), a resident of 36, Main Road, Krishnaraja, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Anand Murthy (P-0025), Basavaraj Kamath (P-0031).
+
+Witnesses:
+Witnesses examined: Manjunath Desai (P-0158), Rakesh Kumar (P-0257).
+
+This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0293
+FIR Number: 293/2026
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: Chain Snatching
+Sections: IPC 379; IPC 356
+Date of Occurrence: 2026-03-18 at 09:36:00
+Date of Registration: 2026-03-19
+Investigating Officer: PSI Basavaraj Bhat
+Status: under investigation
+
+Complaint:
+On 2026-03-18, Imran Jadhav (P-0175), a resident of 157, Colony, Krishnaraja, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Lakshmi Kamath (P-0013), Deepa Patil (P-0068).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 379; IPC 356 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0297
+FIR Number: 297/2026
+Police Station: Nanjangud Police Station, Nanjangud, Mysuru district, Karnataka
+Crime Type: Robbery
+Sections: IPC 392; IPC 397
+Date of Occurrence: 2026-05-19 at 15:27:00
+Date of Registration: 2026-05-21
+Investigating Officer: PSI Pooja Gowda
+Status: chargesheeted
+
+Complaint:
+On 2026-05-19, Umesh Gowda (P-0258), a resident of 115, Colony, Hunsur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Nanjangud Police Station in Nanjangud, Mysuru district.
+
+Accused:
+The following persons are named as accused in this FIR: Bhavya Jadhav (P-0084), Imran Shetty (P-0039).
+
+Witnesses:
+No witnesses were recorded.
+
+This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+FIR ID: FIR-0300
+FIR Number: 300/2024
+Police Station: Krishnaraja Police Station, Krishnaraja, Mysuru district, Karnataka
+Crime Type: House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Date of Occurrence: 2024-12-12 at 16:37:00
+Date of Registration: 2024-12-13
+Investigating Officer: PSI Vinay Hegde
+Status: under investigation
+
+Complaint:
+On 2024-12-12, Anand Jadhav (P-0211), a resident of 162, Cross Road, Nanjangud, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Krishnaraja Police Station in Krishnaraja, Mysuru district.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+Witnesses:
+Witnesses examined: Naveen Kumar (P-0313), Roopa Jadhav (P-0120).
+
+This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

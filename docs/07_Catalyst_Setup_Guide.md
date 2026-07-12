@@ -102,15 +102,23 @@ the whole P3 design:
 - **Generative AI → RAG → Add Documents** (right panel, *Document Store*) → pick the uploaded docs. Leaving the document store empty makes RAG search the whole Knowledge Base, which is what we want.
 - **View API** (top-right) → **Model Details → API Details** → copy the **RAG endpoint URL**.
 
-> **What to upload — read before you start clicking.** There is **no bulk/API upload**; it's a console
-> upload. Do **not** upload the 300 per-FIR narrative files by hand. I'll bundle them into ~8–10
-> grouped `.txt` files (each well under 500 KB) for you to upload instead.
+> **What to upload — these three files, and nothing else:**
 >
-> Grouping does not cost us citation precision, because we do **not** depend on RAG's document IDs for
-> citations. Every narrative carries its own `FIR ID: FIR-xxxx` line in the text, so the model cites
-> record IDs from the content, and the function then **validates every cited ID against the Data Store**
-> before the answer is returned. An ID that doesn't resolve is dropped and the answer abstains — a
-> stronger guarantee than trusting a document-level citation.
+> ```
+> data/kb/cipher-fir-kb--bengaluru-north--part-1.txt   152 FIRs   148 KB
+> data/kb/cipher-fir-kb--kalaburagi--part-1.txt         72 FIRs    70 KB
+> data/kb/cipher-fir-kb--mysuru--part-1.txt             76 FIRs    73 KB
+> ```
+>
+> All 300 FIR narratives, grouped by district, largest file 148 KB against the 500 KB cap.
+> Regenerate any time with `node data/bundle_kb.mjs`.
+>
+> There is **no bulk/API upload** — it's a console upload — so the 300 per-FIR files are bundled rather
+> than uploaded one by one. Grouping costs no citation precision, because we do **not** depend on RAG's
+> document IDs. Every narrative carries its own `FIR ID: FIR-xxxx` line, so the model cites record IDs
+> from the text, and the function then **validates every cited ID against the record store** before the
+> answer is returned. An ID that doesn't resolve means the model fabricated it, and the answer is
+> discarded — a stronger guarantee than trusting a document-level citation.
 
 ### 5d. OAuth client (so Functions can call the above)
 - Zoho **API Console** (`api-console.zoho.in`) → create a **Self Client** (server-to-server).
