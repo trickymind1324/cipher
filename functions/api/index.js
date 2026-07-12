@@ -2,6 +2,9 @@
 
 const express = require('express');
 const store = require('./lib/store');
+const pipeline = require('./lib/pipeline');
+const audit = require('./lib/audit');
+const llm = require('./lib/llm');
 
 const app = express();
 
@@ -10,7 +13,13 @@ app.use(express.json({ limit: '1mb' }));
 // Every route below is reached at /server/api/<path> once deployed.
 
 app.get('/health', (req, res) => {
-	res.json({ status: 'ok', service: 'cipher-api', version: '0.1.0', store: store.backend });
+	res.json({
+		status: 'ok',
+		service: 'cipher-api',
+		version: '0.2.0',
+		store: store.backend,
+		llm: llm.isConfigured() ? 'quickml' : 'not_configured',
+	});
 });
 
 /** Dataset shape — what the assistant is allowed to claim knowledge of. */
@@ -56,10 +65,50 @@ app.get('/aggregate', (req, res) => {
 
 app.get('/stations', (req, res) => res.json(store.stations()));
 
+/**
+ * The conversational core. Body: { question, context?, user?, role? }
+ * `context` is the previous turn's entities — send it back to get follow-ups.
+ */
+app.post('/query', async (req, res) => {
+	const { question, context, user, role } = req.body || {};
+	if (!question || !String(question).trim()) {
+		return res.status(400).json({ error: 'question_required' });
+	}
+
+	try {
+		const result = await pipeline.answer(String(question), context || {});
+		audit.record({ user, role, question, result, ip: req.ip });
+
+		res.json({
+			answer: result.answer,
+			abstained: result.abstained,
+			citations: result.citations,
+			intent: result.intent,
+			language: result.language,
+			entities: result.entities,
+			carried_over: result.carried_over,
+			result_kind: result.result_kind,
+			data: result.data,
+			// Surfaced, not hidden: the UI shows how the answer was produced.
+			provenance: {
+				source: result.source,
+				guardrail: result.guardrail,
+				records_retrieved: result.evidence.length,
+				latency_ms: result.latency_ms,
+			},
+			// Echo back so the client can send it as `context` on the next turn.
+			context: result.entities,
+		});
+	} catch (err) {
+		res.status(500).json({ error: 'query_failed', detail: String(err.message).slice(0, 200) });
+	}
+});
+
+app.get('/audit', (req, res) => res.json(audit.recent(Number(req.query.limit) || 50)));
+
 const notBuiltYet = (phase) => (req, res) =>
 	res.status(501).json({ error: 'not_implemented', phase });
 
-app.post('/query', notBuiltYet('P2'));
 app.get('/network', notBuiltYet('P4'));
 app.get('/trends', notBuiltYet('P5'));
 app.post('/export-pdf', notBuiltYet('P6'));
