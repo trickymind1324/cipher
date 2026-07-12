@@ -77,7 +77,7 @@ Browser (React SPA)
   Catalyst Functions (Node.js)      ← /query, /network, /trends, /export-pdf, /seed
         │
         ├── Catalyst Data Store              ← fir, person, fir_party, attribute, socio_economic, audit_log
-        ├── Catalyst QuickML — LLM Serving   ← Qwen 2.5-14B Instruct (OAuth REST) → grounded answer composition
+        ├── Catalyst QuickML — LLM Serving   ← GLM 4.7 Flash (OAuth REST) → grounded answer composition
         ├── Catalyst QuickML — RAG / KB      ← FIR-narrative knowledge base → semantic/similar-case + cited grounding
         └── Catalyst Stratus (object store)  ← generated PDFs
 ```
@@ -87,7 +87,7 @@ Browser (React SPA)
 | Frontend | React + TypeScript + Vite; Cytoscape.js (graph); Leaflet (map); Recharts (trends) |
 | Backend | Catalyst **Functions** (Node.js), thin REST matching LLD §4 API shapes |
 | Data | Catalyst **Data Store** tables (synthetic CCTNS-aligned seed) for structured retrieval (lists/filters) |
-| LLM | Catalyst **QuickML LLM Serving** — **Qwen 2.5-14B Instruct** (128K context, open-weight), OAuth REST callable from Functions (IN data center). It is the only general-purpose model QuickML offers; the other two (7B Coder, 7B Vision Language) don't fit. No external API needed — consistent with the sovereignty story (open-weight model served on-platform). A thin `llmClient` keeps it swappable. |
+| LLM | Catalyst **QuickML LLM Serving** — **GLM 4.7 Flash**, OAuth REST callable from Functions (IN data center). The console deprecates all three Qwen 2.5 models with a migration deadline of **30 Jun 2026** (already passed), so GLM 4.7 Flash is the only viable option. *Zoho's public help pages still list Qwen as current — they are stale; trust the console.* No external API needed — consistent with the sovereignty story (open-weight model served on-platform). A thin `llmClient` keeps it swappable. |
 | RAG / grounding | Catalyst **QuickML RAG + Knowledge Base** — FIR narratives ingested as KB docs; semantic retrieval + re-rank + **Response Breakdown citations (source IDs)** → directly realizes `FR-XAI-01` evidence trails and `FR-DSS-03` similar-case |
 | Storage | Catalyst **Stratus** (object storage) for exported PDFs — *note: legacy File Store is deprecated (EOL 30 Apr 2026), so use Stratus* |
 | Auth (demo) | Hardcoded role switcher now; Catalyst **Authentication (Embedded Auth)** as stretch |
@@ -159,7 +159,7 @@ Browser (React SPA)
 |---|---|
 | Catalyst Functions cold-start / runtime limits | Keep functions thin; precompute graph/trends on seed; cache |
 | LLM grounding leaks hallucination | Strict "answer only from CONTEXT, cite ids, else abstain" prompt + QuickML RAG Response-Breakdown citations + post-check validator (LLD §3.2) |
-| **Kannada may not work at all on Qwen 2.5** — Kannada is not in its ~29 officially supported languages | **Test before building on it** (LLM Serving → Chat, ask a Kannada question). If weak: English-canonical pipeline — translate KN→EN on input, compose the answer from records in English, and render the Kannada reply from templates + a curated glossary instead of free-form LLM Kannada. Keeps the Kannada demo deterministic and citable either way. |
+| Kannada quality on GLM 4.7 Flash is unverified | **Test before building on it** (LLM Serving → Chat, ask a Kannada question). If weak: English-canonical pipeline — translate KN→EN on input, compose the answer from records in English, and render the Kannada reply from templates + a curated glossary instead of free-form LLM Kannada. Keeps the Kannada demo deterministic and citable either way. |
 | QuickML KB doc limit (500KB/doc, .pdf/.docx/.txt) | Chunk synthetic FIR narratives into small per-FIR docs; structured lists come from Data Store SQL, not KB |
 | Time | Phase order front-loads the gating deliverable (deployed core loop); visuals/PDF after |
 

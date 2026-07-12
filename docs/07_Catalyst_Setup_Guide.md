@@ -79,12 +79,19 @@ This is the GenAI engine for CIPHER's grounded, evidence-cited answers.
 
 ### 5b. LLM Serving
 - Go to **Generative AI → LLM Serving**.
-- Select model **Qwen 2.5 – 14B Instruct** (128K context; the general-purpose model — the other two are 7B Coder and 7B Vision Language, neither of which fits our use).
+- Select model **GLM 4.7 Flash**.
+
+> **Use the console, not the public docs.** Zoho's public LLM Serving help page still lists the three
+> Qwen 2.5 models as current and mentions no deprecation. The **console banner** says otherwise:
+> *"Qwen 2.5-14B Instruct, Qwen 2.5-7B Coder and Qwen 2.5-7B Vision Language models are deprecated.
+> Please migrate to GLM 4.7 Flash ... before June 30, 2026."* The console wins. Note that date has
+> **already passed**, so treat Qwen as unavailable and go straight to GLM 4.7 Flash.
 - Click **View API** → copy the **endpoint URL**, and note it uses **OAuth** (POST, headers incl. org ID + OAuth token).
 
 ### 5b-i. Kannada smoke test — do this before anything else
-While you're in the **Chat** tab, ask the model a question in Kannada. Kannada is **not** in Qwen 2.5's
-~29 officially supported languages, so this may fail. Two minutes here decides the whole P3 design:
+While you're in the **Chat** tab, ask GLM 4.7 Flash a question in Kannada. GLM 4.7 Flash is broadly
+multilingual, so this should work — but *verify it rather than assume it*. Two minutes here decides
+the whole P3 design:
 
 - **Good Kannada** → keep the direct multilingual path.
 - **Poor / garbled Kannada** → English-canonical path (translate in, compose from records in English,
@@ -134,7 +141,7 @@ While you're in the **Chat** tab, ask the model a question in Kannada. Kannada i
 - [ ] **1,500 credits** visible + **$250** confirmation email received
 - [ ] Catalyst project **`cipher`** created; Project ID noted
 - [ ] CLI installed; `catalyst login` works
-- [ ] QuickML enabled; **Qwen 2.5 – 14B Instruct** LLM Serving live; **RAG + KB** created
+- [ ] QuickML enabled; **GLM 4.7 Flash** LLM Serving live; **RAG + KB** created
 - [ ] OAuth Client ID/Secret generated and stored as secrets
 - [ ] Four values from §6 captured
 
@@ -146,6 +153,6 @@ While you're in the **Chat** tab, ask the model a question in Kannada. Kannada i
 
 - **Don't use deprecated services:** File Store, Cron, Event Listeners (EOL **30 Apr 2026**). We use **Stratus** (object store) for PDFs and precompute at seed time instead of Cron.
 - **Hosting:** React SPA goes to **Web Client Hosting (Slate)**; backend logic to **Functions**. (AppSail is an alternative full-app PaaS — we don't need it for an SPA + FaaS split.)
-- **Kannada — open risk.** Qwen 2.5's officially supported language list (~29 languages) does **not** name Kannada. Kannada output may therefore be weak or unusable. Test this *first*, before building on it: open LLM Serving → Chat → Qwen 2.5-14B Instruct and ask it something in Kannada. If quality is poor, the fallback is an English-canonical pipeline (translate KN→EN in, compose the answer in English from records, render the reply from Kannada templates + a curated glossary rather than free-form LLM Kannada).
+- **Kannada — verify, don't assume.** GLM 4.7 Flash is broadly multilingual, but Kannada quality is unverified for our use. Test it *first* (§5b-i). If quality is poor, the fallback is an English-canonical pipeline (translate KN→EN in, compose the answer in English from records, render the reply from Kannada templates + a curated glossary rather than free-form LLM Kannada).
 
 *End of Setup Guide.*
