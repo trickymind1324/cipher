@@ -16,6 +16,7 @@
 const store = require('./store');
 const nlu = require('./nlu');
 const llm = require('./llm');
+const trends = require('./trends');
 
 const ID_RE = /\b(?:FIR-\d{3,4}|P-\d{3,4})\b/gi;
 
@@ -86,23 +87,15 @@ function retrieve(intent, entities) {
 		};
 	}
 
-	if (intent === 'TREND') {
-		const series = store.aggregate({ by: 'month', ...filters });
+	// Both come from trends.build so the spoken answer and the rendered chart/map are
+	// computed once. Two code paths would drift, and the text would contradict the picture.
+	if (intent === 'TREND' || intent === 'HOTSPOT') {
+		const t = trends.build(filters);
 		return {
-			kind: 'trend',
-			records: series,
-			evidence: series.flatMap((s) => s.fir_ids),
-			data: { series, filters },
-		};
-	}
-
-	if (intent === 'HOTSPOT') {
-		const areas = store.aggregate({ by: 'taluk', ...filters });
-		return {
-			kind: 'hotspot',
-			records: areas,
-			evidence: areas.flatMap((a) => a.fir_ids),
-			data: { areas, filters },
+			kind: intent.toLowerCase(),
+			records: t.total ? t.series : [],
+			evidence: t.evidence,
+			data: t,
 		};
 	}
 
@@ -165,14 +158,17 @@ function contextBlock(r) {
 		}
 	}
 
-	if (r.kind === 'trend') {
+	if (r.kind === 'trend' || r.kind === 'hotspot') {
+		lines.push(`Total FIRs in scope: ${d.total}.`);
 		lines.push('FIR count by month:');
 		for (const s of d.series) lines.push(`- ${s.key}: ${s.count}`);
-	}
-
-	if (r.kind === 'hotspot') {
 		lines.push('FIR count by taluk:');
-		for (const a of d.areas) lines.push(`- ${a.key}: ${a.count}`);
+		for (const a of d.hotspots) lines.push(`- ${a.taluk}: ${a.count} (${Math.round(a.share * 100)}%)`);
+		if (d.movement) {
+			lines.push(
+				`Movement: ${d.movement.direction}. ${d.movement.recent_avg} FIRs/month over ${d.movement.recent_window} versus ${d.movement.prior_avg} over ${d.movement.prior_window} (${d.movement.change_pct}%).`
+			);
+		}
 	}
 
 	return lines.join('\n');
@@ -217,20 +213,35 @@ function templateAnswer(r, parsed) {
 	if (r.kind === 'repeat_offender') {
 		return [`Accused with the most FIRs${scope ? ` for ${scope}` : ''}:`, ...d.rows.map((x, i) => `${i + 1}. ${x.person?.full_name} (${x.person_id}) — ${x.fir_count} FIRs`)].join('\n');
 	}
+	// The chart and map are on screen beside these answers, so the text says what the
+	// picture can't: the direction, the size of the change, and where it is concentrated.
 	if (r.kind === 'trend') {
 		const first = d.series[0], last = d.series[d.series.length - 1];
-		const total = d.series.reduce((a, s) => a + s.count, 0);
-		return [
-			`${total} FIRs${scope ? ` for ${scope}` : ''} across ${d.series.length} months (${first.key} to ${last.key}).`,
-			...d.series.map((s) => `• ${s.key}: ${s.count}`),
-		].join('\n');
+		const m = d.movement;
+		const out = [`${d.total} FIRs${scope ? ` for ${scope}` : ''} between ${first.key} and ${last.key}.`];
+
+		if (m && m.direction !== 'flat') {
+			out.push(
+				`The trend is ${m.direction}: ${m.recent_avg} FIRs/month over ${m.recent_window}, against ${m.prior_avg} over ${m.prior_window} (${m.change_pct > 0 ? '+' : ''}${m.change_pct}%).`
+			);
+		} else if (m) {
+			out.push(`The trend is flat: ${m.recent_avg} FIRs/month, broadly unchanged from ${m.prior_avg}.`);
+		}
+
+		if (d.top_area) {
+			out.push(`${d.top_area.taluk} accounts for ${Math.round(d.top_area.share * 100)}% of them (${d.top_area.count} FIRs).`);
+		}
+		return out.join('\n');
 	}
+
 	if (r.kind === 'hotspot') {
-		const top = d.areas[0];
-		return [
-			`${top.key} has the most FIRs${scope ? ` for ${scope}` : ''} (${top.count}).`,
-			...d.areas.map((a) => `• ${a.key}: ${a.count}`),
-		].join('\n');
+		const top = d.top_area;
+		const out = [
+			`${top.taluk} has the most FIRs${scope ? ` for ${scope}` : ''}: ${top.count} of ${d.total} (${Math.round(top.share * 100)}%).`,
+		];
+		const rest = d.hotspots.slice(1, 4);
+		if (rest.length) out.push(`Next: ${rest.map((a) => `${a.taluk} (${a.count})`).join(', ')}.`);
+		return out.join('\n');
 	}
 	return 'No answer could be composed.';
 }

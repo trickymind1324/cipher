@@ -70,6 +70,25 @@ export type Graph = {
   evidence: string[];
 };
 
+export type Trends = {
+  filters: { district?: string; taluk?: string; crime_type?: string; from?: string; to?: string };
+  total: number;
+  series: { key: string; count: number; fir_ids: string[] }[];
+  hotspots: { taluk: string; count: number; share: number; lat: number | null; lon: number | null; fir_ids: string[] }[];
+  by_crime_type: { key: string; count: number }[];
+  points: { fir_id: string; lat: number; lon: number; crime_type: string; taluk: string; occurrence_date: string }[];
+  top_area: Trends['hotspots'][number] | null;
+  movement: {
+    recent_window: string;
+    prior_window: string;
+    recent_avg: number;
+    prior_avg: number;
+    change_pct: number;
+    direction: 'rising' | 'falling' | 'flat';
+  } | null;
+  evidence: string[];
+};
+
 export type Health = { status: string; version: string; store: string; llm: string };
 
 async function get<T>(path: string): Promise<T> {
@@ -82,6 +101,16 @@ export const health = () => get<Health>('/health');
 
 export const network = (personId: string, depth = 2) =>
   get<Graph>(`/network?person_id=${encodeURIComponent(personId)}&depth=${depth}`);
+
+export function trends(e: Entities) {
+  const q = new URLSearchParams();
+  if (e.district) q.set('district', e.district);
+  if (e.taluk) q.set('taluk', e.taluk);
+  if (e.crime_type) q.set('crime_type', e.crime_type);
+  if (e.date?.from) q.set('from', e.date.from);
+  if (e.date?.to) q.set('to', e.date.to);
+  return get<Trends>(`/trends?${q}`);
+}
 
 export async function query(question: string, context: Entities, role: string): Promise<QueryResult> {
   const res = await fetch(`${BASE}/query`, {

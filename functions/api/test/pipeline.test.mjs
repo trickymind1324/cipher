@@ -75,5 +75,32 @@ test('guardrail rejects a fabricated record id', () => {
 test('hotspot ranks the planted surge area first', async () => {
 	const r = await pipeline.answer('which area has the most chain snatching in Bengaluru North in 2026?');
 	assert.equal(r.intent, 'HOTSPOT');
-	assert.equal(r.data.areas[0].key, 'Yelahanka');
+	assert.equal(r.data.top_area.taluk, 'Yelahanka');
+});
+
+test('trend windows are calendar-aligned and quiet months are not dropped', async () => {
+	const r = await pipeline.answer('is chain snatching rising in Bengaluru North?');
+	assert.equal(r.intent, 'TREND');
+	assert.equal(r.data.movement.direction, 'rising');
+
+	// Months with no FIRs must appear as zeros. Without them a "last 6 months" window
+	// silently spans more than six calendar months, and the chart joins across the gap
+	// as though nothing happened there.
+	assert.ok(r.data.series.some((s) => s.count === 0), 'expected zero-filled months');
+
+	const months = r.data.series.map((s) => s.key);
+	for (let i = 1; i < months.length; i++) {
+		const [py, pm] = months[i - 1].split('-').map(Number);
+		const [cy, cm] = months[i].split('-').map(Number);
+		assert.equal((cy - py) * 12 + (cm - pm), 1, `non-contiguous: ${months[i - 1]} → ${months[i]}`);
+	}
+});
+
+test('the spoken total and the charted total cannot disagree', async () => {
+	// The prose and the chart are rendered from one payload precisely so this holds.
+	const r = await pipeline.answer('is chain snatching rising in Bengaluru North?');
+	const stated = Number(r.answer.match(/^(\d+) FIRs/)[1]);
+	const charted = r.data.series.reduce((a, s) => a + s.count, 0);
+	assert.equal(stated, r.data.total);
+	assert.equal(charted, r.data.total);
 });

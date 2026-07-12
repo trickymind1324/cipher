@@ -197,6 +197,26 @@ button.ghost:hover:not(:disabled) { border-color: var(--accent); }
 }
 .inspect p { margin: 4px 0 0; font-size: 11px; }
 
+/* ── trends + hotspots ── */
+.trends { display: flex; flex-direction: column; width: 100%; min-height: 0; padding: 18px 20px; overflow-y: auto; }
+.chart {
+  height: 190px; margin-top: 12px; padding: 10px 6px 0 0;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; flex: none;
+}
+.map {
+  height: 300px; margin-top: 12px; flex: none;
+  border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+}
+.map .leaflet-container { background: var(--panel-2); font: inherit; }
+
+.move {
+  font-size: 13px; font-weight: 700; padding: 4px 10px; border-radius: 20px;
+  border: 1px solid var(--line); background: var(--panel-2); white-space: nowrap;
+}
+.move.rising { color: var(--seed); border-color: var(--seed); }
+.move.falling { color: var(--ok); border-color: var(--ok); }
+.move.flat { color: var(--dim); }
+
 /* ── record ── */
 .record { overflow-y: auto; }
 .record dl { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 20px; margin: 16px 0; }

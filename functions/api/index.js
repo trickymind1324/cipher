@@ -4,6 +4,7 @@ const express = require('express');
 const store = require('./lib/store');
 const pipeline = require('./lib/pipeline');
 const network = require('./lib/network');
+const trends = require('./lib/trends');
 const audit = require('./lib/audit');
 const llm = require('./lib/llm');
 
@@ -127,6 +128,12 @@ app.get('/network', (req, res) => {
 	const graph = network.build(id, depth);
 	if (!graph) return res.status(404).json({ error: 'person_not_found', person_id: id });
 	res.json(graph);
+});
+
+/** Trends + hotspots. ?district=&taluk=&crime_type=&from=&to= (all optional) */
+app.get('/trends', (req, res) => {
+	const { district, taluk, crime_type, from, to } = req.query;
+	res.json(trends.build({ district, taluk, crime_type, from, to }));
 });
 
 const notBuiltYet = (phase) => (req, res) =>

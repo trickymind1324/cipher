@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react';
 import * as api from './api';
-import type { Entities, Graph, Health } from './api';
+import type { Entities, Graph, Health, Trends } from './api';
 import ChatPanel, { type Turn } from './components/ChatPanel';
 import GraphView from './components/GraphView';
+import TrendsView from './components/TrendsView';
 
 const ROLES = ['CONSTABLE', 'INVESTIGATOR', 'SP'];
 
@@ -10,6 +11,7 @@ export default function App() {
   const [turns, setTurns] = useState<Turn[]>([]);
   const [context, setContext] = useState<Entities>({});
   const [graph, setGraph] = useState<Graph | null>(null);
+  const [trends, setTrends] = useState<Trends | null>(null);
   const [record, setRecord] = useState<any>(null);
   const [health, setHealth] = useState<Health | null>(null);
   const [role, setRole] = useState('INVESTIGATOR');
@@ -34,10 +36,12 @@ export default function App() {
       setContext(result.context);
       setTurns((t) => [...t.slice(0, -1), { question, result }]);
 
-      // A network question drives the graph panel alongside the text answer.
+      // The question decides what the evidence panel shows. Trend and hotspot answers carry
+      // their own chart data, so the panel renders exactly the numbers the answer quoted.
       if (result.intent === 'NETWORK' && result.entities.person_id) {
-        api.network(result.entities.person_id, 2).then(setGraph).catch(() => {});
-        setRecord(null);
+        api.network(result.entities.person_id, 2).then(showGraph).catch(() => {});
+      } else if ((result.intent === 'TREND' || result.intent === 'HOTSPOT') && !result.abstained) {
+        showTrends(result.data as Trends);
       }
     } catch (err) {
       setTurns((t) => [...t.slice(0, -1), { question, error: String((err as Error).message) }]);
@@ -46,21 +50,32 @@ export default function App() {
     }
   }
 
+  // The evidence panel shows one thing at a time — whichever the last action asked for.
+  const showGraph = (g: Graph) => {
+    setGraph(g);
+    setTrends(null);
+    setRecord(null);
+  };
+  const showTrends = (t: Trends) => {
+    setTrends(t);
+    setGraph(null);
+    setRecord(null);
+  };
+  const showRecord = (r: any) => {
+    setRecord(r);
+    setGraph(null);
+    setTrends(null);
+  };
+
   /** Clicking a citation opens the underlying record — the evidence trail, not a footnote. */
   async function openCitation(id: string) {
     if (id.startsWith('P-')) {
       const g = await api.network(id, 2).catch(() => null);
-      if (g) {
-        setGraph(g);
-        setRecord(null);
-      }
+      if (g) showGraph(g);
       return;
     }
     const res = await fetch(api.firUrl(id));
-    if (res.ok) {
-      setRecord(await res.json());
-      setGraph(null);
-    }
+    if (res.ok) showRecord(await res.json());
   }
 
   return (
@@ -108,6 +123,8 @@ export default function App() {
         <section className="right">
           {graph && <GraphView graph={graph} theme={theme} />}
 
+          {trends && <TrendsView trends={trends} theme={theme} onCite={openCitation} />}
+
           {record && (
             <div className="record">
               <div className="graph-head">
@@ -142,9 +159,12 @@ export default function App() {
             </div>
           )}
 
-          {!graph && !record && (
+          {!graph && !trends && !record && (
             <div className="placeholder">
-              <p className="dim">Evidence appears here. Ask a network question, or click any cited record.</p>
+              <p className="dim">
+                Evidence appears here — a network, a trend and hotspot map, or a record. Ask a question, or click
+                any citation.
+              </p>
             </div>
           )}
         </section>
