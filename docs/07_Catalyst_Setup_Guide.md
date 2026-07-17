@@ -102,23 +102,24 @@ the whole P3 design:
 - **Generative AI → RAG → Add Documents** (right panel, *Document Store*) → pick the uploaded docs. Leaving the document store empty makes RAG search the whole Knowledge Base, which is what we want.
 - **View API** (top-right) → **Model Details → API Details** → copy the **RAG endpoint URL**.
 
-> **What to upload — these three files, and nothing else:**
+> **What to upload — these three files, and nothing else** (delete any earlier CIPHER
+> uploads first: pre-schema-redo bundles cite retired `FIR-xxxx` ids that no longer resolve):
 >
 > ```
-> data/kb/cipher-fir-kb--bengaluru-north--part-1.txt   152 FIRs   148 KB
-> data/kb/cipher-fir-kb--kalaburagi--part-1.txt         72 FIRs    70 KB
-> data/kb/cipher-fir-kb--mysuru--part-1.txt             76 FIRs    73 KB
+> data/kb/cipher-fir-kb--bengaluru-north--part-1.txt   152 cases   158 KB
+> data/kb/cipher-fir-kb--kalaburagi--part-1.txt         65 cases    67 KB
+> data/kb/cipher-fir-kb--mysuru--part-1.txt             83 cases    85 KB
 > ```
 >
-> All 300 FIR narratives, grouped by district, largest file 148 KB against the 500 KB cap.
+> All 300 case narratives, grouped by district, largest file 158 KB against the 500 KB cap.
 > Regenerate any time with `node data/bundle_kb.mjs`.
 >
-> There is **no bulk/API upload** — it's a console upload — so the 300 per-FIR files are bundled rather
+> There is **no bulk/API upload** — it's a console upload — so the 300 per-case files are bundled rather
 > than uploaded one by one. Grouping costs no citation precision, because we do **not** depend on RAG's
-> document IDs. Every narrative carries its own `FIR ID: FIR-xxxx` line, so the model cites record IDs
-> from the text, and the function then **validates every cited ID against the record store** before the
-> answer is returned. An ID that doesn't resolve means the model fabricated it, and the answer is
-> discarded — a stronger guarantee than trusting a document-level citation.
+> document IDs. Every narrative carries its own `Crime Number: <18 digits>` line, so the model cites
+> record IDs from the text, and the function then **validates every cited ID against the record store**
+> before the answer is returned. An ID that doesn't resolve means the model fabricated it, and the
+> answer is discarded — a stronger guarantee than trusting a document-level citation.
 
 ### 5d. OAuth client (so Functions can call the above)
 - Zoho **API Console** (`api-console.zoho.in`) → create a **Self Client** (server-to-server).

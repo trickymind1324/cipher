@@ -67,6 +67,16 @@ cd web && npm run build     # emits the SPA into client/
 catalyst deploy             # pushes client + functions to Catalyst
 ```
 
+**Live deployment (Catalyst, IN data center):**
+
+- App: <https://cipher-ksp-60075928027.development.catalystserverless.in/app/index.html>
+- API: <https://cipher-ksp-60075928027.development.catalystserverless.in/server/api/health>
+
+The app is fully functional against the bundled record store (`CIPHER_STORE=memory`).
+LLM-composed answers and RAG similarity switch on once the QuickML environment
+variables are set on the `api` function in the console (see `docs/07`, §5d) and the
+three `data/kb/` files are uploaded to the QuickML Knowledge Base.
+
 ## Documentation
 
 The full design set lives in [`docs/`](docs/) — product requirements, functional requirements, high- and low-level design, the prototype brief, the build plan, and the Catalyst setup guide.
