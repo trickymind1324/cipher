@@ -7,6 +7,7 @@ const network = require('./lib/network');
 const trends = require('./lib/trends');
 const audit = require('./lib/audit');
 const llm = require('./lib/llm');
+const pdf = require('./lib/pdf');
 
 const app = express();
 
@@ -137,9 +138,47 @@ app.get('/trends', (req, res) => {
 	res.json(trends.build({ district, area, crime_type, from, to }));
 });
 
-const notBuiltYet = (phase) => (req, res) =>
-	res.status(501).json({ error: 'not_implemented', phase });
-app.post('/export-pdf', notBuiltYet('P6'));
+/**
+ * Conversation-history PDF (F6). Body: { turns: [{question, answer, citations,
+ * abstained, language, provenance}], role?, user? }. Streams the PDF straight back
+ * as a download — nothing is retained server-side.
+ */
+app.post('/export-pdf', (req, res) => {
+	const { turns, role, user } = req.body || {};
+	if (!Array.isArray(turns) || turns.length === 0) {
+		return res.status(400).json({ error: 'turns_required' });
+	}
+
+	const allCitations = [...new Set(turns.flatMap((t) => (Array.isArray(t.citations) ? t.citations : [])))];
+	audit.record({
+		user,
+		role,
+		question: `PDF export of ${turns.length} turn(s)`,
+		ip: req.ip,
+		action: 'EXPORT_PDF',
+		result: {
+			language: turns.some((t) => t.language === 'kn') ? 'kn' : 'en',
+			intent: 'EXPORT',
+			entities: {},
+			evidence: allCitations,
+			citations: allCitations,
+			abstained: false,
+			source: 'pdf',
+			answer: turns.map((t) => t.answer || '').join('\n'),
+			latency_ms: 0,
+		},
+	});
+
+	const stamp = new Date().toISOString().slice(0, 10);
+	res.setHeader('Content-Type', 'application/pdf');
+	res.setHeader('Content-Disposition', `attachment; filename="cipher-conversation-${stamp}.pdf"`);
+	try {
+		pdf.render({ turns, role, user }, res);
+	} catch (err) {
+		if (!res.headersSent) res.status(500).json({ error: 'pdf_failed', detail: String(err.message).slice(0, 200) });
+		else res.end();
+	}
+});
 
 app.use((req, res) => res.status(404).json({ error: 'not_found', path: req.path }));
 

@@ -122,3 +122,23 @@ export async function query(question: string, context: Entities, role: string): 
 }
 
 export const firUrl = (id: string) => `${BASE}/firs/${id}`;
+
+export type ExportTurn = {
+  question: string;
+  answer: string;
+  citations: string[];
+  abstained: boolean;
+  language: string;
+  provenance: Provenance;
+};
+
+/** F6 — download the conversation as a PDF. The server streams it straight back. */
+export async function exportPdf(turns: ExportTurn[], role: string): Promise<Blob> {
+  const res = await fetch(`${BASE}/export-pdf`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ turns, role }),
+  });
+  if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
+  return res.blob();
+}

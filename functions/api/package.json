@@ -6,6 +6,7 @@
 	"private": true,
 	"dependencies": {
 		"express": "^4.21.2",
+		"pdfkit": "^0.19.1",
 		"zcatalyst-sdk-node": "^3.4.0"
 	}
 }

@@ -67,6 +67,29 @@ export default function App() {
     setTrends(null);
   };
 
+  /** F6 — save the conversation locally as a PDF, exactly as it was answered. */
+  async function exportPdf() {
+    const answered = turns.filter((t) => t.result);
+    if (!answered.length) return;
+    const blob = await api.exportPdf(
+      answered.map((t) => ({
+        question: t.question,
+        answer: t.result!.answer,
+        citations: t.result!.citations,
+        abstained: t.result!.abstained,
+        language: t.result!.language,
+        provenance: t.result!.provenance,
+      })),
+      role,
+    );
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `cipher-conversation-${new Date().toISOString().slice(0, 10)}.pdf`;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
   /** Clicking a citation opens the underlying record — the evidence trail, not a footnote. */
   async function openCitation(id: string) {
     if (id.startsWith('P-')) {
@@ -104,6 +127,15 @@ export default function App() {
               {health?.llm === 'quickml' ? 'GLM 4.7 Flash' : 'records-only'}
             </span>
           </div>
+
+          <button
+            className="ghost"
+            onClick={exportPdf}
+            disabled={!turns.some((t) => t.result)}
+            title="Save this conversation as a PDF"
+          >
+            Export PDF
+          </button>
 
           <button
             className="theme-toggle"

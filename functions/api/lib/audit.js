@@ -13,13 +13,13 @@ const crypto = require('node:crypto');
 const MAX = 500;
 const entries = [];
 
-function record({ user, role, question, result, ip }) {
+function record({ user, role, question, result, ip, action }) {
 	const row = {
 		log_id: crypto.randomUUID(),
 		timestamp: new Date().toISOString(),
 		user_id: user || 'demo-user',
 		role: role || 'INVESTIGATOR',
-		action_type: 'QUERY',
+		action_type: action || 'QUERY',
 		query_text: question,
 		language: result.language,
 		resolved_intent: result.intent,
