@@ -1,0 +1,14 @@
+UnitID,UnitName,TypeID,ParentUnit,NationalityID,StateID,DistrictID,Active
+1,Bengaluru North District Police Office,2,0,1,1,443,1
+2,Yelahanka Police Station,1,1,1,1,443,1
+3,Hebbal Police Station,1,1,1,1,443,1
+4,Peenya Police Station,1,1,1,1,443,1
+5,RT Nagar Police Station,1,1,1,1,443,1
+6,Mysuru District Police Office,2,0,1,1,450,1
+7,Krishnaraja Police Station,1,6,1,1,450,1
+8,Nanjangud Police Station,1,6,1,1,450,1
+9,Hunsur Police Station,1,6,1,1,450,1
+10,Kalaburagi District Police Office,2,0,1,1,430,1
+11,Kalaburagi City Police Station,1,10,1,1,430,1
+12,Aland Police Station,1,10,1,1,430,1
+13,Chittapur Police Station,1,10,1,1,430,1

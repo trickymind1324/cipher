@@ -1,0 +1,27 @@
+Crime Number: 104430004202500013
+Case Number: 202500013
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-11-03 17:45:00
+Date of Registration: 2025-11-04
+Investigating Officer: PSI Lakshmi Swamy
+Status: Under Investigation
+
+Brief Facts:
+On 2025-11-03, Mahesh Shetty, a resident of 118, Extension, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Mahesh Shetty (P-0196), aged 23, Delivery Rider.
+
+Victim:
+Mahesh Shetty (P-0196), aged 23.
+
+Accused:
+The following persons are named as accused in this case: Pooja Achar (P-0058).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

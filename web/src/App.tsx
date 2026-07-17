@@ -129,25 +129,27 @@ export default function App() {
             <div className="record">
               <div className="graph-head">
                 <h2>
-                  {record.fir_id} <span className="dim">{record.fir_number}</span>
+                  {record.crime_no} <span className="dim">{record.case_category} · {record.case_no}</span>
                 </h2>
                 <button className="ghost" onClick={() => setRecord(null)}>
                   Close
                 </button>
               </div>
               <dl>
-                <div><dt>Crime</dt><dd>{record.crime_type}</dd></div>
-                <div><dt>Sections</dt><dd>{record.ipc_sections}</dd></div>
-                <div><dt>Where</dt><dd>{record.police_station}, {record.taluk}, {record.district}</dd></div>
+                <div><dt>Crime</dt><dd>{record.crime_head} — {record.crime_type}</dd></div>
+                <div><dt>Sections</dt><dd>{record.sections}</dd></div>
+                <div><dt>Gravity</dt><dd>{record.gravity}</dd></div>
+                <div><dt>Where</dt><dd>{record.police_station}, {record.district}</dd></div>
                 <div><dt>Occurred</dt><dd>{record.occurrence_date} at {record.occurrence_time}</dd></div>
-                <div><dt>Status</dt><dd>{record.status}</dd></div>
+                <div><dt>Status</dt><dd>{record.status}{record.final_report_label ? ` · ${record.final_report_label}` : ''}</dd></div>
                 <div><dt>IO</dt><dd>{record.io_officer}</dd></div>
+                <div><dt>Court</dt><dd>{record.court}</dd></div>
               </dl>
-              <p className="mo">{record.modus_operandi}</p>
+              <p className="mo">{record.brief_facts}</p>
               <h3>Parties</h3>
               <ul className="parties">
-                {record.parties?.map((p: any) => (
-                  <li key={p.id}>
+                {record.parties?.map((p: any, i: number) => (
+                  <li key={`${p.person_id}-${p.role}-${i}`}>
                     <span className={`tag ${p.role}`}>{p.role}</span>
                     {p.person?.full_name}{' '}
                     <button className="cite" onClick={() => openCitation(p.person_id)}>

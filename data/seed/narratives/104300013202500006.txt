@@ -1,0 +1,27 @@
+Crime Number: 104300013202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-18 16:15:00
+Date of Registration: 2025-12-20
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-12-18, Farhan Rao, a resident of 68, Main Road, Aland, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Farhan Rao (P-0246), aged 46, Shop Assistant.
+
+Victim:
+Farhan Rao (P-0246), aged 46.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Murthy (P-0039), Mahesh Kulkarni (P-0035).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

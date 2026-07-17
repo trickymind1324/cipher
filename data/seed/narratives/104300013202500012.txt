@@ -1,0 +1,27 @@
+Crime Number: 104300013202500012
+Case Number: 202500012
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-04 02:43:00
+Date of Registration: 2025-01-07
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-01-04, Harish Achar, a resident of 150, Extension, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Harish Achar (P-0144), aged 42, Mechanic.
+
+Victim:
+Harish Achar (P-0144), aged 42.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Kamath (P-0044), Bhavya Reddy (P-0001).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

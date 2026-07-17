@@ -1,0 +1,8 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,SeqID
+1,1,Chain Snatching,1
+2,1,House Burglary,2
+3,1,Vehicle Theft,3
+4,1,Robbery,4
+5,2,Assault / Hurt,1
+6,3,Cheating / Online Fraud,1
+7,4,Narcotics Possession,1

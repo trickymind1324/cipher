@@ -47,7 +47,7 @@ export default function TrendsView({
   const c = useColors(theme);
   const { series, hotspots, movement, top_area, total, filters } = trends;
 
-  const scope = [filters.crime_type, filters.taluk || filters.district, filters.from?.slice(0, 4)]
+  const scope = [filters.crime_type, filters.area || filters.district, filters.from?.slice(0, 4)]
     .filter(Boolean)
     .join(' · ');
 
@@ -64,7 +64,7 @@ export default function TrendsView({
         <div>
           <h2>Crime trend &amp; hotspots</h2>
           <p className="dim">
-            {scope || 'all records'} · {total} FIRs
+            {scope || 'all records'} · {total} cases
           </p>
         </div>
         {movement && (
@@ -80,12 +80,12 @@ export default function TrendsView({
         <div className="leads">
           <span className="tag">TREND</span>
           <span>
-            Averaging <strong>{movement.recent_avg}</strong> FIRs/month over {movement.recent_window}, against{' '}
+            Averaging <strong>{movement.recent_avg}</strong> cases/month over {movement.recent_window}, against{' '}
             <strong>{movement.prior_avg}</strong> over {movement.prior_window} — {movement.direction}.
             {top_area && (
               <>
                 {' '}
-                <strong>{top_area.taluk}</strong> accounts for {Math.round(top_area.share * 100)}% of them.
+                <strong>{top_area.area}</strong> accounts for {Math.round(top_area.share * 100)}% of them.
               </>
             )}
           </span>
@@ -114,7 +114,7 @@ export default function TrendsView({
                 fontSize: 12,
                 color: c.text,
               }}
-              formatter={(v) => `${v} FIRs`}
+              formatter={(v) => `${v} cases`}
             />
             <Bar dataKey="count" radius={[3, 3, 0, 0]}>
               {series.map((s) => (
@@ -137,7 +137,7 @@ export default function TrendsView({
             .filter((h) => h.lat != null && h.lon != null)
             .map((h) => (
               <CircleMarker
-                key={h.taluk}
+                key={h.area}
                 center={[h.lat as number, h.lon as number]}
                 radius={8 + (h.count / maxArea) * 26}
                 pathOptions={{
@@ -148,7 +148,7 @@ export default function TrendsView({
                 }}
               >
                 <MapTooltip>
-                  <strong>{h.taluk}</strong> — {h.count} FIRs ({Math.round(h.share * 100)}%)
+                  <strong>{h.area}</strong> — {h.count} cases ({Math.round(h.share * 100)}%)
                 </MapTooltip>
               </CircleMarker>
             ))}
@@ -158,7 +158,7 @@ export default function TrendsView({
       {top_area && (
         <div className="graph-foot">
           <div className="inspect">
-            <strong>{top_area.taluk}</strong> — {top_area.count} FIRs. Source records:
+            <strong>{top_area.area}</strong> — {top_area.count} cases. Source records:
             <div className="cites">
               {top_area.fir_ids.slice(0, 12).map((id) => (
                 <button key={id} className="cite" onClick={() => onCite(id)}>

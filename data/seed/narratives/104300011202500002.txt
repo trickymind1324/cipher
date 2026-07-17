@@ -1,0 +1,27 @@
+Crime Number: 104300011202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-16 14:12:00
+Date of Registration: 2025-06-18
+Investigating Officer: PSI Suresh Gowda
+Status: Under Investigation
+
+Brief Facts:
+On 2025-06-16, Vinay Swamy, a resident of 2, Extension, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Vinay Swamy (P-0148), aged 51, Unemployed.
+
+Victim:
+Vinay Swamy (P-0148), aged 51.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

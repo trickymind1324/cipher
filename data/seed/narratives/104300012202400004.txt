@@ -1,0 +1,27 @@
+Crime Number: 104300012202400004
+Case Number: 202400004
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-19 02:13:00
+Date of Registration: 2024-08-21
+Investigating Officer: PSI Nagaraj Prasad
+Status: Closed
+
+Brief Facts:
+On 2024-08-19, Naveen Rao, a resident of 143, Cross Road, Chittapur, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Naveen Rao (P-0173), aged 47, Unemployed.
+
+Victim:
+Naveen Rao (P-0173), aged 47.
+
+Accused:
+The following persons are named as accused in this case: Mahesh Kulkarni (P-0035).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

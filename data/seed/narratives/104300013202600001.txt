@@ -1,0 +1,27 @@
+Crime Number: 104300013202600001
+Case Number: 202600001
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-24 01:09:00
+Date of Registration: 2026-03-27
+Investigating Officer: PSI Savitha Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2026-03-24, Prakash Patil, a resident of 61, Layout, Aland, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Patil (P-0097), aged 23, Auto Driver.
+
+Victim:
+Shwetha Desai (P-0164), aged 23.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

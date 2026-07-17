@@ -1,0 +1,27 @@
+Crime Number: 104430005202400004
+Case Number: 202400004
+Case Category: FIR
+Police Station: RT Nagar Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-10-13 07:46:00
+Date of Registration: 2024-10-13
+Investigating Officer: PSI Bhavya Shetty
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-10-13, Nandini Desai, a resident of 71, Main Road, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of RT Nagar Police Station in Bengaluru North district.
+
+Complainant:
+Nandini Desai (P-0257), aged 45, Daily Wage Labourer.
+
+Victim:
+Nandini Desai (P-0257), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Shwetha Achar (P-0078).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

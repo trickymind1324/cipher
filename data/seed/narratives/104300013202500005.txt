@@ -1,0 +1,27 @@
+Crime Number: 104300013202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-25 22:01:00
+Date of Registration: 2025-08-25
+Investigating Officer: PSI Savitha Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2025-08-25, Kiran Rao, a resident of 8, Main Road, Kalaburagi City, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Rao (P-0202), aged 45, Mechanic.
+
+Victim:
+Kiran Rao (P-0202), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Savitha Jadhav (P-0011), Ramesh Shetty (P-0049).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

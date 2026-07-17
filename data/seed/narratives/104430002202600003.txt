@@ -1,0 +1,27 @@
+Crime Number: 104430002202600003
+Case Number: 202600003
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-06-08 05:16:00
+Date of Registration: 2026-06-08
+Investigating Officer: PSI Ananya Kulkarni
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-06-08, Nandini Achar, a resident of 26, Colony, Yelahanka, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Nandini Achar (P-0106), aged 24, Daily Wage Labourer.
+
+Victim:
+Nandini Achar (P-0106), aged 24.
+
+Accused:
+The following persons are named as accused in this case: Anand Bhat (P-0082), Vinay Kumar (P-0003).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,27 @@
+Crime Number: 104500007202500011
+Case Number: 202500011
+Case Category: FIR
+Police Station: Krishnaraja Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-03 23:47:00
+Date of Registration: 2025-08-04
+Investigating Officer: PSI Savitha Shetty
+Status: Closed
+
+Brief Facts:
+On 2025-08-03, Anand Naik, a resident of 102, Colony, Krishnaraja, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Mysuru district.
+
+Complainant:
+Anand Naik (P-0140), aged 48, Street Vendor.
+
+Victim:
+Anand Naik (P-0140), aged 48.
+
+Accused:
+The following persons are named as accused in this case: Ramesh Reddy (P-0047), Ramesh Shetty (P-0046).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

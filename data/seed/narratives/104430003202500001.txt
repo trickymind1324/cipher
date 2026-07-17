@@ -1,0 +1,27 @@
+Crime Number: 104430003202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-11-28 16:20:00
+Date of Registration: 2025-11-28
+Investigating Officer: PSI Nandini Murthy
+Status: Closed
+
+Brief Facts:
+On 2025-11-28, Naveen Kamath, a resident of 106, Cross Road, Peenya, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Naveen Kamath (P-0290), aged 29, Construction Worker.
+
+Victim:
+Naveen Kamath (P-0290), aged 29.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

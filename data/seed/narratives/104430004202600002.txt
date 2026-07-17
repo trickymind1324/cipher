@@ -1,0 +1,27 @@
+Crime Number: 104430004202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-15 05:15:00
+Date of Registration: 2026-01-17
+Investigating Officer: PSI Lakshmi Swamy
+Status: Closed
+
+Brief Facts:
+On 2026-01-15, Savitha Hegde, a resident of 43, Layout, Hebbal, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Savitha Hegde (P-0177), aged 31, Unemployed.
+
+Victim:
+Savitha Hegde (P-0177), aged 31.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Murthy (P-0084), Farhan Murthy (P-0081).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

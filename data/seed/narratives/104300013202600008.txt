@@ -1,0 +1,27 @@
+Crime Number: 104300013202600008
+Case Number: 202600008
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2026-01-22 00:38:00
+Date of Registration: 2026-01-22
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-01-22, Kiran Naik, a resident of 138, Colony, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Naik (P-0222), aged 28, Delivery Rider.
+
+Victim:
+Ramesh Gowda (P-0270), aged 43.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Reddy (P-0038), Kiran Desai (P-0024).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

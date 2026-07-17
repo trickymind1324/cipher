@@ -1,0 +1,27 @@
+Crime Number: 104500007202500010
+Case Number: 202500010
+Case Category: FIR
+Police Station: Krishnaraja Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-09-01 12:22:00
+Date of Registration: 2025-09-04
+Investigating Officer: PSI Savitha Shetty
+Status: Closed
+
+Brief Facts:
+On 2025-09-01, Mahesh Reddy, a resident of 110, Layout, Nanjangud, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Mysuru district.
+
+Complainant:
+Mahesh Reddy (P-0204), aged 34, Delivery Rider.
+
+Victim:
+Mahesh Reddy (P-0204), aged 34.
+
+Accused:
+The following persons are named as accused in this case: Deepa Desai (P-0090), Nagaraj Pujari (P-0066).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

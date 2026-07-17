@@ -1,0 +1,27 @@
+Crime Number: 104300013202500008
+Case Number: 202500008
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-12 20:48:00
+Date of Registration: 2025-01-15
+Investigating Officer: PSI Lakshmi Naik
+Status: Under Investigation
+
+Brief Facts:
+On 2025-01-12, Ravi Kamath, a resident of 175, Extension, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Kamath (P-0200), aged 38, Private Security Guard.
+
+Victim:
+Ravi Kamath (P-0200), aged 38.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

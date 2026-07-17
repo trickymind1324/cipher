@@ -1,0 +1,27 @@
+Crime Number: 804300011202400001
+Case Number: 202400001
+Case Category: Zero FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-09-21 12:48:00
+Date of Registration: 2024-09-23
+Investigating Officer: PSI Suresh Gowda
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-09-21, Prakash Desai, a resident of 62, Colony, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Desai (P-0261), aged 31, Daily Wage Labourer.
+
+Victim:
+Ravi Murthy (P-0118), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Reddy (P-0038).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

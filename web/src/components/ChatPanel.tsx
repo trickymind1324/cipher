@@ -11,7 +11,7 @@ export type Turn = {
 const SUGGESTIONS = [
   'Is chain snatching rising in Bengaluru North?',
   'Which area has the most chain snatching in Bengaluru North in 2026?',
-  'Show the network around P-0070',
+  'Show the network around P-0067',
   'Who are the repeat chain snatching accused in Bengaluru North?',
   'ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸರಗಳ್ಳತನ ಪ್ರಕರಣಗಳ ಬಗ್ಗೆ ಹೇಳಿ',
   'List narcotics cases in Kalaburagi',

@@ -1,0 +1,27 @@
+Crime Number: 804500007202600001
+Case Number: 202600001
+Case Category: Zero FIR
+Police Station: Krishnaraja Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-04-03 12:38:00
+Date of Registration: 2026-04-04
+Investigating Officer: PSI Roopa Jadhav
+Status: Closed
+
+Brief Facts:
+On 2026-04-03, Vidya Jadhav, a resident of 54, Extension, Hunsur, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Krishnaraja Police Station in Mysuru district.
+
+Complainant:
+Vidya Jadhav (P-0260), aged 38, Auto Driver.
+
+Victim:
+Mahesh Reddy (P-0204), aged 34.
+
+Accused:
+The following persons are named as accused in this case: Chetan Murthy (P-0007).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

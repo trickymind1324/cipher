@@ -19,7 +19,8 @@ const llm = require('./llm');
 const rag = require('./rag');
 const trends = require('./trends');
 
-const ID_RE = /\b(?:FIR-\d{3,4}|P-\d{3,4})\b/gi;
+// Citable ids: an 18-digit CrimeNo, or a person_master id (P-xxxx).
+const ID_RE = /\b(?:\d{18}|P-\d{3,4})\b/gi;
 
 // ── retrieval ─────────────────────────────────────────────────────────────────
 
@@ -40,22 +41,22 @@ function resolvePerson(entities) {
  * worst a bad retrieval can do is return fewer cases, never wrong facts about them.
  */
 async function retrieveSimilar(entities, question) {
-	const seed = entities.fir_id ? store.getFir(entities.fir_id) : null;
-	// Describe by MO if a case was named, else use the question itself.
-	const description = seed ? `${seed.crime_type}: ${seed.modus_operandi}` : question;
+	const seed = entities.crime_no ? store.getFir(entities.crime_no) : null;
+	// Describe by the case narrative if a case was named, else use the question itself.
+	const description = seed ? `${seed.crime_type}: ${seed.brief_facts}` : question;
 
-	const { fir_ids } = await rag.similarFirIds(description);
+	const { crime_nos } = await rag.similarCrimeNos(description);
 
-	const firs = fir_ids
-		.filter((id) => id !== seed?.fir_id) // a case is not similar to itself
+	const firs = crime_nos
+		.filter((id) => id !== seed?.crime_no) // a case is not similar to itself
 		.map((id) => store.getFir(id))
 		.filter(Boolean); // an id RAG invented simply vanishes here
 
 	return {
 		kind: 'similar',
 		records: firs,
-		evidence: [...(seed ? [seed.fir_id] : []), ...firs.map((f) => f.fir_id)],
-		data: { seed, description, rows: firs, proposed: fir_ids.length, resolved: firs.length },
+		evidence: [...(seed ? [seed.crime_no] : []), ...firs.map((f) => f.crime_no)],
+		data: { seed, description, rows: firs, proposed: crime_nos.length, resolved: firs.length },
 	};
 }
 
@@ -65,20 +66,20 @@ async function retrieveSimilar(entities, question) {
 function retrieve(intent, entities) {
 	const filters = {
 		district: entities.district,
-		taluk: entities.taluk,
+		area: entities.area,
 		crime_type: entities.crime_type,
 		from: entities.date?.from,
 		to: entities.date?.to,
 	};
 
-	if (intent === 'SUMMARY' && entities.fir_id) {
-		const fir = store.getFir(entities.fir_id);
+	if (intent === 'SUMMARY' && entities.crime_no) {
+		const fir = store.getFir(entities.crime_no);
 		if (!fir) return { kind: 'fir', records: [], evidence: [] };
-		const parties = store.partiesOfFir(fir.fir_id);
+		const parties = store.partiesOfFir(fir.crime_no);
 		return {
 			kind: 'fir',
 			records: [fir],
-			evidence: [fir.fir_id, ...parties.map((p) => p.person_id)],
+			evidence: [fir.crime_no, ...parties.map((p) => p.person_id)],
 			data: { fir, parties },
 		};
 	}
@@ -96,7 +97,7 @@ function retrieve(intent, entities) {
 			records: [person],
 			evidence: [
 				person.person_id,
-				...firs.map((f) => f.fir.fir_id),
+				...firs.map((f) => f.fir.crime_no),
 				...co.map((c) => c.person_id),
 				...links.map((l) => l.person_id),
 			],
@@ -131,7 +132,7 @@ function retrieve(intent, entities) {
 	return {
 		kind: 'firs',
 		records: rows,
-		evidence: rows.map((f) => f.fir_id),
+		evidence: rows.map((f) => f.crime_no),
 		data: { rows, total, filters },
 	};
 }
@@ -143,17 +144,17 @@ function contextBlock(r) {
 	const d = r.data || {};
 
 	if (r.kind === 'firs') {
-		lines.push(`Matching FIRs: ${d.total} total, showing ${d.rows.length}.`);
+		lines.push(`Matching cases: ${d.total} total, showing ${d.rows.length}.`);
 		for (const f of d.rows) {
-			lines.push(`- ${f.fir_id} | ${f.crime_type} | ${f.taluk}, ${f.district} | occurred ${f.occurrence_date} | status ${f.status} | ${f.modus_operandi}`);
+			lines.push(`- ${f.crime_no} | ${f.crime_type} | ${f.area}, ${f.district} | occurred ${f.occurrence_date} | status ${f.status} | ${f.brief_facts}`);
 		}
 	}
 
 	if (r.kind === 'similar') {
-		if (d.seed) lines.push(`Reference case ${d.seed.fir_id}: ${d.seed.crime_type} — ${d.seed.modus_operandi}`);
+		if (d.seed) lines.push(`Reference case ${d.seed.crime_no}: ${d.seed.crime_type} — ${d.seed.brief_facts}`);
 		lines.push(`Cases with a similar narrative (${d.rows.length}):`);
 		for (const f of d.rows) {
-			lines.push(`- ${f.fir_id} | ${f.crime_type} | ${f.taluk}, ${f.district} | ${f.occurrence_date} | ${f.status} | ${f.modus_operandi}`);
+			lines.push(`- ${f.crime_no} | ${f.crime_type} | ${f.area}, ${f.district} | ${f.occurrence_date} | ${f.status} | ${f.brief_facts}`);
 		}
 		// The count below is the number of records that resolved, not a count of all such
 		// cases in the database. Say so, or the model will present it as a total.
@@ -162,23 +163,23 @@ function contextBlock(r) {
 
 	if (r.kind === 'fir') {
 		const f = d.fir;
-		lines.push(`${f.fir_id} (${f.fir_number}) | ${f.crime_type} | ${f.police_station}, ${f.taluk}, ${f.district}`);
-		lines.push(`Occurred ${f.occurrence_date}, registered ${f.registered_date}. Sections: ${f.ipc_sections}. Status: ${f.status}. IO: ${f.io_officer}.`);
-		lines.push(`Modus operandi: ${f.modus_operandi}`);
+		lines.push(`Crime No ${f.crime_no} (Case No ${f.case_no}, ${f.case_category}) | ${f.crime_head} — ${f.crime_type} | ${f.police_station}, ${f.district}`);
+		lines.push(`Occurred ${f.occurrence_date}, registered ${f.registered_date}. Sections: ${f.sections}. Gravity: ${f.gravity}. Status: ${f.status}${f.final_report_label ? ` (${f.final_report_label})` : ''}. IO: ${f.io_officer}. Court: ${f.court}.`);
+		lines.push(`Brief facts: ${f.brief_facts}`);
 		for (const p of d.parties) {
-			lines.push(`- ${p.role}: ${p.person?.full_name} (${p.person_id})${p.bail_status ? ` | ${p.bail_status}` : ''}`);
+			lines.push(`- ${p.role}: ${p.person?.full_name} (${p.person_id})${p.arrest ? ` | ${p.arrest.type} on ${p.arrest.date}` : ''}`);
 		}
 	}
 
 	if (r.kind === 'network' || r.kind === 'profile') {
 		const p = d.person;
-		lines.push(`${p.person_id} | ${p.full_name} | ${p.age_band} | ${p.taluk}, ${p.district} | occupation: ${p.occupation}`);
-		lines.push(`Named in ${d.firs.length} FIRs:`);
-		for (const f of d.firs.slice(0, 12)) lines.push(`- ${f.fir.fir_id} | ${f.role} | ${f.fir.crime_type} | ${f.fir.taluk} | ${f.fir.occurrence_date}`);
+		lines.push(`${p.person_id} | ${p.full_name} | ${p.age_band} | ${p.district} | occupation: ${p.occupation}`);
+		lines.push(`Named in ${d.firs.length} cases:`);
+		for (const f of d.firs.slice(0, 12)) lines.push(`- ${f.fir.crime_no} | ${f.role} | ${f.fir.crime_type} | ${f.fir.area} | ${f.fir.occurrence_date}`);
 		if (d.co_accused.length) {
-			lines.push('Co-accused (persons charged in the same FIRs):');
+			lines.push('Co-accused (persons charged in the same cases):');
 			for (const c of d.co_accused.slice(0, 8)) {
-				lines.push(`- ${c.person_id} | ${c.person?.full_name} | co-accused in ${c.shared_firs.length} FIR(s): ${c.shared_firs.join(', ')}`);
+				lines.push(`- ${c.person_id} | ${c.person?.full_name} | co-accused in ${c.shared_firs.length} case(s): ${c.shared_firs.join(', ')}`);
 			}
 		}
 		if (d.shared_links.length) {
@@ -190,21 +191,21 @@ function contextBlock(r) {
 	}
 
 	if (r.kind === 'repeat_offender') {
-		lines.push('Accused ranked by number of FIRs in scope:');
+		lines.push('Accused ranked by number of cases in scope:');
 		for (const row of d.rows) {
-			lines.push(`- ${row.person_id} | ${row.person?.full_name} | ${row.fir_count} FIRs: ${row.fir_ids.join(', ')}`);
+			lines.push(`- ${row.person_id} | ${row.person?.full_name} | ${row.fir_count} cases: ${row.fir_ids.join(', ')}`);
 		}
 	}
 
 	if (r.kind === 'trend' || r.kind === 'hotspot') {
-		lines.push(`Total FIRs in scope: ${d.total}.`);
-		lines.push('FIR count by month:');
+		lines.push(`Total cases in scope: ${d.total}.`);
+		lines.push('Case count by month:');
 		for (const s of d.series) lines.push(`- ${s.key}: ${s.count}`);
-		lines.push('FIR count by taluk:');
-		for (const a of d.hotspots) lines.push(`- ${a.taluk}: ${a.count} (${Math.round(a.share * 100)}%)`);
+		lines.push('Case count by area:');
+		for (const a of d.hotspots) lines.push(`- ${a.area}: ${a.count} (${Math.round(a.share * 100)}%)`);
 		if (d.movement) {
 			lines.push(
-				`Movement: ${d.movement.direction}. ${d.movement.recent_avg} FIRs/month over ${d.movement.recent_window} versus ${d.movement.prior_avg} over ${d.movement.prior_window} (${d.movement.change_pct}%).`
+				`Movement: ${d.movement.direction}. ${d.movement.recent_avg} cases/month over ${d.movement.recent_window} versus ${d.movement.prior_avg} over ${d.movement.prior_window} (${d.movement.change_pct}%).`
 			);
 		}
 	}
@@ -218,23 +219,23 @@ function templateAnswer(r, parsed) {
 	const d = r.data || {};
 	const scope = [
 		parsed.entities.crime_type,
-		parsed.entities.taluk || parsed.entities.district,
+		parsed.entities.area || parsed.entities.district,
 		parsed.entities.date?.label,
 	].filter(Boolean).join(', ');
 
 	if (r.kind === 'firs') {
-		const head = `Found ${d.total} FIR${d.total === 1 ? '' : 's'}${scope ? ` for ${scope}` : ''}. Showing the ${d.rows.length} most recent:`;
-		return [head, ...d.rows.map((f) => `• ${f.fir_id} — ${f.crime_type}, ${f.taluk} (${f.occurrence_date}), ${f.status}`)].join('\n');
+		const head = `Found ${d.total} case${d.total === 1 ? '' : 's'}${scope ? ` for ${scope}` : ''}. Showing the ${d.rows.length} most recent:`;
+		return [head, ...d.rows.map((f) => `• ${f.crime_no} — ${f.crime_type}, ${f.area} (${f.occurrence_date}), ${f.status}`)].join('\n');
 	}
 	if (r.kind === 'similar') {
 		// "shortlist", never "there are N such cases" — RAG returns its top matches, and
 		// reporting that number as a total is exactly how it misled the console test.
 		const head = d.seed
-			? `Cases resembling ${d.seed.fir_id} (${d.seed.crime_type} — ${d.seed.modus_operandi}):`
+			? `Cases resembling ${d.seed.crime_no} (${d.seed.crime_type}):`
 			: 'Cases with a similar narrative:';
 		return [
 			head,
-			...d.rows.map((f) => `• ${f.fir_id} — ${f.crime_type}, ${f.taluk} (${f.occurrence_date}), ${f.status}`),
+			...d.rows.map((f) => `• ${f.crime_no} — ${f.crime_type}, ${f.area} (${f.occurrence_date}), ${f.status}`),
 			'',
 			'This is a similarity shortlist, not a count of every such case.',
 		].join('\n');
@@ -244,18 +245,18 @@ function templateAnswer(r, parsed) {
 		const f = d.fir;
 		const accused = d.parties.filter((p) => p.role === 'accused');
 		return [
-			`${f.fir_id} (${f.fir_number}) — ${f.crime_type} at ${f.taluk}, ${f.district} on ${f.occurrence_date}. Status: ${f.status}.`,
-			`Modus operandi: ${f.modus_operandi}`,
+			`Crime No ${f.crime_no} (${f.case_category}) — ${f.crime_type} at ${f.area}, ${f.district} on ${f.occurrence_date}. Sections: ${f.sections}. Status: ${f.status}.`,
+			`Brief facts: ${f.brief_facts}`,
 			accused.length
 				? `Accused: ${accused.map((p) => `${p.person?.full_name} (${p.person_id})`).join(', ')}`
-				: 'No accused has been identified in this FIR.',
+				: 'No accused has been identified in this case.',
 		].join('\n');
 	}
 	if (r.kind === 'network' || r.kind === 'profile') {
 		const p = d.person;
-		const out = [`${p.full_name} (${p.person_id}) is named in ${d.firs.length} FIR${d.firs.length === 1 ? '' : 's'}.`];
+		const out = [`${p.full_name} (${p.person_id}) is named in ${d.firs.length} case${d.firs.length === 1 ? '' : 's'}.`];
 		if (d.co_accused.length) {
-			out.push(`Co-accused: ${d.co_accused.slice(0, 5).map((c) => `${c.person?.full_name} (${c.person_id}, ${c.shared_firs.length} shared FIRs)`).join(', ')}`);
+			out.push(`Co-accused: ${d.co_accused.slice(0, 5).map((c) => `${c.person?.full_name} (${c.person_id}, ${c.shared_firs.length} shared cases)`).join(', ')}`);
 		}
 		if (d.shared_links.length) {
 			out.push(`Shared identifiers: ${d.shared_links.map((l) => `${l.person?.full_name} (${l.person_id}) shares ${l.type} ${l.value}`).join('; ')}`);
@@ -263,25 +264,25 @@ function templateAnswer(r, parsed) {
 		return out.join('\n');
 	}
 	if (r.kind === 'repeat_offender') {
-		return [`Accused with the most FIRs${scope ? ` for ${scope}` : ''}:`, ...d.rows.map((x, i) => `${i + 1}. ${x.person?.full_name} (${x.person_id}) — ${x.fir_count} FIRs`)].join('\n');
+		return [`Accused with the most cases${scope ? ` for ${scope}` : ''}:`, ...d.rows.map((x, i) => `${i + 1}. ${x.person?.full_name} (${x.person_id}) — ${x.fir_count} cases`)].join('\n');
 	}
 	// The chart and map are on screen beside these answers, so the text says what the
 	// picture can't: the direction, the size of the change, and where it is concentrated.
 	if (r.kind === 'trend') {
 		const first = d.series[0], last = d.series[d.series.length - 1];
 		const m = d.movement;
-		const out = [`${d.total} FIRs${scope ? ` for ${scope}` : ''} between ${first.key} and ${last.key}.`];
+		const out = [`${d.total} cases${scope ? ` for ${scope}` : ''} between ${first.key} and ${last.key}.`];
 
 		if (m && m.direction !== 'flat') {
 			out.push(
-				`The trend is ${m.direction}: ${m.recent_avg} FIRs/month over ${m.recent_window}, against ${m.prior_avg} over ${m.prior_window} (${m.change_pct > 0 ? '+' : ''}${m.change_pct}%).`
+				`The trend is ${m.direction}: ${m.recent_avg} cases/month over ${m.recent_window}, against ${m.prior_avg} over ${m.prior_window} (${m.change_pct > 0 ? '+' : ''}${m.change_pct}%).`
 			);
 		} else if (m) {
-			out.push(`The trend is flat: ${m.recent_avg} FIRs/month, broadly unchanged from ${m.prior_avg}.`);
+			out.push(`The trend is flat: ${m.recent_avg} cases/month, broadly unchanged from ${m.prior_avg}.`);
 		}
 
 		if (d.top_area) {
-			out.push(`${d.top_area.taluk} accounts for ${Math.round(d.top_area.share * 100)}% of them (${d.top_area.count} FIRs).`);
+			out.push(`${d.top_area.area} accounts for ${Math.round(d.top_area.share * 100)}% of them (${d.top_area.count} cases).`);
 		}
 		return out.join('\n');
 	}
@@ -289,10 +290,10 @@ function templateAnswer(r, parsed) {
 	if (r.kind === 'hotspot') {
 		const top = d.top_area;
 		const out = [
-			`${top.taluk} has the most FIRs${scope ? ` for ${scope}` : ''}: ${top.count} of ${d.total} (${Math.round(top.share * 100)}%).`,
+			`${top.area} has the most cases${scope ? ` for ${scope}` : ''}: ${top.count} of ${d.total} (${Math.round(top.share * 100)}%).`,
 		];
 		const rest = d.hotspots.slice(1, 4);
-		if (rest.length) out.push(`Next: ${rest.map((a) => `${a.taluk} (${a.count})`).join(', ')}.`);
+		if (rest.length) out.push(`Next: ${rest.map((a) => `${a.area} (${a.count})`).join(', ')}.`);
 		return out.join('\n');
 	}
 	return 'No answer could be composed.';
@@ -305,7 +306,7 @@ const SYSTEM = (lang) => `You are CIPHER, an assistant for the Karnataka State P
 Rules you must follow exactly:
 1. Answer ONLY from the RECORDS block given to you. It is your entire world.
 2. Never state a fact that is not in the RECORDS. Do not use outside knowledge about crime, places, or people.
-3. Cite the record id (FIR-xxxx or P-xxxx) in brackets after every fact you state.
+3. Cite the record id (the 18-digit Crime Number, or P-xxxx for a person) in brackets after every fact you state.
 4. Never invent a record id. Only use ids that appear in the RECORDS block.
 5. If the RECORDS do not answer the question, say so plainly. Do not guess.
 6. Be concise and factual. No speculation, no advice, no moralising.

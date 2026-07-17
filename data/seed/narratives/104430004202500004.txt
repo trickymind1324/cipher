@@ -1,0 +1,27 @@
+Crime Number: 104430004202500004
+Case Number: 202500004
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-07 08:55:00
+Date of Registration: 2025-07-08
+Investigating Officer: PSI Girish Swamy
+Status: Under Investigation
+
+Brief Facts:
+On 2025-07-07, Farhan Swamy, a resident of 112, Main Road, Hebbal, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Farhan Swamy (P-0211), aged 44, Mechanic.
+
+Victim:
+Farhan Swamy (P-0211), aged 44.
+
+Accused:
+The following persons are named as accused in this case: Ramesh Pujari (P-0074), Lokesh Shetty (P-0077).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

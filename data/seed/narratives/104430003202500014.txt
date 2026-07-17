@@ -1,0 +1,27 @@
+Crime Number: 104430003202500014
+Case Number: 202500014
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-23 13:04:00
+Date of Registration: 2025-12-23
+Investigating Officer: PSI Nandini Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-12-23, Naveen Gowda, a resident of 74, Extension, RT Nagar, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Naveen Gowda (P-0253), aged 43, Private Security Guard.
+
+Victim:
+Naveen Gowda (P-0253), aged 43.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -15,8 +15,8 @@
  *     "there are two cases" when asked to summarise them. It returns its top-k chunks and
  *     then describes the size of its retrieval window as if it were the size of the world.
  *     Cited, fluent, and wrong by 6x.
- *   - could not answer "what happened in FIR-0028?" at all — embedding search does not
- *     match exact identifiers, so it cannot do the most basic lookup an officer needs.
+ *   - could not answer "what happened in <crime number>?" at all — embedding search does
+ *     not match exact identifiers, so it cannot do the most basic lookup an officer needs.
  *   - but named genuinely similar cases, accurately, when asked about a modus operandi —
  *     which is the one thing SQL cannot do, because the MO is prose, not a column.
  *
@@ -27,7 +27,8 @@
 const llm = require('./llm');
 
 const DEFAULT_URL = 'https://api.catalyst.zoho.in/quickml/v1/project/43331000000013057/rag/chat';
-const FIR_RE = /\bFIR-\d{3,4}\b/gi;
+// An 18-digit CrimeNo — the citation key each KB narrative carries on its first line.
+const CRIME_NO_RE = /\b\d{18}\b/g;
 
 const cfg = () => ({
 	url: process.env.QUICKML_RAG_URL || DEFAULT_URL,
@@ -37,10 +38,10 @@ const cfg = () => ({
 const isConfigured = () => llm.isConfigured() && Boolean(cfg().url);
 
 /**
- * Ask the knowledge base which FIRs read like `description`.
- * @returns {Promise<{fir_ids: string[], raw: string}>} candidate ids only — no prose is kept
+ * Ask the knowledge base which cases read like `description`.
+ * @returns {Promise<{crime_nos: string[], raw: string}>} candidate ids only — no prose is kept
  */
-async function similarFirIds(description, { limit = 8, timeoutMs = 25_000 } = {}) {
+async function similarCrimeNos(description, { limit = 8, timeoutMs = 25_000 } = {}) {
 	if (!isConfigured()) throw new Error('rag_not_configured');
 
 	const c = cfg();
@@ -50,8 +51,8 @@ async function similarFirIds(description, { limit = 8, timeoutMs = 25_000 } = {}
 
 	// Ask only for identifiers. Any narrative it volunteers is discarded below anyway.
 	const prompt =
-		`List the FIR IDs of cases whose narrative matches this description: "${description}". ` +
-		`Reply with FIR IDs only, one per line. Do not summarise, count, or explain.`;
+		`List the Crime Numbers of cases whose narrative matches this description: "${description}". ` +
+		`Reply with the 18-digit Crime Numbers only, one per line. Do not summarise, count, or explain.`;
 
 	try {
 		const res = await fetch(c.url, {
@@ -72,11 +73,11 @@ async function similarFirIds(description, { limit = 8, timeoutMs = 25_000 } = {}
 		const text =
 			json.response ?? json?.choices?.[0]?.message?.content ?? json.answer ?? json.output ?? '';
 
-		const ids = [...new Set(String(text).match(FIR_RE) || [])].map((s) => s.toUpperCase());
-		return { fir_ids: ids.slice(0, limit), raw: String(text) };
+		const ids = [...new Set(String(text).match(CRIME_NO_RE) || [])];
+		return { crime_nos: ids.slice(0, limit), raw: String(text) };
 	} finally {
 		clearTimeout(timer);
 	}
 }
 
-module.exports = { similarFirIds, isConfigured, config: cfg };
+module.exports = { similarCrimeNos, isConfigured, config: cfg };

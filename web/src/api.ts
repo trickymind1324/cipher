@@ -12,10 +12,10 @@ export type Provenance = {
 export type Entities = {
   crime_type?: string;
   district?: string;
-  taluk?: string;
+  area?: string;
   person_id?: string;
   person_name?: string;
-  fir_id?: string;
+  crime_no?: string;
   date?: { from: string; to: string; label: string };
 };
 
@@ -39,7 +39,6 @@ export type GraphNode = {
   hop: number;
   is_seed: boolean;
   district: string;
-  taluk: string;
   fir_count: number;
   crime_types: string[];
 };
@@ -71,12 +70,12 @@ export type Graph = {
 };
 
 export type Trends = {
-  filters: { district?: string; taluk?: string; crime_type?: string; from?: string; to?: string };
+  filters: { district?: string; area?: string; crime_type?: string; from?: string; to?: string };
   total: number;
   series: { key: string; count: number; fir_ids: string[] }[];
-  hotspots: { taluk: string; count: number; share: number; lat: number | null; lon: number | null; fir_ids: string[] }[];
+  hotspots: { area: string; count: number; share: number; lat: number | null; lon: number | null; fir_ids: string[] }[];
   by_crime_type: { key: string; count: number }[];
-  points: { fir_id: string; lat: number; lon: number; crime_type: string; taluk: string; occurrence_date: string }[];
+  points: { crime_no: string; lat: number; lon: number; crime_type: string; area: string; occurrence_date: string }[];
   top_area: Trends['hotspots'][number] | null;
   movement: {
     recent_window: string;
@@ -105,7 +104,7 @@ export const network = (personId: string, depth = 2) =>
 export function trends(e: Entities) {
   const q = new URLSearchParams();
   if (e.district) q.set('district', e.district);
-  if (e.taluk) q.set('taluk', e.taluk);
+  if (e.area) q.set('area', e.area);
   if (e.crime_type) q.set('crime_type', e.crime_type);
   if (e.date?.from) q.set('from', e.date.from);
   if (e.date?.to) q.set('to', e.date.to);

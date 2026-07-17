@@ -1,11 +1,11 @@
-area_id,district,taluk,ward,population,unemployment_rate,literacy_rate,migration_index,economic_stress_index,urbanization_level
-AREA-001,Bengaluru North,Yelahanka,Ward 17,255987,4.8,87.3,0.88,0.43,urban
-AREA-002,Bengaluru North,Hebbal,Ward 10,172427,5.8,93.6,0.79,0.49,urban
-AREA-003,Bengaluru North,Peenya,Ward 27,324154,6.5,84.7,0.83,0.49,urban
-AREA-004,Bengaluru North,RT Nagar,Ward 31,371438,7.2,89.9,0.76,0.48,urban
-AREA-005,Mysuru,Krishnaraja,Ward 4,68022,12.4,76.8,0.15,0.64,semi-urban
-AREA-006,Mysuru,Nanjangud,Ward 27,108278,10.1,75.1,0.3,0.82,semi-urban
-AREA-007,Mysuru,Hunsur,Ward 39,75462,9.8,75.2,0.24,0.45,semi-urban
-AREA-008,Kalaburagi,Kalaburagi City,Ward 25,70886,10.7,73.4,0.12,0.79,rural
-AREA-009,Kalaburagi,Aland,Ward 16,85302,10.4,75.9,0.42,0.52,rural
-AREA-010,Kalaburagi,Chittapur,Ward 28,103789,7.7,67.2,0.2,0.76,rural
+area_id,district,area_name,population,unemployment_rate,literacy_rate,migration_index,economic_stress_index,urbanization_level
+AREA-002,Bengaluru North,Yelahanka,185740,7.9,83.9,0.84,0.34,urban
+AREA-003,Bengaluru North,Hebbal,366229,8.3,88.2,0.84,0.51,urban
+AREA-004,Bengaluru North,Peenya,283124,7.8,82.4,0.58,0.44,urban
+AREA-005,Bengaluru North,RT Nagar,278142,8.7,82.8,0.6,0.5,urban
+AREA-007,Mysuru,Krishnaraja,49017,7,73.9,0.27,0.73,semi-urban
+AREA-008,Mysuru,Nanjangud,121850,12.3,79.4,0.32,0.72,semi-urban
+AREA-009,Mysuru,Hunsur,135368,10.8,74.1,0.41,0.82,semi-urban
+AREA-011,Kalaburagi,Kalaburagi City,93352,6.1,77.5,0.43,0.66,rural
+AREA-012,Kalaburagi,Aland,46294,12.1,79,0.39,0.64,rural
+AREA-013,Kalaburagi,Chittapur,147715,8,66.9,0.12,0.83,rural

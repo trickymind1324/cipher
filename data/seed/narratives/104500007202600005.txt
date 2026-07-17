@@ -1,0 +1,27 @@
+Crime Number: 104500007202600005
+Case Number: 202600005
+Case Category: FIR
+Police Station: Krishnaraja Police Station, Mysuru district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-05 05:21:00
+Date of Registration: 2026-05-05
+Investigating Officer: PSI Savitha Shetty
+Status: Closed
+
+Brief Facts:
+On 2026-05-05, Girish Desai, a resident of 75, Colony, Hunsur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Krishnaraja Police Station in Mysuru district.
+
+Complainant:
+Girish Desai (P-0206), aged 46, Unemployed.
+
+Victim:
+Girish Desai (P-0206), aged 46.
+
+Accused:
+The following persons are named as accused in this case: Santhosh Kamath (P-0032), Naveen Achar (P-0086).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

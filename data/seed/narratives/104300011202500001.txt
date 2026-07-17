@@ -1,0 +1,27 @@
+Crime Number: 104300011202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-05-02 07:26:00
+Date of Registration: 2025-05-04
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-05-02, Anand Kulkarni, a resident of 84, Main Road, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Anand Kulkarni (P-0229), aged 21, Unemployed.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Shivakumar Gowda (P-0080).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

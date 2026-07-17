@@ -1,0 +1,27 @@
+Crime Number: 104300011202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-03-24 04:14:00
+Date of Registration: 2025-03-25
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-03-24, Shwetha Reddy, a resident of 134, Main Road, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Shwetha Reddy (P-0320), aged 48, Delivery Rider.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Rakesh Rao (P-0009).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

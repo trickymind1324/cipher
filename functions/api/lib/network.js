@@ -46,7 +46,6 @@ function build(personId, depth = 2) {
 			hop,
 			is_seed: person.person_id === seed.person_id,
 			district: person.district,
-			taluk: person.taluk,
 			fir_count: accusedIn.length,
 			crime_types: [...new Set(accusedIn.map((f) => f.fir.crime_type))],
 		});
@@ -71,7 +70,7 @@ function build(personId, depth = 2) {
 				addNode(store.getPerson(c.person_id), hop);
 				addEdge(pid, c.person_id, 'CO_ACCUSED', {
 					weight: c.shared_firs.length,
-					label: `${c.shared_firs.length} shared FIR${c.shared_firs.length === 1 ? '' : 's'}`,
+					label: `${c.shared_firs.length} shared case${c.shared_firs.length === 1 ? '' : 's'}`,
 					fir_ids: c.shared_firs,
 				});
 				if (!nodes.has(c.person_id) || nodes.get(c.person_id).hop === hop) next.push(c.person_id);
@@ -106,7 +105,7 @@ function build(personId, depth = 2) {
 		.map((e) => ({
 			between: [e.source, e.target],
 			via: `${e.attribute_type} ${e.attribute_value}`,
-			note: 'linked by a shared identifier but never charged in the same FIR',
+			note: 'linked by a shared identifier but never charged in the same case',
 		}));
 
 	return {

@@ -1,0 +1,27 @@
+Crime Number: 104500009202600008
+Case Number: 202600008
+Case Category: FIR
+Police Station: Hunsur Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-06-07 01:54:00
+Date of Registration: 2026-06-09
+Investigating Officer: PSI Suresh Achar
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-06-07, Chetan Murthy, a resident of 40, Layout, Krishnaraja, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Hunsur Police Station in Mysuru district.
+
+Complainant:
+Chetan Murthy (P-0223), aged 42, Mechanic.
+
+Victim:
+Shwetha Desai (P-0092), aged 38.
+
+Accused:
+The following persons are named as accused in this case: Ananya Swamy (P-0055), Chetan Reddy (P-0063), Anand Jadhav (P-0050).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

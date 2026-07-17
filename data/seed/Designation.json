@@ -1,0 +1,20 @@
+[
+  {
+    "DesignationID": 1,
+    "DesignationName": "Investigating Officer",
+    "Active": 1,
+    "SortOrder": 1
+  },
+  {
+    "DesignationID": 2,
+    "DesignationName": "Station House Officer",
+    "Active": 1,
+    "SortOrder": 2
+  },
+  {
+    "DesignationID": 3,
+    "DesignationName": "Station Writer",
+    "Active": 1,
+    "SortOrder": 3
+  }
+]

@@ -1,0 +1,27 @@
+Crime Number: 104430002202600009
+Case Number: 202600009
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-04-23 06:11:00
+Date of Registration: 2026-04-26
+Investigating Officer: PSI Ananya Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2026-04-23, Vinay Patil, a resident of 138, Cross Road, RT Nagar, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Vinay Patil (P-0193), aged 30, Unemployed.
+
+Victim:
+Vinay Patil (P-0193), aged 30.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

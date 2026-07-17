@@ -143,7 +143,8 @@ export default function GraphView({ graph, theme }: { graph: Graph; theme: strin
           <div className="inspect">
             <strong>{selected.node.label}</strong> <span className="mono dim">{selected.node.id}</span>
             <p className="dim">
-              {selected.node.taluk}, {selected.node.district} · accused in {selected.node.fir_count} FIRs ·{' '}
+              {selected.node.district} · accused in {selected.node.fir_count} case
+              {selected.node.fir_count === 1 ? '' : 's'} ·{' '}
               {selected.node.crime_types.join(', ') || 'no recorded crime types'}
             </p>
           </div>
@@ -153,7 +154,7 @@ export default function GraphView({ graph, theme }: { graph: Graph; theme: strin
           <div className="inspect">
             {selected.edge.type === 'CO_ACCUSED' ? (
               <>
-                <strong>Co-accused</strong> — charged together in {selected.edge.fir_ids?.length} FIR(s)
+                <strong>Co-accused</strong> — charged together in {selected.edge.fir_ids?.length} case(s)
                 <p className="mono dim">{selected.edge.fir_ids?.join(', ')}</p>
               </>
             ) : (

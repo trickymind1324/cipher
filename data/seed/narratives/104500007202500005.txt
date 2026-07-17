@@ -1,0 +1,27 @@
+Crime Number: 104500007202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Krishnaraja Police Station, Mysuru district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-04 23:34:00
+Date of Registration: 2025-12-07
+Investigating Officer: PSI Santhosh Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-12-04, Farhan Rao, a resident of 173, Cross Road, Hunsur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Krishnaraja Police Station in Mysuru district.
+
+Complainant:
+Farhan Rao (P-0167), aged 45, Daily Wage Labourer.
+
+Victim:
+Farhan Rao (P-0167), aged 45.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

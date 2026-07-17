@@ -1,0 +1,27 @@
+Crime Number: 104430002202600006
+Case Number: 202600006
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-06 00:47:00
+Date of Registration: 2026-01-09
+Investigating Officer: PSI Ananya Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2026-01-06, Imran Rao, a resident of 99, Main Road, Hebbal, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Imran Rao (P-0232), aged 34, Private Security Guard.
+
+Victim:
+Imran Rao (P-0232), aged 34.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,27 @@
+Crime Number: 104430004202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-26 03:56:00
+Date of Registration: 2025-01-27
+Investigating Officer: PSI Harish Shetty
+Status: Closed
+
+Brief Facts:
+On 2025-01-26, Naveen Gowda, a resident of 74, Extension, RT Nagar, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Naveen Gowda (P-0253), aged 43, Private Security Guard.
+
+Victim:
+Naveen Gowda (P-0253), aged 43.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Reddy (P-0020).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

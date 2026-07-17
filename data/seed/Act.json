@@ -1,0 +1,20 @@
+[
+  {
+    "ActCode": "IPC",
+    "ActDescription": "Indian Penal Code, 1860",
+    "ShortName": "IPC",
+    "Active": 1
+  },
+  {
+    "ActCode": "NDPS",
+    "ActDescription": "Narcotic Drugs and Psychotropic Substances Act, 1985",
+    "ShortName": "NDPS Act",
+    "Active": 1
+  },
+  {
+    "ActCode": "ITACT",
+    "ActDescription": "Information Technology Act, 2000",
+    "ShortName": "IT Act",
+    "Active": 1
+  }
+]

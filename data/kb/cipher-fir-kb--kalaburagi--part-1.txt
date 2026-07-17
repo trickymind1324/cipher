@@ -1,1806 +1,1956 @@
 CIPHER — FIR NARRATIVE RECORDS
 District: Kalaburagi
 Part 1
-Records in this document: 72 (FIR-0002 … FIR-0298)
-Each record below begins with its FIR ID. Cite that ID when answering.
+Records in this document: 65 (104300011202400001 … 804300012202500003)
+Each record below begins with its 18-digit Crime Number. Cite that Crime Number when answering.
 ALL RECORDS ARE SYNTHETIC — generated for the CIPHER prototype, not real FIRs.
 
 ======================================================================
 
-FIR ID: FIR-0002
-FIR Number: 002/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2024-12-17 at 03:51:00
-Date of Registration: 2024-12-17
-Investigating Officer: PSI Pooja Hegde
-Status: under investigation
-
-Complaint:
-On 2024-12-17, Nagaraj Swamy (P-0232), a resident of 68, Cross Road, Kalaburagi City, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Hegde (P-0049).
-
-Witnesses:
-Witnesses examined: Savitha Rao (P-0244).
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0004
-FIR Number: 004/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Robbery
+Crime Number: 104300011202400001
+Case Number: 202400001
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
 Sections: IPC 392; IPC 397
-Date of Occurrence: 2026-03-10 at 02:22:00
-Date of Registration: 2026-03-11
-Investigating Officer: PSI Imran Achar
-Status: chargesheeted
+Gravity: Heinous
+Date of Occurrence: 2024-09-05 06:18:00
+Date of Registration: 2024-09-07
+Investigating Officer: PSI Yusuf Jadhav
+Status: Under Investigation
 
-Complaint:
-On 2026-03-10, Kavitha Shetty (P-0137), a resident of 19, Layout, Aland, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2024-09-05, Kavitha Swamy, a resident of 127, Colony, Aland, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Kavitha Swamy (P-0300), aged 47, Delivery Rider.
+
+Victim:
+Kavitha Swamy (P-0300), aged 47.
 
 Accused:
-The following persons are named as accused in this FIR: Rakesh Murthy (P-0079), Prakash Patil (P-0011).
+The following persons are named as accused in this case: Chetan Kumar (P-0064), Kiran Murthy (P-0030).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0010
-FIR Number: 010/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-07-08 at 02:56:00
-Date of Registration: 2024-07-11
-Investigating Officer: PSI Chetan Bhat
-Status: chargesheeted
+Crime Number: 104300011202400002
+Case Number: 202400002
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-12-05 07:09:00
+Date of Registration: 2024-12-08
+Investigating Officer: PSI Suresh Gowda
+Status: Closed
 
-Complaint:
-On 2024-07-08, Chetan Pujari (P-0099), a resident of 118, Layout, Aland, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2024-12-05, Ravi Murthy, a resident of 127, Main Road, Chittapur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Murthy (P-0118), aged 45, Street Vendor.
+
+Victim:
+Ravi Murthy (P-0118), aged 45.
 
 Accused:
-The following persons are named as accused in this FIR: Shivakumar Rao (P-0077).
+The following persons are named as accused in this case: Ramesh Desai (P-0060), Yusuf Prasad (P-0042).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+A chargesheet has been filed in this case.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0012
-FIR Number: 012/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-06-01 at 04:33:00
-Date of Registration: 2025-06-02
-Investigating Officer: PSI Imran Bhat
-Status: chargesheeted
-
-Complaint:
-On 2025-06-01, Mahesh Shetty (P-0306), a resident of 42, Extension, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Prasad (P-0051), Ananya Desai (P-0008).
-
-Witnesses:
-Witnesses examined: Nagaraj Swamy (P-0232), Nagaraj Gowda (P-0113).
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0013
-FIR Number: 013/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-12-12 at 08:09:00
-Date of Registration: 2025-12-13
-Investigating Officer: PSI Naveen Rao
-Status: chargesheeted
-
-Complaint:
-On 2025-12-12, Santhosh Bhat (P-0103), a resident of 52, Colony, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Ananya Desai (P-0008), Chetan Naik (P-0046).
-
-Witnesses:
-Witnesses examined: Vinay Hegde (P-0171), Harish Patil (P-0286).
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0015
-FIR Number: 015/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2026-01-26 at 11:57:00
-Date of Registration: 2026-01-26
-Investigating Officer: PSI Rakesh Pujari
-Status: under investigation
-
-Complaint:
-On 2026-01-26, Nagaraj Naik (P-0242), a resident of 91, Colony, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Prakash Shetty (P-0042), Shwetha Kamath (P-0034).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0022
-FIR Number: 022/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2024-11-25 at 15:42:00
-Date of Registration: 2024-11-28
-Investigating Officer: PSI Lakshmi Murthy
-Status: under investigation
-
-Complaint:
-On 2024-11-25, Nandini Desai (P-0268), a resident of 171, Main Road, Aland, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-Witnesses examined: Kiran Kumar (P-0128).
-
-This case was registered under IPC 379 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0024
-FIR Number: 024/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-06-12 at 14:13:00
-Date of Registration: 2025-06-15
-Investigating Officer: PSI Rakesh Murthy
-Status: under investigation
-
-Complaint:
-On 2025-06-12, Lakshmi Reddy (P-0302), a resident of 29, Main Road, Chittapur, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Prakash Patil (P-0011), Santhosh Desai (P-0023).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0030
-FIR Number: 030/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2025-09-06 at 02:03:00
-Date of Registration: 2025-09-09
-Investigating Officer: PSI Santhosh Kamath
-Status: chargesheeted
-
-Complaint:
-On 2025-09-06, Harish Patil (P-0286), a resident of 88, Main Road, Kalaburagi City, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Mahesh Gowda (P-0026).
-
-Witnesses:
-Witnesses examined: Manjunath Jadhav (P-0135), Roopa Patil (P-0285).
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0038
-FIR Number: 038/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-04-22 at 02:20:00
-Date of Registration: 2026-04-25
-Investigating Officer: PSI Rakesh Shetty
-Status: under investigation
-
-Complaint:
-On 2026-04-22, Ravi Achar (P-0282), a resident of 76, Main Road, Chittapur, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0049
-FIR Number: 049/2024
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-07-27 at 10:47:00
-Date of Registration: 2024-07-29
-Investigating Officer: PSI Roopa Achar
-Status: under investigation
-
-Complaint:
-On 2024-07-27, Lokesh Achar (P-0217), a resident of 180, Main Road, Chittapur, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Yusuf Reddy (P-0073).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0051
-FIR Number: 051/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-09-10 at 06:58:00
-Date of Registration: 2024-09-12
-Investigating Officer: PSI Ananya Hegde
-Status: under investigation
-
-Complaint:
-On 2024-09-10, Shivakumar Achar (P-0112), a resident of 159, Cross Road, Aland, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-Witnesses examined: Anand Patil (P-0119), Mahesh Swamy (P-0295).
-
-This case was registered under IPC 323; IPC 324 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0052
-FIR Number: 052/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2024-09-16 at 12:32:00
-Date of Registration: 2024-09-16
-Investigating Officer: PSI Pooja Murthy
-Status: chargesheeted
-
-Complaint:
-On 2024-09-16, Vinay Naik (P-0269), a resident of 11, Main Road, Chittapur, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Girish Desai (P-0059).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0060
-FIR Number: 060/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2026-02-10 at 01:42:00
-Date of Registration: 2026-02-11
-Investigating Officer: PSI Deepa Rao
-Status: under investigation
-
-Complaint:
-On 2026-02-10, Anand Patil (P-0119), a resident of 69, Cross Road, Aland, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0061
-FIR Number: 061/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-02-17 at 14:16:00
-Date of Registration: 2025-02-20
-Investigating Officer: PSI Imran Kamath
-Status: chargesheeted
-
-Complaint:
-On 2025-02-17, Mahesh Shetty (P-0306), a resident of 42, Extension, Chittapur, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Prakash Shetty (P-0042).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0067
-FIR Number: 067/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2025-11-16 at 06:23:00
-Date of Registration: 2025-11-17
-Investigating Officer: PSI Bhavya Bhat
-Status: under investigation
-
-Complaint:
-On 2025-11-16, Shivakumar Achar (P-0112), a resident of 159, Cross Road, Aland, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-Witnesses examined: Nandini Desai (P-0268).
-
-This case was registered under IPC 379; IPC 356 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0080
-FIR Number: 080/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2024-10-20 at 12:26:00
-Date of Registration: 2024-10-23
-Investigating Officer: PSI Manjunath Reddy
-Status: under investigation
-
-Complaint:
-On 2024-10-20, Manjunath Jadhav (P-0135), a resident of 59, Cross Road, Kalaburagi City, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379; IPC 356 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0088
-FIR Number: 088/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2026-03-14 at 23:35:00
-Date of Registration: 2026-03-16
-Investigating Officer: PSI Manjunath Kamath
-Status: under investigation
-
-Complaint:
-On 2026-03-14, Vinay Patil (P-0326), a resident of 165, Layout, Chittapur, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0089
-FIR Number: 089/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2025-07-24 at 21:43:00
-Date of Registration: 2025-07-25
-Investigating Officer: PSI Lakshmi Patil
-Status: chargesheeted
-
-Complaint:
-On 2025-07-24, Savitha Rao (P-0244), a resident of 15, Layout, Chittapur, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Kiran Murthy (P-0064), Pooja Murthy (P-0066).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0094
-FIR Number: 094/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-11-11 at 01:39:00
-Date of Registration: 2024-11-14
-Investigating Officer: PSI Yusuf Kulkarni
-Status: under investigation
-
-Complaint:
-On 2024-11-11, Deepa Pujari (P-0219), a resident of 157, Extension, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-Witnesses examined: Santhosh Kamath (P-0141).
-
-This case was registered under IPC 323; IPC 324 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0098
-FIR Number: 098/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2026-06-27 at 09:41:00
-Date of Registration: 2026-06-30
-Investigating Officer: PSI Savitha Pujari
-Status: under investigation
-
-Complaint:
-On 2026-06-27, Santhosh Kamath (P-0141), a resident of 47, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0099
-FIR Number: 099/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-03-15 at 23:27:00
-Date of Registration: 2026-03-18
-Investigating Officer: PSI Deepa Gowda
-Status: closed
-
-Complaint:
-On 2026-03-15, Santhosh Kamath (P-0141), a resident of 47, Cross Road, Kalaburagi City, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Harish Kumar (P-0076), Girish Desai (P-0059).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0100
-FIR Number: 100/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2025-02-20 at 03:02:00
-Date of Registration: 2025-02-22
-Investigating Officer: PSI Roopa Bhat
-Status: under investigation
-
-Complaint:
-On 2025-02-20, Lakshmi Shetty (P-0160), a resident of 29, Layout, Aland, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Pooja Murthy (P-0066), Nandini Prasad (P-0051).
-
-Witnesses:
-Witnesses examined: Deepa Kumar (P-0308).
-
-This case was registered under IPC 323; IPC 324 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0103
-FIR Number: 103/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2024-09-02 at 18:24:00
-Date of Registration: 2024-09-03
-Investigating Officer: PSI Suresh Patil
-Status: chargesheeted
-
-Complaint:
-On 2024-09-02, Basavaraj Kulkarni (P-0116), a resident of 138, Main Road, Aland, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Yusuf Reddy (P-0073), Nandini Murthy (P-0072).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0104
-FIR Number: 104/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-04-03 at 19:08:00
-Date of Registration: 2025-04-03
-Investigating Officer: PSI Yusuf Kulkarni
-Status: chargesheeted
-
-Complaint:
-On 2025-04-03, Savitha Kamath (P-0092), a resident of 83, Colony, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Ananya Bhat (P-0035).
-
-Witnesses:
-Witnesses examined: Ramesh Shetty (P-0095), Prakash Bhat (P-0252).
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0105
-FIR Number: 105/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-12-28 at 05:37:00
-Date of Registration: 2025-12-28
-Investigating Officer: PSI Kiran Kumar
-Status: chargesheeted
-
-Complaint:
-On 2025-12-28, Chetan Naik (P-0139), a resident of 51, Main Road, Aland, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Harish Reddy (P-0030), Ananya Bhat (P-0035).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0107
-FIR Number: 107/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-04-19 at 23:18:00
-Date of Registration: 2025-04-20
-Investigating Officer: PSI Mahesh Prasad
-Status: under investigation
-
-Complaint:
-On 2025-04-19, Prakash Bhat (P-0252), a resident of 169, Extension, Chittapur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-Witnesses examined: Nagaraj Naik (P-0242).
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0108
-FIR Number: 108/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-01-26 at 05:40:00
-Date of Registration: 2026-01-27
-Investigating Officer: PSI Lokesh Murthy
-Status: chargesheeted
-
-Complaint:
-On 2026-01-26, Umesh Reddy (P-0124), a resident of 86, Layout, Kalaburagi City, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Vidya Shetty (P-0085).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0109
-FIR Number: 109/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2024-09-01 at 22:31:00
+Crime Number: 104300011202400003
+Case Number: 202400003
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-09-01 11:49:00
 Date of Registration: 2024-09-04
-Investigating Officer: PSI Vidya Swamy
-Status: closed
+Investigating Officer: PSI Yusuf Jadhav
+Status: Charge Sheeted
 
-Complaint:
-On 2024-09-01, Deepa Kumar (P-0308), a resident of 11, Main Road, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2024-09-01, Ravi Naik, a resident of 14, Main Road, Aland, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Naik (P-0207), aged 22, Auto Driver.
+
+Victim:
+Ravi Naik (P-0207), aged 22.
 
 Accused:
-The following persons are named as accused in this FIR: Prakash Shetty (P-0042), Roopa Kamath (P-0054).
+The following persons are named as accused in this case: Yusuf Prasad (P-0042).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
+A chargesheet has been filed in this case.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0110
-FIR Number: 110/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2026-05-15 at 20:48:00
-Date of Registration: 2026-05-16
-Investigating Officer: PSI Imran Rao
-Status: chargesheeted
+Crime Number: 104300011202400004
+Case Number: 202400004
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-14 06:10:00
+Date of Registration: 2024-08-15
+Investigating Officer: PSI Suresh Gowda
+Status: Closed
 
-Complaint:
-On 2026-05-15, Deepa Hegde (P-0203), a resident of 165, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Brief Facts:
+On 2024-08-14, Lakshmi Kamath, a resident of 141, Main Road, Kalaburagi City, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
 
-Accused:
-The following persons are named as accused in this FIR: Naveen Kumar (P-0029).
+Complainant:
+Lakshmi Kamath (P-0132), aged 50, Construction Worker.
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0117
-FIR Number: 117/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-12-28 at 12:46:00
-Date of Registration: 2024-12-29
-Investigating Officer: PSI Suresh Rao
-Status: under investigation
-
-Complaint:
-On 2024-12-28, Harish Reddy (P-0192), a resident of 123, Layout, Kalaburagi City, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+Victim:
+Lakshmi Kamath (P-0132), aged 50.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-Witnesses examined: Deepa Kumar (P-0308), Mahesh Swamy (P-0295).
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
+The case was closed as undetected (final report C).
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0120
-FIR Number: 120/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2026-05-03 at 10:19:00
-Date of Registration: 2026-05-05
-Investigating Officer: PSI Anand Kulkarni
-Status: chargesheeted
+Crime Number: 104300011202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-05-02 07:26:00
+Date of Registration: 2025-05-04
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
 
-Complaint:
-On 2026-05-03, Naveen Naik (P-0227), a resident of 45, Extension, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2025-05-02, Anand Kulkarni, a resident of 84, Main Road, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Anand Kulkarni (P-0229), aged 21, Unemployed.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
 
 Accused:
-The following persons are named as accused in this FIR: Nandini Prasad (P-0051).
+The following persons are named as accused in this case: Shivakumar Gowda (P-0080).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
+The case was closed as a false case (final report B).
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0127
-FIR Number: 127/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: House Burglary
+Crime Number: 104300011202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-16 14:12:00
+Date of Registration: 2025-06-18
+Investigating Officer: PSI Suresh Gowda
+Status: Under Investigation
+
+Brief Facts:
+On 2025-06-16, Vinay Swamy, a resident of 2, Extension, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Vinay Swamy (P-0148), aged 51, Unemployed.
+
+Victim:
+Vinay Swamy (P-0148), aged 51.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202500003
+Case Number: 202500003
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-03-19 02:29:00
+Date of Registration: 2025-03-19
+Investigating Officer: PSI Yusuf Jadhav
+Status: Under Investigation
+
+Brief Facts:
+On 2025-03-19, Harish Bhat, a resident of 140, Layout, Aland, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Harish Bhat (P-0185), aged 25, Delivery Rider.
+
+Victim:
+Harish Bhat (P-0185), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Shivakumar Gowda (P-0080).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202500004
+Case Number: 202500004
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-27 10:58:00
+Date of Registration: 2025-01-29
+Investigating Officer: PSI Suresh Gowda
+Status: Under Investigation
+
+Brief Facts:
+On 2025-01-27, Ananya Desai, a resident of 55, Colony, Chittapur, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Ananya Desai (P-0178), aged 40, Shop Assistant.
+
+Victim:
+Ananya Desai (P-0178), aged 40.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Kamath (P-0044).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-03-27 07:48:00
+Date of Registration: 2025-03-30
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-03-27, Pooja Swamy, a resident of 118, Cross Road, Chittapur, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Swamy (P-0330), aged 48, Unemployed.
+
+Victim:
+Pooja Swamy (P-0330), aged 48.
+
+Accused:
+The following persons are named as accused in this case: Shivakumar Gowda (P-0080).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-03-24 04:14:00
+Date of Registration: 2025-03-25
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-03-24, Shwetha Reddy, a resident of 134, Main Road, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Shwetha Reddy (P-0320), aged 48, Delivery Rider.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Rakesh Rao (P-0009).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202600001
+Case Number: 202600001
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
 Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2026-05-09 at 11:04:00
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-09 08:33:00
 Date of Registration: 2026-05-11
-Investigating Officer: PSI Roopa Murthy
-Status: under investigation
+Investigating Officer: PSI Suresh Gowda
+Status: Closed
 
-Complaint:
-On 2026-05-09, Deepa Reddy (P-0097), a resident of 11, Extension, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Brief Facts:
+On 2026-05-09, Kiran Rao, a resident of 8, Main Road, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Rao (P-0202), aged 45, Mechanic.
+
+Victim:
+Kiran Rao (P-0202), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Basavaraj Gowda (P-0056), Santhosh Pujari (P-0034).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-08 10:58:00
+Date of Registration: 2026-03-09
+Investigating Officer: PSI Yusuf Jadhav
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-03-08, Prakash Patil, a resident of 61, Layout, Aland, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Patil (P-0097), aged 23, Auto Driver.
+
+Victim:
+Prakash Patil (P-0097), aged 23.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Prasad (P-0042), Kiran Murthy (P-0030).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300011202600003
+Case Number: 202600003
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-15 16:42:00
+Date of Registration: 2026-03-16
+Investigating Officer: PSI Yusuf Jadhav
+Status: Under Investigation
+
+Brief Facts:
+On 2026-03-15, Vinay Swamy, a resident of 2, Extension, Kalaburagi City, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Vinay Swamy (P-0148), aged 51, Unemployed.
+
+Victim:
+Vinay Swamy (P-0148), aged 51.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-Witnesses examined: Nandini Desai (P-0268).
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0131
-FIR Number: 131/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-11-11 at 05:20:00
-Date of Registration: 2025-11-12
-Investigating Officer: PSI Deepa Pujari
-Status: chargesheeted
-
-Complaint:
-On 2025-11-11, Naveen Naik (P-0227), a resident of 45, Extension, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Harish Kumar (P-0076), Prakash Shetty (P-0042).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0133
-FIR Number: 133/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-07-19 at 13:13:00
-Date of Registration: 2024-07-20
-Investigating Officer: PSI Farhan Kumar
-Status: closed
-
-Complaint:
-On 2024-07-19, Kavitha Shetty (P-0137), a resident of 19, Layout, Aland, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Roopa Kamath (P-0054).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0135
-FIR Number: 135/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
+Crime Number: 104300011202600004
+Case Number: 202600004
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
 Sections: IPC 379; IPC 356
-Date of Occurrence: 2025-02-10 at 05:38:00
-Date of Registration: 2025-02-13
-Investigating Officer: PSI Shwetha Desai
-Status: chargesheeted
+Gravity: Non-Heinous
+Date of Occurrence: 2026-04-07 02:22:00
+Date of Registration: 2026-04-08
+Investigating Officer: PSI Suresh Gowda
+Status: Under Investigation
 
-Complaint:
-On 2025-02-10, Nandini Rao (P-0200), a resident of 23, Layout, Aland, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2026-04-07, Harish Bhat, a resident of 140, Layout, Aland, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Harish Bhat (P-0185), aged 25, Delivery Rider.
+
+Victim:
+Harish Bhat (P-0185), aged 25.
 
 Accused:
-The following persons are named as accused in this FIR: Nandini Prasad (P-0051).
+The following persons are named as accused in this case: Kiran Murthy (P-0030).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0137
-FIR Number: 137/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-01-18 at 16:15:00
-Date of Registration: 2025-01-20
-Investigating Officer: PSI Kiran Desai
-Status: under investigation
-
-Complaint:
-On 2025-01-18, Harish Patil (P-0286), a resident of 88, Main Road, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-No accused has been identified so far. The case remains under investigation.
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0138
-FIR Number: 138/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-08-27 at 10:24:00
-Date of Registration: 2025-08-27
-Investigating Officer: PSI Shivakumar Achar
-Status: closed
-
-Complaint:
-On 2025-08-27, Chetan Pujari (P-0099), a resident of 118, Layout, Aland, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nagaraj Pujari (P-0069).
-
-Witnesses:
-Witnesses examined: Ramesh Shetty (P-0095), Deepa Hegde (P-0203).
-
-This case was registered under IPC 392; IPC 397 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0143
-FIR Number: 143/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2026-02-23 at 15:20:00
-Date of Registration: 2026-02-25
-Investigating Officer: PSI Bhavya Shetty
-Status: under investigation
-
-Complaint:
-On 2026-02-23, Anand Kulkarni (P-0317), a resident of 8, Colony, Kalaburagi City, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Naveen Kumar (P-0029).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379; IPC 356 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0144
-FIR Number: 144/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-05-27 at 22:59:00
-Date of Registration: 2025-05-28
-Investigating Officer: PSI Rakesh Kamath
-Status: closed
-
-Complaint:
-On 2025-05-27, Deepa Hegde (P-0203), a resident of 165, Cross Road, Kalaburagi City, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Vinay Murthy (P-0010), Shivakumar Rao (P-0077).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0145
-FIR Number: 145/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
+Crime Number: 104300011202600005
+Case Number: 202600005
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
 Sections: IPC 323; IPC 324
-Date of Occurrence: 2025-12-14 at 19:46:00
-Date of Registration: 2025-12-14
-Investigating Officer: PSI Farhan Swamy
-Status: chargesheeted
-
-Complaint:
-On 2025-12-14, Deepa Hegde (P-0203), a resident of 165, Cross Road, Kalaburagi City, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Roopa Kamath (P-0054), Deepa Prasad (P-0004).
-
-Witnesses:
-Witnesses examined: Vinay Naik (P-0269), Ravi Achar (P-0282).
-
-This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0161
-FIR Number: 161/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2026-06-05 at 09:24:00
-Date of Registration: 2026-06-06
-Investigating Officer: PSI Harish Achar
-Status: chargesheeted
-
-Complaint:
-On 2026-06-05, Roopa Patil (P-0285), a resident of 179, Extension, Aland, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Roopa Kamath (P-0054).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0165
-FIR Number: 165/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-09-11 at 02:23:00
-Date of Registration: 2025-09-13
-Investigating Officer: PSI Vidya Jadhav
-Status: chargesheeted
-
-Complaint:
-On 2025-09-11, Harish Rao (P-0177), a resident of 160, Cross Road, Kalaburagi City, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Murthy (P-0072).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0168
-FIR Number: 168/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
-Sections: IPC 323; IPC 324
-Date of Occurrence: 2026-04-11 at 20:30:00
-Date of Registration: 2026-04-11
-Investigating Officer: PSI Ravi Desai
-Status: chargesheeted
-
-Complaint:
-On 2026-04-11, Deepa Kamath (P-0169), a resident of 166, Colony, Chittapur, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Murthy (P-0072).
-
-Witnesses:
-Witnesses examined: Deepa Kamath (P-0169), Shivakumar Achar (P-0112).
-
-This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0173
-FIR Number: 173/2024
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2024-11-12 at 11:49:00
-Date of Registration: 2024-11-15
-Investigating Officer: PSI Lakshmi Rao
-Status: chargesheeted
-
-Complaint:
-On 2024-11-12, Chetan Kamath (P-0091), a resident of 156, Extension, Aland, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Chetan Naik (P-0046), Yusuf Gowda (P-0027).
-
-Witnesses:
-Witnesses examined: Mahesh Swamy (P-0295), Ramesh Reddy (P-0189).
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0175
-FIR Number: 175/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2024-11-10 at 12:41:00
-Date of Registration: 2024-11-12
-Investigating Officer: PSI Bhavya Kamath
-Status: chargesheeted
-
-Complaint:
-On 2024-11-10, Ananya Naik (P-0280), a resident of 58, Extension, Aland, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Deepa Achar (P-0019).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0180
-FIR Number: 180/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2025-05-21 at 02:06:00
-Date of Registration: 2025-05-23
-Investigating Officer: PSI Suresh Jadhav
-Status: chargesheeted
-
-Complaint:
-On 2025-05-21, Deepa Naik (P-0237), a resident of 176, Extension, Aland, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Deepa Achar (P-0019).
-
-Witnesses:
-Witnesses examined: Nagaraj Gowda (P-0113), Vinay Naik (P-0269).
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0187
-FIR Number: 187/2026
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2026-01-13 at 16:08:00
-Date of Registration: 2026-01-13
-Investigating Officer: PSI Lakshmi Kamath
-Status: chargesheeted
-
-Complaint:
-On 2026-01-13, Nandini Patil (P-0261), a resident of 53, Cross Road, Chittapur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Girish Desai (P-0059), Nandini Murthy (P-0072).
-
-Witnesses:
-Witnesses examined: Ramesh Shetty (P-0095).
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0195
-FIR Number: 195/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-03-15 at 07:07:00
-Date of Registration: 2026-03-17
-Investigating Officer: PSI Deepa Patil
-Status: chargesheeted
-
-Complaint:
-On 2026-03-15, Vinay Hegde (P-0171), a resident of 78, Main Road, Kalaburagi City, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Harish Reddy (P-0030), Nandini Prasad (P-0051).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0197
-FIR Number: 197/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-10-05 at 22:19:00
-Date of Registration: 2024-10-06
-Investigating Officer: PSI Ramesh Bhat
-Status: under investigation
-
-Complaint:
-On 2024-10-05, Naveen Achar (P-0106), a resident of 110, Cross Road, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-13 06:46:00
+Date of Registration: 2026-01-14
+Investigating Officer: PSI Suresh Gowda
+Status: Under Investigation
+
+Brief Facts:
+On 2026-01-13, Pooja Kulkarni, a resident of 102, Cross Road, Aland, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Kulkarni (P-0307), aged 38, Farm Labourer.
+
+Victim:
+Ravi Kamath (P-0200), aged 38.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-Witnesses examined: Roopa Patil (P-0285).
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0199
-FIR Number: 199/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
+Crime Number: 104300011202600006
+Case Number: 202600006
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
 Sections: IPC 379
-Date of Occurrence: 2024-10-16 at 21:26:00
-Date of Registration: 2024-10-16
-Investigating Officer: PSI Ramesh Hegde
-Status: under investigation
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-25 09:06:00
+Date of Registration: 2026-05-28
+Investigating Officer: PSI Yusuf Jadhav
+Status: Under Investigation
 
-Complaint:
-On 2024-10-16, Ravi Achar (P-0282), a resident of 76, Main Road, Chittapur, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2026-05-25, Roopa Prasad, a resident of 130, Colony, Aland, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
 
-Accused:
-No accused has been identified so far. The case remains under investigation.
+Complainant:
+Roopa Prasad (P-0298), aged 44, Private Security Guard.
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0205
-FIR Number: 205/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-06-10 at 04:30:00
-Date of Registration: 2025-06-10
-Investigating Officer: PSI Lakshmi Murthy
-Status: under investigation
-
-Complaint:
-On 2025-06-10, Deepa Hegde (P-0203), a resident of 165, Cross Road, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Victim:
+Roopa Prasad (P-0298), aged 44.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0211
-FIR Number: 211/2025
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-06-18 at 01:26:00
-Date of Registration: 2025-06-19
-Investigating Officer: PSI Deepa Rao
-Status: chargesheeted
-
-Complaint:
-On 2025-06-18, Chetan Kamath (P-0091), a resident of 156, Extension, Aland, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Prasad (P-0051).
-
-Witnesses:
-Witnesses examined: Vinay Naik (P-0269).
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0212
-FIR Number: 212/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-12-16 at 04:40:00
-Date of Registration: 2024-12-19
-Investigating Officer: PSI Deepa Achar
-Status: chargesheeted
-
-Complaint:
-On 2024-12-16, Prakash Pujari (P-0294), a resident of 48, Colony, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Girish Desai (P-0059).
-
-Witnesses:
-Witnesses examined: Kavitha Shetty (P-0137), Nandini Jadhav (P-0323).
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0215
-FIR Number: 215/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: House Burglary
+Crime Number: 104300012202400001
+Case Number: 202400001
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
 Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-02-20 at 00:32:00
-Date of Registration: 2025-02-23
-Investigating Officer: PSI Umesh Prasad
-Status: under investigation
+Gravity: Non-Heinous
+Date of Occurrence: 2024-12-13 19:01:00
+Date of Registration: 2024-12-13
+Investigating Officer: PSI Nagaraj Prasad
+Status: Closed
 
-Complaint:
-On 2025-02-20, Savitha Rao (P-0244), a resident of 15, Layout, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+Brief Facts:
+On 2024-12-13, Ravi Kamath, a resident of 175, Extension, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Kamath (P-0200), aged 38, Private Security Guard.
+
+Victim:
+Ravi Kamath (P-0200), aged 38.
 
 Accused:
-The following persons are named as accused in this FIR: Prakash Patil (P-0011), Ananya Desai (P-0008).
+The following persons are named as accused in this case: Savitha Jadhav (P-0011).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently under investigation.
+A chargesheet has been filed in this case.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0230
-FIR Number: 230/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-11-06 at 04:21:00
-Date of Registration: 2024-11-06
-Investigating Officer: PSI Ravi Naik
-Status: chargesheeted
+Crime Number: 104300012202400002
+Case Number: 202400002
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-21 23:53:00
+Date of Registration: 2024-08-21
+Investigating Officer: PSI Nagaraj Prasad
+Status: Under Investigation
 
-Complaint:
-On 2024-11-06, Santhosh Kamath (P-0141), a resident of 47, Cross Road, Kalaburagi City, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2024-08-21, Girish Reddy, a resident of 2, Cross Road, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Girish Reddy (P-0162), aged 22, Daily Wage Labourer.
+
+Victim:
+Girish Reddy (P-0162), aged 22.
 
 Accused:
-The following persons are named as accused in this FIR: Prakash Shetty (P-0042).
+The following persons are named as accused in this case: Mahesh Kulkarni (P-0035), Ananya Kamath (P-0059).
 
-Witnesses:
-Witnesses examined: Kiran Murthy (P-0240), Naveen Achar (P-0106).
-
-This case was registered under IPC 392; IPC 397 and is currently chargesheeted.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0231
-FIR Number: 231/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-04-21 at 13:47:00
-Date of Registration: 2026-04-23
-Investigating Officer: PSI Vinay Hegde
-Status: chargesheeted
-
-Complaint:
-On 2026-04-21, Lakshmi Shetty (P-0160), a resident of 29, Layout, Aland, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Roopa Kamath (P-0054), Shwetha Kamath (P-0034).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0236
-FIR Number: 236/2024
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-10-07 at 22:57:00
+Crime Number: 104300012202400003
+Case Number: 202400003
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-10-07 00:52:00
 Date of Registration: 2024-10-08
-Investigating Officer: PSI Lakshmi Jadhav
-Status: under investigation
+Investigating Officer: PSI Nagaraj Prasad
+Status: Charge Sheeted
 
-Complaint:
-On 2024-10-07, Lakshmi Reddy (P-0302), a resident of 29, Main Road, Chittapur, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Brief Facts:
+On 2024-10-07, Anand Hegde, a resident of 123, Extension, Aland, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Anand Hegde (P-0304), aged 32, Farm Labourer.
+
+Victim:
+Anand Hegde (P-0304), aged 32.
 
 Accused:
-The following persons are named as accused in this FIR: Ananya Bhat (P-0035).
+The following persons are named as accused in this case: Ananya Kamath (P-0059).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
+A chargesheet has been filed in this case.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0241
-FIR Number: 241/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-12-28 at 05:46:00
-Date of Registration: 2025-12-29
-Investigating Officer: PSI Chetan Rao
-Status: closed
+Crime Number: 104300012202400004
+Case Number: 202400004
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-19 02:13:00
+Date of Registration: 2024-08-21
+Investigating Officer: PSI Nagaraj Prasad
+Status: Closed
 
-Complaint:
-On 2025-12-28, Nagaraj Swamy (P-0232), a resident of 68, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Brief Facts:
+On 2024-08-19, Naveen Rao, a resident of 143, Cross Road, Chittapur, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Naveen Rao (P-0173), aged 47, Unemployed.
+
+Victim:
+Naveen Rao (P-0173), aged 47.
 
 Accused:
-The following persons are named as accused in this FIR: Nagaraj Pujari (P-0069), Ananya Desai (P-0008).
+The following persons are named as accused in this case: Mahesh Kulkarni (P-0035).
 
-Witnesses:
-Witnesses examined: Shwetha Achar (P-0198), Chetan Pujari (P-0099).
-
-This case was registered under IPC 392; IPC 397 and is currently closed.
+The case was closed as a false case (final report B).
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0245
-FIR Number: 245/2025
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-02-18 at 16:00:00
-Date of Registration: 2025-02-18
-Investigating Officer: PSI Chetan Pujari
-Status: chargesheeted
-
-Complaint:
-On 2025-02-18, Nandini Patil (P-0261), a resident of 53, Cross Road, Chittapur, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Deepa Achar (P-0019), Roopa Kamath (P-0054).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0251
-FIR Number: 251/2024
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
+Crime Number: 104300012202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
 Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-10-16 at 15:09:00
-Date of Registration: 2024-10-17
-Investigating Officer: PSI Farhan Jadhav
-Status: closed
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-09 11:30:00
+Date of Registration: 2025-06-10
+Investigating Officer: PSI Nagaraj Prasad
+Status: Charge Sheeted
 
-Complaint:
-On 2024-10-16, Harish Patil (P-0286), a resident of 88, Main Road, Kalaburagi City, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Brief Facts:
+On 2025-06-09, Yusuf Hegde, a resident of 101, Layout, Chittapur, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Yusuf Hegde (P-0188), aged 46, Construction Worker.
+
+Victim:
+Yusuf Hegde (P-0188), aged 46.
 
 Accused:
-The following persons are named as accused in this FIR: Shivakumar Rao (P-0077).
+The following persons are named as accused in this case: Ramesh Desai (P-0060), Nagaraj Reddy (P-0038).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently closed.
+A chargesheet has been filed in this case.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0256
-FIR Number: 256/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
+Crime Number: 104300012202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-20 03:39:00
+Date of Registration: 2025-08-22
+Investigating Officer: PSI Harish Kulkarni
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-08-20, Savitha Jadhav, a resident of 75, Layout, Kalaburagi City, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Savitha Jadhav (P-0128), aged 44, Street Vendor.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Kiran Murthy (P-0030).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500003
+Case Number: 202500003
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-01 04:58:00
+Date of Registration: 2025-12-02
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2025-12-01, Pooja Naik, a resident of 58, Extension, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Naik (P-0169), aged 26, Daily Wage Labourer.
+
+Victim:
+Pooja Naik (P-0169), aged 26.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500004
+Case Number: 202500004
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
 Sections: IPC 323; IPC 324
-Date of Occurrence: 2026-02-14 at 14:01:00
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-06 02:31:00
+Date of Registration: 2025-12-09
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-12-06, Prakash Swamy, a resident of 177, Extension, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Swamy (P-0245), aged 47, Street Vendor.
+
+Victim:
+Prakash Swamy (P-0245), aged 47.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Prasad (P-0042), Yusuf Kamath (P-0015).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-15 21:01:00
+Date of Registration: 2025-12-17
+Investigating Officer: PSI Nagaraj Prasad
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-12-15, Pooja Desai, a resident of 109, Layout, Kalaburagi City, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Desai (P-0277), aged 36, Street Vendor.
+
+Victim:
+Lakshmi Reddy (P-0194), aged 42.
+
+Accused:
+The following persons are named as accused in this case: Basavaraj Gowda (P-0056).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-01 23:23:00
+Date of Registration: 2025-06-03
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-06-01, Basavaraj Jadhav, a resident of 11, Main Road, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Basavaraj Jadhav (P-0327), aged 29, Construction Worker.
+
+Victim:
+Basavaraj Jadhav (P-0327), aged 29.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Kamath (P-0015).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500007
+Case Number: 202500007
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-10-14 09:20:00
+Date of Registration: 2025-10-17
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-10-14, Lakshmi Reddy, a resident of 140, Cross Road, Kalaburagi City, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Lakshmi Reddy (P-0194), aged 42, Street Vendor.
+
+Victim:
+Lakshmi Reddy (P-0194), aged 42.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500008
+Case Number: 202500008
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-09-24 17:58:00
+Date of Registration: 2025-09-24
+Investigating Officer: PSI Nagaraj Prasad
+Status: Under Investigation
+
+Brief Facts:
+On 2025-09-24, Shwetha Reddy, a resident of 134, Main Road, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Shwetha Reddy (P-0320), aged 48, Delivery Rider.
+
+Victim:
+Shwetha Reddy (P-0320), aged 48.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202500009
+Case Number: 202500009
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-28 23:42:00
+Date of Registration: 2025-08-29
+Investigating Officer: PSI Harish Kulkarni
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-08-28, Girish Gowda, a resident of 172, Main Road, Aland, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Girish Gowda (P-0172), aged 46, Unemployed.
+
+Victim:
+Kavitha Patil (P-0309), aged 38.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Kamath (P-0015).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202600001
+Case Number: 202600001
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-02-12 05:20:00
+Date of Registration: 2026-02-13
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2026-02-12, Harish Achar, a resident of 150, Extension, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Harish Achar (P-0144), aged 42, Mechanic.
+
+Victim:
+Harish Achar (P-0144), aged 42.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Kamath (P-0044), Ramesh Desai (P-0060).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2026-02-12 02:20:00
+Date of Registration: 2026-02-12
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2026-02-12, Kiran Kumar, a resident of 108, Cross Road, Kalaburagi City, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Kumar (P-0190), aged 46, Shop Assistant.
+
+Victim:
+Kiran Kumar (P-0190), aged 46.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202600003
+Case Number: 202600003
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-23 00:06:00
+Date of Registration: 2026-05-26
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2026-05-23, Savitha Hegde, a resident of 18, Layout, Aland, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Savitha Hegde (P-0133), aged 26, Farm Labourer.
+
+Victim:
+Savitha Hegde (P-0133), aged 26.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300012202600004
+Case Number: 202600004
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-02-13 09:39:00
 Date of Registration: 2026-02-16
-Investigating Officer: PSI Deepa Bhat
-Status: chargesheeted
+Investigating Officer: PSI Nagaraj Prasad
+Status: Under Investigation
 
-Complaint:
-On 2026-02-14, Harish Reddy (P-0192), a resident of 123, Layout, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+Brief Facts:
+On 2026-02-13, Farhan Desai, a resident of 47, Cross Road, Chittapur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
 
-Accused:
-The following persons are named as accused in this FIR: Naveen Kumar (P-0029).
+Complainant:
+Farhan Desai (P-0288), aged 43, Construction Worker.
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0263
-FIR Number: 263/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-01-10 at 18:30:00
-Date of Registration: 2025-01-13
-Investigating Officer: PSI Naveen Swamy
-Status: chargesheeted
-
-Complaint:
-On 2025-01-10, Harish Reddy (P-0192), a resident of 123, Layout, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nagaraj Pujari (P-0069).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 420; IPC 66D IT Act and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0265
-FIR Number: 265/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2025-12-09 at 06:02:00
-Date of Registration: 2025-12-11
-Investigating Officer: PSI Prakash Pujari
-Status: under investigation
-
-Complaint:
-On 2025-12-09, Kiran Murthy (P-0240), a resident of 72, Main Road, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Harish Reddy (P-0030).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 392; IPC 397 and is currently under investigation.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0270
-FIR Number: 270/2024
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Robbery
-Sections: IPC 392; IPC 397
-Date of Occurrence: 2024-10-10 at 21:02:00
-Date of Registration: 2024-10-11
-Investigating Officer: PSI Prakash Rao
-Status: closed
-
-Complaint:
-On 2024-10-10, Naveen Achar (P-0106), a resident of 110, Cross Road, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Bhavya Kumar (P-0056), Shivakumar Rao (P-0077).
-
-Witnesses:
-Witnesses examined: Harish Patil (P-0286).
-
-This case was registered under IPC 392; IPC 397 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0271
-FIR Number: 271/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2025-05-19 at 01:24:00
-Date of Registration: 2025-05-19
-Investigating Officer: PSI Suresh Bhat
-Status: closed
-
-Complaint:
-On 2025-05-19, Ananya Prasad (P-0218), a resident of 62, Cross Road, Chittapur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Deepa Patil (P-0017), Kavitha Rao (P-0088).
-
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently closed.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0278
-FIR Number: 278/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: House Burglary
-Sections: IPC 454; IPC 457; IPC 380
-Date of Occurrence: 2024-12-19 at 20:11:00
-Date of Registration: 2024-12-21
-Investigating Officer: PSI Kavitha Patil
-Status: chargesheeted
-
-Complaint:
-On 2024-12-19, Savitha Rao (P-0244), a resident of 15, Layout, Chittapur, reported that the grill of the ventilator was cut and gold ornaments and cash were taken. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Prasad (P-0051).
-
-Witnesses:
-Witnesses examined: Vidya Patil (P-0320), Vinay Patil (P-0326).
-
-This case was registered under IPC 454; IPC 457; IPC 380 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0281
-FIR Number: 281/2026
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2026-01-22 at 19:43:00
-Date of Registration: 2026-01-25
-Investigating Officer: PSI Shwetha Murthy
-Status: under investigation
-
-Complaint:
-On 2026-01-22, Naveen Achar (P-0106), a resident of 110, Cross Road, Chittapur, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Victim:
+Chetan Hegde (P-0205), aged 27.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-Witnesses examined: Ananya Gowda (P-0322).
-
-This case was registered under IPC 379; IPC 356 and is currently under investigation.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0284
-FIR Number: 284/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Chain Snatching
-Sections: IPC 379; IPC 356
-Date of Occurrence: 2025-12-16 at 02:29:00
-Date of Registration: 2025-12-19
-Investigating Officer: PSI Vidya Shetty
-Status: chargesheeted
-
-Complaint:
-On 2025-12-16, Manjunath Prasad (P-0267), a resident of 138, Main Road, Chittapur, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
-
-Accused:
-The following persons are named as accused in this FIR: Nandini Murthy (P-0072).
-
-Witnesses:
-Witnesses examined: Ramesh Reddy (P-0189).
-
-This case was registered under IPC 379; IPC 356 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0290
-FIR Number: 290/2024
-Police Station: Chittapur Police Station, Chittapur, Kalaburagi district, Karnataka
-Crime Type: Assault / Hurt
+Crime Number: 104300012202600005
+Case Number: 202600005
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
 Sections: IPC 323; IPC 324
-Date of Occurrence: 2024-10-16 at 13:21:00
-Date of Registration: 2024-10-17
-Investigating Officer: PSI Imran Reddy
-Status: chargesheeted
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-15 12:23:00
+Date of Registration: 2026-05-15
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
 
-Complaint:
-On 2024-10-16, Umesh Reddy (P-0124), a resident of 86, Layout, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Chittapur Police Station in Chittapur, Kalaburagi district.
+Brief Facts:
+On 2026-05-15, Anand Jadhav, a resident of 136, Colony, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Anand Jadhav (P-0266), aged 46, Daily Wage Labourer.
+
+Victim:
+Anand Jadhav (P-0266), aged 46.
 
 Accused:
-The following persons are named as accused in this FIR: Kavitha Rao (P-0088), Prakash Patil (P-0011).
+The following persons are named as accused in this case: Bhavya Kamath (P-0044).
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 323; IPC 324 and is currently chargesheeted.
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
 
 ======================================================================
 
-FIR ID: FIR-0295
-FIR Number: 295/2026
-Police Station: Aland Police Station, Aland, Kalaburagi district, Karnataka
-Crime Type: Vehicle Theft
-Sections: IPC 379
-Date of Occurrence: 2026-02-24 at 16:35:00
-Date of Registration: 2026-02-26
-Investigating Officer: PSI Ananya Reddy
-Status: chargesheeted
+Crime Number: 104300013202400001
+Case Number: 202400001
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2024-10-01 01:14:00
+Date of Registration: 2024-10-03
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
 
-Complaint:
-On 2026-02-24, Roopa Shetty (P-0186), a resident of 26, Cross Road, Chittapur, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Aland Police Station in Aland, Kalaburagi district.
+Brief Facts:
+On 2024-10-01, Pooja Kulkarni, a resident of 102, Cross Road, Aland, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
 
-Accused:
-The following persons are named as accused in this FIR: Chetan Naik (P-0046).
+Complainant:
+Pooja Kulkarni (P-0307), aged 38, Farm Labourer.
 
-Witnesses:
-No witnesses were recorded.
-
-This case was registered under IPC 379 and is currently chargesheeted.
-
-[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
-
-======================================================================
-
-FIR ID: FIR-0298
-FIR Number: 298/2025
-Police Station: Kalaburagi City Police Station, Kalaburagi City, Kalaburagi district, Karnataka
-Crime Type: Cheating / Online Fraud
-Sections: IPC 420; IPC 66D IT Act
-Date of Occurrence: 2025-04-23 at 18:45:00
-Date of Registration: 2025-04-26
-Investigating Officer: PSI Shwetha Prasad
-Status: under investigation
-
-Complaint:
-On 2025-04-23, Nandini Desai (P-0268), a resident of 171, Main Road, Aland, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi City, Kalaburagi district.
+Victim:
+Pooja Kulkarni (P-0307), aged 38.
 
 Accused:
 No accused has been identified so far. The case remains under investigation.
 
-Witnesses:
-Witnesses examined: Ananya Gowda (P-0322).
+The case was closed as undetected (final report C).
 
-This case was registered under IPC 420; IPC 66D IT Act and is currently under investigation.
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202400002
+Case Number: 202400002
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-05 10:20:00
+Date of Registration: 2024-08-08
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2024-08-05, Suresh Reddy, a resident of 25, Layout, Chittapur, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Suresh Reddy (P-0241), aged 32, Construction Worker.
+
+Victim:
+Suresh Reddy (P-0241), aged 32.
+
+Accused:
+The following persons are named as accused in this case: Roopa Naik (P-0061), Yusuf Prasad (P-0042).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202400003
+Case Number: 202400003
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-09-22 10:28:00
+Date of Registration: 2024-09-23
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2024-09-22, Nagaraj Hegde, a resident of 85, Colony, Chittapur, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Nagaraj Hegde (P-0161), aged 47, Private Security Guard.
+
+Victim:
+Nagaraj Hegde (P-0161), aged 47.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-09-14 05:51:00
+Date of Registration: 2025-09-17
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-09-14, Savitha Hegde, a resident of 13, Cross Road, Aland, reported that pillion rider snatched the mangalsutra while the complainant was walking on the footpath. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Savitha Hegde (P-0137), aged 45, Shop Assistant.
+
+Victim:
+Savitha Hegde (P-0137), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Murthy (P-0039).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-25 16:32:00
+Date of Registration: 2025-07-28
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-07-25, Anand Kulkarni, a resident of 84, Main Road, Kalaburagi City, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Anand Kulkarni (P-0229), aged 21, Unemployed.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Ananya Kamath (P-0059), Savitha Jadhav (P-0011).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500003
+Case Number: 202500003
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-20 17:59:00
+Date of Registration: 2025-08-23
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-08-20, Rakesh Gowda, a resident of 31, Extension, Kalaburagi City, reported that a quarrel over a parking dispute escalated and the complainant was assaulted. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Rakesh Gowda (P-0117), aged 41, Mechanic.
+
+Victim:
+Rakesh Gowda (P-0117), aged 41.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500004
+Case Number: 202500004
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-02-06 08:29:00
+Date of Registration: 2025-02-07
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-02-06, Nandini Murthy, a resident of 110, Extension, Aland, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Nandini Murthy (P-0228), aged 25, Construction Worker.
+
+Victim:
+Nandini Murthy (P-0228), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Reddy (P-0001).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-08-25 22:01:00
+Date of Registration: 2025-08-25
+Investigating Officer: PSI Savitha Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2025-08-25, Kiran Rao, a resident of 8, Main Road, Kalaburagi City, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Rao (P-0202), aged 45, Mechanic.
+
+Victim:
+Kiran Rao (P-0202), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Savitha Jadhav (P-0011), Ramesh Shetty (P-0049).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-12-18 16:15:00
+Date of Registration: 2025-12-20
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-12-18, Farhan Rao, a resident of 68, Main Road, Aland, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Farhan Rao (P-0246), aged 46, Shop Assistant.
+
+Victim:
+Farhan Rao (P-0246), aged 46.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Murthy (P-0039), Mahesh Kulkarni (P-0035).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500007
+Case Number: 202500007
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-19 04:56:00
+Date of Registration: 2025-07-22
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-07-19, Basavaraj Patil, a resident of 169, Layout, Kalaburagi City, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Basavaraj Patil (P-0127), aged 32, Delivery Rider.
+
+Victim:
+Umesh Desai (P-0296), aged 30.
+
+Accused:
+The following persons are named as accused in this case: Kiran Desai (P-0024), Savitha Jadhav (P-0011).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500008
+Case Number: 202500008
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-12 20:48:00
+Date of Registration: 2025-01-15
+Investigating Officer: PSI Lakshmi Naik
+Status: Under Investigation
+
+Brief Facts:
+On 2025-01-12, Ravi Kamath, a resident of 175, Extension, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Kamath (P-0200), aged 38, Private Security Guard.
+
+Victim:
+Ravi Kamath (P-0200), aged 38.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500009
+Case Number: 202500009
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2025-04-19 02:36:00
+Date of Registration: 2025-04-22
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-04-19, Kavitha Pujari, a resident of 78, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Kavitha Pujari (P-0126), aged 35, Auto Driver.
+
+Victim:
+Kavitha Pujari (P-0126), aged 35.
+
+Accused:
+The following persons are named as accused in this case: Imran Reddy (P-0029).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500010
+Case Number: 202500010
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-02-21 07:43:00
+Date of Registration: 2025-02-21
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2025-02-21, Nandini Murthy, a resident of 110, Extension, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Nandini Murthy (P-0228), aged 25, Construction Worker.
+
+Victim:
+Nandini Murthy (P-0228), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Kiran Desai (P-0024), Ramesh Desai (P-0060).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500011
+Case Number: 202500011
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-05-04 18:02:00
+Date of Registration: 2025-05-05
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-05-04, Chetan Bhat, a resident of 2, Colony, Kalaburagi City, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Chetan Bhat (P-0110), aged 51, Street Vendor.
+
+Victim:
+Chetan Bhat (P-0110), aged 51.
+
+Accused:
+The following persons are named as accused in this case: Kiran Murthy (P-0062).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500012
+Case Number: 202500012
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-01-04 02:43:00
+Date of Registration: 2025-01-07
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-01-04, Harish Achar, a resident of 150, Extension, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Harish Achar (P-0144), aged 42, Mechanic.
+
+Victim:
+Harish Achar (P-0144), aged 42.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Kamath (P-0044), Bhavya Reddy (P-0001).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500013
+Case Number: 202500013
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-09-13 19:10:00
+Date of Registration: 2025-09-14
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2025-09-13, Lakshmi Reddy, a resident of 140, Cross Road, Kalaburagi City, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Lakshmi Reddy (P-0194), aged 42, Street Vendor.
+
+Victim:
+Lakshmi Reddy (P-0194), aged 42.
+
+Accused:
+The following persons are named as accused in this case: Basavaraj Gowda (P-0056), Ananya Kamath (P-0059).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500014
+Case Number: 202500014
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-05 04:43:00
+Date of Registration: 2025-07-07
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-07-05, Ramesh Achar, a resident of 179, Main Road, Chittapur, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Ramesh Achar (P-0273), aged 50, Street Vendor.
+
+Victim:
+Ramesh Achar (P-0273), aged 50.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Murthy (P-0039).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500015
+Case Number: 202500015
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2025-10-18 21:37:00
+Date of Registration: 2025-10-21
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2025-10-18, Ravi Kamath, a resident of 175, Extension, Aland, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Ravi Kamath (P-0200), aged 38, Private Security Guard.
+
+Victim:
+Ravi Kamath (P-0200), aged 38.
+
+Accused:
+The following persons are named as accused in this case: Lokesh Pujari (P-0033), Santhosh Pujari (P-0034).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202500016
+Case Number: 202500016
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2025-12-12 21:02:00
+Date of Registration: 2025-12-13
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-12-12, Basavaraj Patil, a resident of 169, Layout, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Basavaraj Patil (P-0127), aged 32, Delivery Rider.
+
+Victim:
+Basavaraj Patil (P-0127), aged 32.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Reddy (P-0001).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600001
+Case Number: 202600001
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-24 01:09:00
+Date of Registration: 2026-03-27
+Investigating Officer: PSI Savitha Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2026-03-24, Prakash Patil, a resident of 61, Layout, Aland, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Patil (P-0097), aged 23, Auto Driver.
+
+Victim:
+Shwetha Desai (P-0164), aged 23.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-04-18 23:01:00
+Date of Registration: 2026-04-20
+Investigating Officer: PSI Savitha Bhat
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-04-18, Pooja Swamy, a resident of 118, Cross Road, Chittapur, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Swamy (P-0330), aged 48, Unemployed.
+
+Victim:
+Pooja Swamy (P-0330), aged 48.
+
+Accused:
+The following persons are named as accused in this case: Ramesh Shetty (P-0049), Nagaraj Murthy (P-0039).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600003
+Case Number: 202600003
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2026-06-15 23:49:00
+Date of Registration: 2026-06-18
+Investigating Officer: PSI Savitha Bhat
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-06-15, Farhan Desai, a resident of 47, Cross Road, Chittapur, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Farhan Desai (P-0288), aged 43, Construction Worker.
+
+Victim:
+Farhan Desai (P-0288), aged 43.
+
+Accused:
+The following persons are named as accused in this case: Mahesh Kulkarni (P-0035).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600004
+Case Number: 202600004
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-22 21:27:00
+Date of Registration: 2026-05-25
+Investigating Officer: PSI Savitha Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2026-05-22, Prakash Desai, a resident of 62, Colony, Chittapur, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Desai (P-0261), aged 31, Daily Wage Labourer.
+
+Victim:
+Prakash Desai (P-0261), aged 31.
+
+Accused:
+The following persons are named as accused in this case: Basavaraj Gowda (P-0056).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600005
+Case Number: 202600005
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-05 13:52:00
+Date of Registration: 2026-03-06
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2026-03-05, Harish Bhat, a resident of 140, Layout, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Harish Bhat (P-0185), aged 25, Delivery Rider.
+
+Victim:
+Rakesh Gowda (P-0117), aged 41.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Kamath (P-0015).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600006
+Case Number: 202600006
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2026-02-03 09:00:00
+Date of Registration: 2026-02-03
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2026-02-03, Basavaraj Jadhav, a resident of 11, Main Road, Aland, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Basavaraj Jadhav (P-0327), aged 29, Construction Worker.
+
+Victim:
+Basavaraj Jadhav (P-0327), aged 29.
+
+Accused:
+The following persons are named as accused in this case: Chetan Kumar (P-0064).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600007
+Case Number: 202600007
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2026-03-20 21:04:00
+Date of Registration: 2026-03-23
+Investigating Officer: PSI Lakshmi Naik
+Status: Under Investigation
+
+Brief Facts:
+On 2026-03-20, Anand Bhat, a resident of 159, Cross Road, Kalaburagi City, reported that the suspects threatened the complainant with a knife and took cash and a mobile phone. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Anand Bhat (P-0111), aged 35, Private Security Guard.
+
+Victim:
+Anand Bhat (P-0111), aged 35.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 104300013202600008
+Case Number: 202600008
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2026-01-22 00:38:00
+Date of Registration: 2026-01-22
+Investigating Officer: PSI Lakshmi Naik
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-01-22, Kiran Naik, a resident of 138, Colony, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Naik (P-0222), aged 28, Delivery Rider.
+
+Victim:
+Ramesh Gowda (P-0270), aged 43.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Reddy (P-0038), Kiran Desai (P-0024).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 804300011202400001
+Case Number: 202400001
+Case Category: Zero FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2024-09-21 12:48:00
+Date of Registration: 2024-09-23
+Investigating Officer: PSI Suresh Gowda
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-09-21, Prakash Desai, a resident of 62, Colony, Chittapur, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Prakash Desai (P-0261), aged 31, Daily Wage Labourer.
+
+Victim:
+Ravi Murthy (P-0118), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Nagaraj Reddy (P-0038).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 804300012202500001
+Case Number: 202500001
+Case Category: Zero FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2025-10-15 11:00:00
+Date of Registration: 2025-10-17
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2025-10-15, Yusuf Hegde, a resident of 101, Layout, Chittapur, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Yusuf Hegde (P-0188), aged 46, Construction Worker.
+
+Victim:
+Yusuf Hegde (P-0188), aged 46.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 804300012202500002
+Case Number: 202500002
+Case Category: Zero FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2025-11-04 03:32:00
+Date of Registration: 2025-11-05
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-11-04, Kavitha Pujari, a resident of 78, Cross Road, Kalaburagi City, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Kavitha Pujari (P-0126), aged 35, Auto Driver.
+
+Victim:
+Kavitha Pujari (P-0126), aged 35.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]
+
+======================================================================
+
+Crime Number: 804300012202500003
+Case Number: 202500003
+Case Category: Zero FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-02-25 14:11:00
+Date of Registration: 2025-02-25
+Investigating Officer: PSI Harish Kulkarni
+Status: Under Investigation
+
+Brief Facts:
+On 2025-02-25, Ramesh Gowda, a resident of 41, Cross Road, Kalaburagi City, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Ramesh Gowda (P-0270), aged 43, Delivery Rider.
+
+Victim:
+Basavaraj Swamy (P-0105), aged 44.
+
+Accused:
+The following persons are named as accused in this case: Bhavya Kamath (P-0044), Kiran Murthy (P-0062).
+
+No final report has been filed yet.
 
 [SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

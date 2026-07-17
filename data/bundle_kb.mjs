@@ -6,10 +6,10 @@
  * per-FIR files by hand is not reasonable, so they are grouped here.
  *
  * Grouping costs us nothing, because citations do not depend on RAG's document ids.
- * Every narrative carries its own `FIR ID: FIR-xxxx` line, the model cites those ids
- * from the text, and pipeline.js then validates each cited id against the record store,
- * discarding the answer if any id was not retrieved. Document-level provenance would
- * actually be weaker than that.
+ * Every narrative carries its own `Crime Number: <18 digits>` line, the model cites
+ * those ids from the text, and pipeline.js then validates each cited id against the
+ * record store, discarding the answer if any id was not retrieved. Document-level
+ * provenance would actually be weaker than that.
  *
  * Files are grouped by district and split at a conservative size, so a retrieved chunk
  * is surrounded by records from the same jurisdiction.
@@ -28,18 +28,20 @@ const OUT = join(HERE, 'kb');
 const LIMIT = 500 * 1024; // hard cap from the console uploader
 const TARGET = 400 * 1024; // split here, leaving headroom
 
-const firs = JSON.parse(readFileSync(join(HERE, 'seed', 'fir.json'), 'utf8'));
-const districtOf = new Map(firs.map((f) => [f.fir_id, f.district]));
+// CrimeNo digits 2–5 are the DistrictID (1-digit category + 4-digit district + …).
+const districts = JSON.parse(readFileSync(join(HERE, 'seed', 'District.json'), 'utf8'));
+const districtById = new Map(districts.map((d) => [d.DistrictID, d.DistrictName]));
+const districtOf = (crimeNo) => districtById.get(Number(crimeNo.slice(1, 5))) || 'Unknown';
 
 const files = readdirSync(NARRATIVES).filter((f) => f.endsWith('.txt')).sort();
 
-// group by district, keeping FIR order stable
+// group by district, keeping case order stable
 const groups = new Map();
 for (const file of files) {
-	const firId = file.replace('.txt', '');
-	const district = districtOf.get(firId) || 'Unknown';
+	const crimeNo = file.replace('.txt', '');
+	const district = districtOf(crimeNo);
 	if (!groups.has(district)) groups.set(district, []);
-	groups.get(district).push({ firId, text: readFileSync(join(NARRATIVES, file), 'utf8') });
+	groups.get(district).push({ firId: crimeNo, text: readFileSync(join(NARRATIVES, file), 'utf8') });
 }
 
 rmSync(OUT, { recursive: true, force: true });
@@ -63,7 +65,7 @@ for (const [district, docs] of groups) {
 			`District: ${district}`,
 			`Part ${part}`,
 			`Records in this document: ${buffer.length} (${buffer[0].firId} … ${buffer[buffer.length - 1].firId})`,
-			`Each record below begins with its FIR ID. Cite that ID when answering.`,
+			`Each record below begins with its 18-digit Crime Number. Cite that Crime Number when answering.`,
 			`ALL RECORDS ARE SYNTHETIC — generated for the CIPHER prototype, not real FIRs.`,
 		].join('\n');
 

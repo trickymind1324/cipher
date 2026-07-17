@@ -1,0 +1,27 @@
+Crime Number: 104300012202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-01 23:23:00
+Date of Registration: 2025-06-03
+Investigating Officer: PSI Harish Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2025-06-01, Basavaraj Jadhav, a resident of 11, Main Road, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Basavaraj Jadhav (P-0327), aged 29, Construction Worker.
+
+Victim:
+Basavaraj Jadhav (P-0327), aged 29.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Kamath (P-0015).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

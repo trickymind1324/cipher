@@ -1,0 +1,27 @@
+Crime Number: 104430004202500001
+Case Number: 202500001
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-05-26 19:24:00
+Date of Registration: 2025-05-29
+Investigating Officer: PSI Girish Swamy
+Status: Closed
+
+Brief Facts:
+On 2025-05-26, Mahesh Shetty, a resident of 118, Extension, Peenya, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Mahesh Shetty (P-0196), aged 23, Delivery Rider.
+
+Victim:
+Mahesh Shetty (P-0196), aged 23.
+
+Accused:
+The following persons are named as accused in this case: Ravi Gowda (P-0073), Harish Patil (P-0013).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

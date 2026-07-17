@@ -1,0 +1,14 @@
+ActCode,SectionCode,SectionDescription,Active
+IPC,379,Punishment for theft,1
+IPC,356,Assault or criminal force in attempt to commit theft,1
+IPC,454,Lurking house-trespass or house-breaking to commit offence,1
+IPC,457,Lurking house-trespass or house-breaking by night,1
+IPC,380,Theft in dwelling house,1
+IPC,420,Cheating and dishonestly inducing delivery of property,1
+IPC,392,Punishment for robbery,1
+IPC,397,Robbery with attempt to cause death or grievous hurt,1
+IPC,323,Punishment for voluntarily causing hurt,1
+IPC,324,Voluntarily causing hurt by dangerous weapons,1
+NDPS,20,Contravention in relation to cannabis,1
+NDPS,22,Contravention in relation to psychotropic substances,1
+ITACT,66D,Cheating by personation using computer resource,1

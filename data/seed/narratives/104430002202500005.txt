@@ -1,0 +1,27 @@
+Crime Number: 104430002202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-11-24 13:32:00
+Date of Registration: 2025-11-24
+Investigating Officer: PSI Imran Shetty
+Status: Charge Sheeted
+
+Brief Facts:
+On 2025-11-24, Prakash Bhat, a resident of 37, Colony, Hebbal, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Prakash Bhat (P-0289), aged 35, Auto Driver.
+
+Victim:
+Farhan Naik (P-0328), aged 28.
+
+Accused:
+The following persons are named as accused in this case: Naveen Prasad (P-0067), Manjunath Pujari (P-0045).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

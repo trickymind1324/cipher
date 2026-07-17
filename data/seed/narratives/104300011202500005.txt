@@ -1,0 +1,27 @@
+Crime Number: 104300011202500005
+Case Number: 202500005
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-03-27 07:48:00
+Date of Registration: 2025-03-30
+Investigating Officer: PSI Yusuf Jadhav
+Status: Closed
+
+Brief Facts:
+On 2025-03-27, Pooja Swamy, a resident of 118, Cross Road, Chittapur, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Pooja Swamy (P-0330), aged 48, Unemployed.
+
+Victim:
+Pooja Swamy (P-0330), aged 48.
+
+Accused:
+The following persons are named as accused in this case: Shivakumar Gowda (P-0080).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

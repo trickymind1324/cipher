@@ -1,0 +1,44 @@
+[
+  {
+    "CrimeSubHeadID": 1,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Chain Snatching",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 2,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "House Burglary",
+    "SeqID": 2
+  },
+  {
+    "CrimeSubHeadID": 3,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Vehicle Theft",
+    "SeqID": 3
+  },
+  {
+    "CrimeSubHeadID": 4,
+    "CrimeHeadID": 1,
+    "CrimeHeadName": "Robbery",
+    "SeqID": 4
+  },
+  {
+    "CrimeSubHeadID": 5,
+    "CrimeHeadID": 2,
+    "CrimeHeadName": "Assault / Hurt",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 6,
+    "CrimeHeadID": 3,
+    "CrimeHeadName": "Cheating / Online Fraud",
+    "SeqID": 1
+  },
+  {
+    "CrimeSubHeadID": 7,
+    "CrimeHeadID": 4,
+    "CrimeHeadName": "Narcotics Possession",
+    "SeqID": 1
+  }
+]

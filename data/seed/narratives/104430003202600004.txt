@@ -1,0 +1,27 @@
+Crime Number: 104430003202600004
+Case Number: 202600004
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-13 19:50:00
+Date of Registration: 2026-01-13
+Investigating Officer: PSI Nandini Jadhav
+Status: Under Investigation
+
+Brief Facts:
+On 2026-01-13, Yusuf Swamy, a resident of 78, Cross Road, Hebbal, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Yusuf Swamy (P-0264), aged 40, Construction Worker.
+
+Victim:
+Yusuf Swamy (P-0264), aged 40.
+
+Accused:
+The following persons are named as accused in this case: Lokesh Desai (P-0069), Yusuf Murthy (P-0084).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

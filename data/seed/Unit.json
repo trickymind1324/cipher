@@ -1,0 +1,132 @@
+[
+  {
+    "UnitID": 1,
+    "UnitName": "Bengaluru North District Police Office",
+    "TypeID": 2,
+    "ParentUnit": 0,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 443,
+    "Active": 1
+  },
+  {
+    "UnitID": 2,
+    "UnitName": "Yelahanka Police Station",
+    "TypeID": 1,
+    "ParentUnit": 1,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 443,
+    "Active": 1
+  },
+  {
+    "UnitID": 3,
+    "UnitName": "Hebbal Police Station",
+    "TypeID": 1,
+    "ParentUnit": 1,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 443,
+    "Active": 1
+  },
+  {
+    "UnitID": 4,
+    "UnitName": "Peenya Police Station",
+    "TypeID": 1,
+    "ParentUnit": 1,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 443,
+    "Active": 1
+  },
+  {
+    "UnitID": 5,
+    "UnitName": "RT Nagar Police Station",
+    "TypeID": 1,
+    "ParentUnit": 1,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 443,
+    "Active": 1
+  },
+  {
+    "UnitID": 6,
+    "UnitName": "Mysuru District Police Office",
+    "TypeID": 2,
+    "ParentUnit": 0,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 450,
+    "Active": 1
+  },
+  {
+    "UnitID": 7,
+    "UnitName": "Krishnaraja Police Station",
+    "TypeID": 1,
+    "ParentUnit": 6,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 450,
+    "Active": 1
+  },
+  {
+    "UnitID": 8,
+    "UnitName": "Nanjangud Police Station",
+    "TypeID": 1,
+    "ParentUnit": 6,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 450,
+    "Active": 1
+  },
+  {
+    "UnitID": 9,
+    "UnitName": "Hunsur Police Station",
+    "TypeID": 1,
+    "ParentUnit": 6,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 450,
+    "Active": 1
+  },
+  {
+    "UnitID": 10,
+    "UnitName": "Kalaburagi District Police Office",
+    "TypeID": 2,
+    "ParentUnit": 0,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 430,
+    "Active": 1
+  },
+  {
+    "UnitID": 11,
+    "UnitName": "Kalaburagi City Police Station",
+    "TypeID": 1,
+    "ParentUnit": 10,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 430,
+    "Active": 1
+  },
+  {
+    "UnitID": 12,
+    "UnitName": "Aland Police Station",
+    "TypeID": 1,
+    "ParentUnit": 10,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 430,
+    "Active": 1
+  },
+  {
+    "UnitID": 13,
+    "UnitName": "Chittapur Police Station",
+    "TypeID": 1,
+    "ParentUnit": 10,
+    "NationalityID": 1,
+    "StateID": 1,
+    "DistrictID": 430,
+    "Active": 1
+  }
+]

@@ -1,0 +1,27 @@
+Crime Number: 104430004202500010
+Case Number: 202500010
+Case Category: FIR
+Police Station: Peenya Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2025-06-21 01:18:00
+Date of Registration: 2025-06-22
+Investigating Officer: PSI Harish Shetty
+Status: Closed
+
+Brief Facts:
+On 2025-06-21, Imran Shetty, a resident of 123, Extension, RT Nagar, reported that suspects on a motorcycle without a number plate snatched the chain near a bus stop. The incident occurred within the limits of Peenya Police Station in Bengaluru North district.
+
+Complainant:
+Imran Shetty (P-0166), aged 32, Farm Labourer.
+
+Victim:
+Imran Shetty (P-0166), aged 32.
+
+Accused:
+The following persons are named as accused in this case: Shwetha Achar (P-0078), Savitha Murthy (P-0065).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

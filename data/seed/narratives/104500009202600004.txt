@@ -1,0 +1,27 @@
+Crime Number: 104500009202600004
+Case Number: 202600004
+Case Category: FIR
+Police Station: Hunsur Police Station, Mysuru district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-27 16:17:00
+Date of Registration: 2026-01-29
+Investigating Officer: PSI Ravi Pujari
+Status: Under Investigation
+
+Brief Facts:
+On 2026-01-27, Farhan Desai, a resident of 37, Layout, Krishnaraja, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hunsur Police Station in Mysuru district.
+
+Complainant:
+Farhan Desai (P-0315), aged 46, Unemployed.
+
+Victim:
+Farhan Desai (P-0315), aged 46.
+
+Accused:
+The following persons are named as accused in this case: Chetan Reddy (P-0005), Ramesh Patil (P-0083).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,27 @@
+Crime Number: 104430002202400001
+Case Number: 202400001
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-07-08 13:36:00
+Date of Registration: 2024-07-11
+Investigating Officer: PSI Imran Shetty
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-07-08, Rakesh Patil, a resident of 9, Main Road, RT Nagar, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Rakesh Patil (P-0095), aged 27, Construction Worker.
+
+Victim:
+Rakesh Patil (P-0095), aged 27.
+
+Accused:
+The following persons are named as accused in this case: Ananya Desai (P-0085).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

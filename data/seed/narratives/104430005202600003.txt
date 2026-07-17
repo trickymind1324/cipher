@@ -1,0 +1,27 @@
+Crime Number: 104430005202600003
+Case Number: 202600003
+Case Category: FIR
+Police Station: RT Nagar Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-03 10:26:00
+Date of Registration: 2026-03-04
+Investigating Officer: PSI Bhavya Shetty
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-03-03, Imran Shetty, a resident of 123, Extension, RT Nagar, reported that the complainant was induced to transfer money on the promise of a part-time job. The incident occurred within the limits of RT Nagar Police Station in Bengaluru North district.
+
+Complainant:
+Imran Shetty (P-0166), aged 32, Farm Labourer.
+
+Victim:
+Imran Shetty (P-0166), aged 32.
+
+Accused:
+The following persons are named as accused in this case: Vidya Swamy (P-0043).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -1,0 +1,27 @@
+Crime Number: 104500008202400003
+Case Number: 202400003
+Case Category: FIR
+Police Station: Nanjangud Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2024-07-04 16:42:00
+Date of Registration: 2024-07-05
+Investigating Officer: PSI Chetan Bhat
+Status: Under Investigation
+
+Brief Facts:
+On 2024-07-04, Kavitha Gowda, a resident of 157, Cross Road, Krishnaraja, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Nanjangud Police Station in Mysuru district.
+
+Complainant:
+Kavitha Gowda (P-0282), aged 25, Construction Worker.
+
+Victim:
+Kavitha Gowda (P-0282), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Anand Jadhav (P-0050), Ananya Swamy (P-0055), Chetan Reddy (P-0063).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

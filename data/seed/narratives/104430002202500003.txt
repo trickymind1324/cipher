@@ -1,0 +1,27 @@
+Crime Number: 104430002202500003
+Case Number: 202500003
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Body — Assault / Hurt
+Sections: IPC 323; IPC 324
+Gravity: Non-Heinous
+Date of Occurrence: 2025-02-03 20:27:00
+Date of Registration: 2025-02-03
+Investigating Officer: PSI Imran Shetty
+Status: Under Investigation
+
+Brief Facts:
+On 2025-02-03, Imran Kulkarni, a resident of 103, Extension, Yelahanka, reported that the accused caused hurt with a wooden club following a prior enmity. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Imran Kulkarni (P-0325), aged 30, Mechanic.
+
+Victim:
+Imran Kulkarni (P-0325), aged 30.
+
+Accused:
+The following persons are named as accused in this case: Imran Shetty (P-0088), Ramesh Pujari (P-0074).
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

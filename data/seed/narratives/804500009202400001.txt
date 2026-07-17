@@ -1,0 +1,27 @@
+Crime Number: 804500009202400001
+Case Number: 202400001
+Case Category: Zero FIR
+Police Station: Hunsur Police Station, Mysuru district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-11-02 01:01:00
+Date of Registration: 2024-11-04
+Investigating Officer: PSI Ravi Pujari
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-11-02, Girish Swamy, a resident of 26, Main Road, Hunsur, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hunsur Police Station in Mysuru district.
+
+Complainant:
+Girish Swamy (P-0098), aged 23, Delivery Rider.
+
+Victim:
+Bhavya Jadhav (P-0225), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Kiran Gowda (P-0076).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

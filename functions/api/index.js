@@ -29,15 +29,16 @@ app.get('/stats', (req, res) => res.json(store.stats()));
 
 /** Structured record retrieval. The conversational layer (P2) is built on top of this. */
 app.get('/firs', (req, res) => {
-	const { district, taluk, crime_type, status, from, to, person_id } = req.query;
+	const { district, area, crime_type, crime_head, status, gravity, from, to, person_id } = req.query;
 	const limit = Math.min(Number(req.query.limit) || 20, 200);
-	res.json(store.findFirs({ district, taluk, crime_type, status, from, to, person_id, limit }));
+	res.json(store.findFirs({ district, area, crime_type, crime_head, status, gravity, from, to, person_id, limit }));
 });
 
-app.get('/firs/:fir_id', (req, res) => {
-	const fir = store.getFir(req.params.fir_id);
-	if (!fir) return res.status(404).json({ error: 'not_found', fir_id: req.params.fir_id });
-	res.json({ ...fir, parties: store.partiesOfFir(fir.fir_id) });
+/** Case lookup by CrimeNo (citation key); numeric CaseMasterID accepted too. */
+app.get('/firs/:crime_no', (req, res) => {
+	const fir = store.getFir(req.params.crime_no);
+	if (!fir) return res.status(404).json({ error: 'not_found', crime_no: req.params.crime_no });
+	res.json({ ...fir, parties: store.partiesOfFir(fir.crime_no) });
 });
 
 app.get('/persons', (req, res) => res.json(store.findPersons(req.query.name)));
@@ -61,8 +62,8 @@ app.get('/repeat-accused', (req, res) => {
 });
 
 app.get('/aggregate', (req, res) => {
-	const { by, district, taluk, crime_type, from, to } = req.query;
-	res.json(store.aggregate({ by: by || 'month', district, taluk, crime_type, from, to }));
+	const { by, district, area, crime_type, crime_head, gravity, from, to } = req.query;
+	res.json(store.aggregate({ by: by || 'month', district, area, crime_type, crime_head, gravity, from, to }));
 });
 
 app.get('/stations', (req, res) => res.json(store.stations()));
@@ -130,15 +131,14 @@ app.get('/network', (req, res) => {
 	res.json(graph);
 });
 
-/** Trends + hotspots. ?district=&taluk=&crime_type=&from=&to= (all optional) */
+/** Trends + hotspots. ?district=&area=&crime_type=&from=&to= (all optional) */
 app.get('/trends', (req, res) => {
-	const { district, taluk, crime_type, from, to } = req.query;
-	res.json(trends.build({ district, taluk, crime_type, from, to }));
+	const { district, area, crime_type, from, to } = req.query;
+	res.json(trends.build({ district, area, crime_type, from, to }));
 });
 
 const notBuiltYet = (phase) => (req, res) =>
 	res.status(501).json({ error: 'not_implemented', phase });
-app.get('/trends', notBuiltYet('P5'));
 app.post('/export-pdf', notBuiltYet('P6'));
 
 app.use((req, res) => res.status(404).json({ error: 'not_found', path: req.path }));

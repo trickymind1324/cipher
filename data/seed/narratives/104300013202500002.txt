@@ -1,0 +1,27 @@
+Crime Number: 104300013202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-25 16:32:00
+Date of Registration: 2025-07-28
+Investigating Officer: PSI Savitha Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-07-25, Anand Kulkarni, a resident of 84, Main Road, Kalaburagi City, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Anand Kulkarni (P-0229), aged 21, Unemployed.
+
+Victim:
+Anand Kulkarni (P-0229), aged 21.
+
+Accused:
+The following persons are named as accused in this case: Ananya Kamath (P-0059), Savitha Jadhav (P-0011).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

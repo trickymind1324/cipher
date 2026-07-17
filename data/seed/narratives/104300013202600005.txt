@@ -1,0 +1,27 @@
+Crime Number: 104300013202600005
+Case Number: 202600005
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-03-05 13:52:00
+Date of Registration: 2026-03-06
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2026-03-05, Harish Bhat, a resident of 140, Layout, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Harish Bhat (P-0185), aged 25, Delivery Rider.
+
+Victim:
+Rakesh Gowda (P-0117), aged 41.
+
+Accused:
+The following persons are named as accused in this case: Yusuf Kamath (P-0015).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

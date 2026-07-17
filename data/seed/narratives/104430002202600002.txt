@@ -1,0 +1,27 @@
+Crime Number: 104430002202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Yelahanka Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Chain Snatching
+Sections: IPC 379; IPC 356
+Gravity: Non-Heinous
+Date of Occurrence: 2026-01-26 05:37:00
+Date of Registration: 2026-01-27
+Investigating Officer: PSI Ananya Kulkarni
+Status: Closed
+
+Brief Facts:
+On 2026-01-26, Ananya Kulkarni, a resident of 161, Main Road, Hebbal, reported that two-wheeler borne suspects snatched the gold chain and fled towards the ring road. The incident occurred within the limits of Yelahanka Police Station in Bengaluru North district.
+
+Complainant:
+Ananya Kulkarni (P-0247), aged 25, Delivery Rider.
+
+Victim:
+Prakash Desai (P-0226), aged 40.
+
+Accused:
+The following persons are named as accused in this case: Ananya Desai (P-0085), Ramesh Hegde (P-0025).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

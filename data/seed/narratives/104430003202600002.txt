@@ -1,0 +1,27 @@
+Crime Number: 104430003202600002
+Case Number: 202600002
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2026-04-27 21:02:00
+Date of Registration: 2026-04-27
+Investigating Officer: PSI Nandini Murthy
+Status: Charge Sheeted
+
+Brief Facts:
+On 2026-04-27, Manjunath Kumar, a resident of 94, Extension, Peenya, reported that the motorcycle parked outside the residence was stolen during the night. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Manjunath Kumar (P-0142), aged 36, Construction Worker.
+
+Victim:
+Manjunath Kumar (P-0142), aged 36.
+
+Accused:
+The following persons are named as accused in this case: Imran Shetty (P-0088), Yusuf Reddy (P-0020).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

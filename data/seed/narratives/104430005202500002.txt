@@ -1,0 +1,27 @@
+Crime Number: 104430005202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: RT Nagar Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-17 19:44:00
+Date of Registration: 2025-07-17
+Investigating Officer: PSI Lakshmi Kamath
+Status: Under Investigation
+
+Brief Facts:
+On 2025-07-17, Imran Kulkarni, a resident of 103, Extension, Yelahanka, reported that payment was collected for goods advertised online which were never delivered. The incident occurred within the limits of RT Nagar Police Station in Bengaluru North district.
+
+Complainant:
+Imran Kulkarni (P-0325), aged 30, Mechanic.
+
+Victim:
+Girish Swamy (P-0159), aged 21.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

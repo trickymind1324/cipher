@@ -1,0 +1,27 @@
+Crime Number: 104430003202400007
+Case Number: 202400007
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-15 06:38:00
+Date of Registration: 2024-08-16
+Investigating Officer: PSI Nandini Murthy
+Status: Charge Sheeted
+
+Brief Facts:
+On 2024-08-15, Kiran Pujari, a resident of 178, Colony, Peenya, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Kiran Pujari (P-0131), aged 45, Daily Wage Labourer.
+
+Victim:
+Kiran Pujari (P-0131), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Ravi Gowda (P-0073), Deepa Prasad (P-0041).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

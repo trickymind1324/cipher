@@ -49,6 +49,7 @@ function intentOf(text) {
 		return 'SIMILAR_CASE';
 	if (has(t, 'network', 'linked to', 'connected', 'associates', 'gang', 'nexus', 'ಜಾಲ', 'ಸಂಪರ್ಕ')) return 'NETWORK';
 	if (has(t, 'hotspot', 'hot spot', 'which area', 'which taluk', 'where are', 'concentrated', 'ಹಾಟ್‌ಸ್ಪಾಟ್', 'ಪ್ರದೇಶ')) return 'HOTSPOT';
+	if (has(t, 'summarise', 'summarize', 'summary of', 'tell me about', 'what happened in', 'ಸಾರಾಂಶ') && /\b\d{18}\b/.test(t)) return 'SUMMARY';
 	if (has(t, 'trend', 'over time', 'rising', 'increase', 'increasing', 'decline', 'month by month', 'ಪ್ರವೃತ್ತಿ', 'ಹೆಚ್ಚಳ')) return 'TREND';
 	if (has(t, 'repeat', 'habitual', 'most active', 'top accused', 'frequent', 'ಪುನರಾವರ್ತಿತ')) return 'REPEAT_OFFENDER';
 	if (has(t, 'summarise', 'summarize', 'summary of', 'tell me about fir', 'ಸಾರಾಂಶ')) return 'SUMMARY';
@@ -64,21 +65,22 @@ function parse(text, context = {}) {
 	const raw = String(text || '').trim();
 	const language = glossary.isKannada(raw) ? 'kn' : 'en';
 
-	const firId = (raw.match(/\bFIR-\d{3,4}\b/i) || [])[0];
+	// CrimeNo: 18-digit structured case number (category+district+unit+year+serial).
+	const crimeNo = (raw.match(/\b\d{18}\b/) || [])[0];
 	const personId = (raw.match(/\bP-\d{3,4}\b/i) || [])[0];
 
 	const turn = {
 		crime_type: glossary.crimeType(raw),
 		district: glossary.district(raw),
-		taluk: glossary.taluk(raw),
+		area: glossary.area(raw),
 		...dateRange(raw) ? { date: dateRange(raw) } : {},
-		...(firId ? { fir_id: firId.toUpperCase() } : {}),
+		...(crimeNo ? { crime_no: crimeNo } : {}),
 		...(personId ? { person_id: personId.toUpperCase() } : {}),
 	};
 
 	// A follow-up inherits what it doesn't restate ("...and in Mysuru?" keeps the crime type).
 	const carried = {};
-	for (const k of ['crime_type', 'district', 'taluk', 'date', 'person_id']) {
+	for (const k of ['crime_type', 'district', 'area', 'date', 'person_id']) {
 		if (turn[k] == null && context[k] != null) carried[k] = context[k];
 	}
 
@@ -90,10 +92,14 @@ function parse(text, context = {}) {
 	const name = personNameIn(raw);
 	if (name) entities.person_name = name;
 
+	// A bare crime number is a lookup, whatever the phrasing around it.
+	let intent = intentOf(raw);
+	if (entities.crime_no && intent === 'RETRIEVE') intent = 'SUMMARY';
+
 	return {
 		text: raw,
 		language,
-		intent: intentOf(raw),
+		intent,
 		entities,
 		carried_over: Object.keys(carried),
 	};

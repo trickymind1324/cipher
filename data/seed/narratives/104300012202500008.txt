@@ -1,0 +1,27 @@
+Crime Number: 104300012202500008
+Case Number: 202500008
+Case Category: FIR
+Police Station: Aland Police Station, Kalaburagi district, Karnataka
+Crime Head: Economic Offences — Cheating / Online Fraud
+Sections: IPC 420; ITACT 66D
+Gravity: Non-Heinous
+Date of Occurrence: 2025-09-24 17:58:00
+Date of Registration: 2025-09-24
+Investigating Officer: PSI Nagaraj Prasad
+Status: Under Investigation
+
+Brief Facts:
+On 2025-09-24, Shwetha Reddy, a resident of 134, Main Road, Kalaburagi City, reported that the suspect posed as a bank official and obtained the OTP over a phone call. The incident occurred within the limits of Aland Police Station in Kalaburagi district.
+
+Complainant:
+Shwetha Reddy (P-0320), aged 48, Delivery Rider.
+
+Victim:
+Shwetha Reddy (P-0320), aged 48.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+No final report has been filed yet.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

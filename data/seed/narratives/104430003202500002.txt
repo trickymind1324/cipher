@@ -1,0 +1,27 @@
+Crime Number: 104430003202500002
+Case Number: 202500002
+Case Category: FIR
+Police Station: Hebbal Police Station, Bengaluru North district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2025-07-12 14:51:00
+Date of Registration: 2025-07-15
+Investigating Officer: PSI Nandini Murthy
+Status: Closed
+
+Brief Facts:
+On 2025-07-12, Kiran Pujari, a resident of 178, Colony, Peenya, reported that the vehicle was taken from an unattended parking lot after the steering lock was broken. The incident occurred within the limits of Hebbal Police Station in Bengaluru North district.
+
+Complainant:
+Kiran Pujari (P-0131), aged 45, Daily Wage Labourer.
+
+Victim:
+Deepa Pujari (P-0138), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Shwetha Desai (P-0026), Savitha Murthy (P-0065).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

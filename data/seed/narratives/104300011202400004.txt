@@ -1,0 +1,27 @@
+Crime Number: 104300011202400004
+Case Number: 202400004
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — Vehicle Theft
+Sections: IPC 379
+Gravity: Non-Heinous
+Date of Occurrence: 2024-08-14 06:10:00
+Date of Registration: 2024-08-15
+Investigating Officer: PSI Suresh Gowda
+Status: Closed
+
+Brief Facts:
+On 2024-08-14, Lakshmi Kamath, a resident of 141, Main Road, Kalaburagi City, reported that the two-wheeler was stolen from outside a commercial complex in broad daylight. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Lakshmi Kamath (P-0132), aged 50, Construction Worker.
+
+Victim:
+Lakshmi Kamath (P-0132), aged 50.
+
+Accused:
+No accused has been identified so far. The case remains under investigation.
+
+The case was closed as undetected (final report C).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

@@ -79,37 +79,37 @@ function movement(series) {
 function build(filters = {}) {
 	const f = {
 		district: filters.district,
-		taluk: filters.taluk,
+		area: filters.area,
 		crime_type: filters.crime_type,
 		from: filters.from,
 		to: filters.to,
 	};
 
 	const series = fillMonths(store.aggregate({ by: 'month', ...f }), f.from, f.to);
-	const areas = store.aggregate({ by: 'taluk', ...f });
+	const areas = store.aggregate({ by: 'area', ...f });
 	const byType = store.aggregate({ by: 'crime_type', ...f });
 
 	const { rows: firs } = store.findFirs({ ...f, limit: Infinity });
 	const total = firs.length;
 
-	// Geo points: one per FIR, so a marker is always traceable to a record.
+	// Geo points: one per case, so a marker is always traceable to a record.
 	const points = firs.map((x) => ({
-		fir_id: x.fir_id,
+		crime_no: x.crime_no,
 		lat: x.lat,
 		lon: x.lon,
 		crime_type: x.crime_type,
-		taluk: x.taluk,
+		area: x.area,
 		district: x.district,
 		occurrence_date: x.occurrence_date,
 		status: x.status,
 	}));
 
 	// Area centroids for the map's hotspot circles.
-	const stationByTaluk = new Map(store.stations().map((s) => [s.taluk, s]));
+	const stationByArea = new Map(store.stations().map((s) => [s.area, s]));
 	const hotspots = areas.map((a) => {
-		const s = stationByTaluk.get(a.key);
+		const s = stationByArea.get(a.key);
 		return {
-			taluk: a.key,
+			area: a.key,
 			count: a.count,
 			share: total ? +(a.count / total).toFixed(3) : 0,
 			lat: s?.lat ?? null,
@@ -127,7 +127,7 @@ function build(filters = {}) {
 		points,
 		top_area: hotspots[0] || null,
 		movement: movement(series),
-		evidence: firs.map((x) => x.fir_id),
+		evidence: firs.map((x) => x.crime_no),
 	};
 }
 

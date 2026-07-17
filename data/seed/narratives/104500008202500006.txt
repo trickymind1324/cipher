@@ -1,0 +1,27 @@
+Crime Number: 104500008202500006
+Case Number: 202500006
+Case Category: FIR
+Police Station: Nanjangud Police Station, Mysuru district, Karnataka
+Crime Head: Crimes Against Property — Robbery
+Sections: IPC 392; IPC 397
+Gravity: Heinous
+Date of Occurrence: 2025-12-23 10:06:00
+Date of Registration: 2025-12-23
+Investigating Officer: PSI Chetan Bhat
+Status: Closed
+
+Brief Facts:
+On 2025-12-23, Roopa Kamath, a resident of 138, Main Road, Krishnaraja, reported that an armed group waylaid the complainant on a deserted stretch and robbed the collection amount. The incident occurred within the limits of Nanjangud Police Station in Mysuru district.
+
+Complainant:
+Roopa Kamath (P-0115), aged 46, Street Vendor.
+
+Victim:
+Roopa Kamath (P-0115), aged 46.
+
+Accused:
+The following persons are named as accused in this case: Chetan Reddy (P-0005), Shivakumar Desai (P-0052).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

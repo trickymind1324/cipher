@@ -1,0 +1,331 @@
+person_id,full_name,aliases,gender,dob,age_band,address,district,socio_econ_band,occupation,is_offender
+P-0001,Bhavya Reddy,,F,1985-12-17,35-44,"68, Extension, Chittapur",Kalaburagi,lower-middle,Construction Worker,1
+P-0002,Girish Patil,Gappa,M,1981-10-05,45+,"122, Layout, Nanjangud",Mysuru,middle,Shop Assistant,1
+P-0003,Vinay Kumar,Vappa,M,1998-06-09,25-34,"57, Cross Road, Peenya",Bengaluru North,lower-middle,Farm Labourer,1
+P-0004,Vinay Reddy,,M,2004-11-15,18-24,"174, Layout, Hunsur",Mysuru,low,Street Vendor,1
+P-0005,Chetan Reddy,,F,1975-08-28,45+,"165, Layout, Hunsur",Mysuru,lower-middle,Private Security Guard,1
+P-0006,Umesh Shetty,Uanna,M,2005-05-10,18-24,"159, Extension, Krishnaraja",Mysuru,low,Unemployed,1
+P-0007,Chetan Murthy,,M,1980-04-06,45+,"173, Cross Road, Krishnaraja",Mysuru,middle,Farm Labourer,1
+P-0008,Ramesh Murthy,,M,1977-03-09,45+,"85, Extension, Hunsur",Mysuru,lower-middle,Daily Wage Labourer,1
+P-0009,Rakesh Rao,Rappa,M,1976-09-04,45+,"49, Extension, Aland",Kalaburagi,lower-middle,Unemployed,1
+P-0010,Shwetha Prasad,,M,2001-11-05,25-34,"73, Extension, Hebbal",Bengaluru North,low,Unemployed,1
+P-0011,Savitha Jadhav,,M,1994-06-20,25-34,"107, Colony, Chittapur",Kalaburagi,lower-middle,Unemployed,1
+P-0012,Bhavya Naik,,F,2001-12-09,25-34,"91, Colony, Nanjangud",Mysuru,middle,Mechanic,1
+P-0013,Harish Patil,Hanna,F,2004-09-17,18-24,"152, Layout, Peenya",Bengaluru North,lower-middle,Auto Driver,1
+P-0014,Pooja Shetty,Pappa,F,1988-09-20,35-44,"179, Layout, Hebbal",Bengaluru North,lower-middle,Street Vendor,1
+P-0015,Yusuf Kamath,,M,1980-01-17,45+,"142, Layout, Kalaburagi City",Kalaburagi,middle,Street Vendor,1
+P-0016,Mahesh Prasad,,M,1978-06-02,45+,"113, Extension, Yelahanka",Bengaluru North,low,Farm Labourer,1
+P-0017,Naveen Hegde,Nu,F,1999-08-14,25-34,"56, Layout, Nanjangud",Mysuru,lower-middle,Unemployed,1
+P-0018,Umesh Pujari,,F,1984-06-24,35-44,"107, Main Road, Hunsur",Mysuru,middle,Farm Labourer,1
+P-0019,Mahesh Rao,,F,1985-07-25,35-44,"156, Layout, Hunsur",Mysuru,middle,Street Vendor,1
+P-0020,Yusuf Reddy,,F,1978-08-04,45+,"13, Cross Road, Hebbal",Bengaluru North,low,Auto Driver,1
+P-0021,Manjunath Achar,,F,2000-07-14,25-34,"142, Main Road, RT Nagar",Bengaluru North,low,Delivery Rider,1
+P-0022,Umesh Achar,,M,2000-06-11,25-34,"175, Extension, Nanjangud",Mysuru,middle,Construction Worker,1
+P-0023,Girish Jadhav,,M,1990-05-22,35-44,"85, Main Road, Krishnaraja",Mysuru,lower-middle,Unemployed,1
+P-0024,Kiran Desai,,M,1984-05-19,35-44,"122, Main Road, Kalaburagi City",Kalaburagi,middle,Shop Assistant,1
+P-0025,Ramesh Hegde,Rappa,M,1987-05-14,35-44,"132, Cross Road, RT Nagar",Bengaluru North,middle,Street Vendor,1
+P-0026,Shwetha Desai,,M,1982-08-24,35-44,"113, Cross Road, Hebbal",Bengaluru North,middle,Daily Wage Labourer,1
+P-0027,Kiran Achar,,M,1993-06-20,25-34,"92, Layout, Hunsur",Mysuru,middle,Mechanic,1
+P-0028,Girish Reddy,Gu,M,1981-02-13,45+,"139, Extension, Nanjangud",Mysuru,lower-middle,Shop Assistant,1
+P-0029,Imran Reddy,,M,1984-03-09,35-44,"45, Main Road, Aland",Kalaburagi,middle,Shop Assistant,1
+P-0030,Kiran Murthy,,M,1983-07-09,35-44,"7, Extension, Chittapur",Kalaburagi,low,Shop Assistant,1
+P-0031,Yusuf Shetty,Yu,M,1981-09-16,45+,"120, Main Road, RT Nagar",Bengaluru North,middle,Farm Labourer,1
+P-0032,Santhosh Kamath,,F,1985-05-27,35-44,"137, Colony, Nanjangud",Mysuru,lower-middle,Construction Worker,1
+P-0033,Lokesh Pujari,Lu,M,1992-08-01,25-34,"64, Extension, Aland",Kalaburagi,low,Construction Worker,1
+P-0034,Santhosh Pujari,,M,1981-06-05,45+,"24, Cross Road, Chittapur",Kalaburagi,low,Street Vendor,1
+P-0035,Mahesh Kulkarni,,M,1984-07-13,35-44,"71, Cross Road, Aland",Kalaburagi,low,Private Security Guard,1
+P-0036,Yusuf Kamath,,M,1975-11-05,45+,"40, Colony, Nanjangud",Mysuru,low,Mechanic,1
+P-0037,Kavitha Rao,Ku,F,1998-07-11,25-34,"22, Main Road, Nanjangud",Mysuru,low,Street Vendor,1
+P-0038,Nagaraj Reddy,Nanna,M,1989-04-03,35-44,"32, Extension, Kalaburagi City",Kalaburagi,low,Construction Worker,1
+P-0039,Nagaraj Murthy,,M,1979-02-09,45+,"155, Extension, Kalaburagi City",Kalaburagi,low,Mechanic,1
+P-0040,Shwetha Kamath,,M,1994-06-23,25-34,"51, Extension, Hunsur",Mysuru,middle,Daily Wage Labourer,1
+P-0041,Deepa Prasad,Danna,M,1998-04-04,25-34,"165, Layout, Hebbal",Bengaluru North,lower-middle,Private Security Guard,1
+P-0042,Yusuf Prasad,,M,2002-08-28,18-24,"178, Cross Road, Aland",Kalaburagi,lower-middle,Unemployed,1
+P-0043,Vidya Swamy,Vappa,M,1980-07-05,45+,"123, Colony, Peenya",Bengaluru North,middle,Construction Worker,1
+P-0044,Bhavya Kamath,,M,2000-01-28,25-34,"138, Layout, Chittapur",Kalaburagi,middle,Mechanic,1
+P-0045,Manjunath Pujari,,M,1989-12-24,35-44,"135, Extension, Hebbal",Bengaluru North,low,Mechanic,1
+P-0046,Ramesh Shetty,Ru,M,1994-02-22,25-34,"112, Layout, Hunsur",Mysuru,low,Private Security Guard,1
+P-0047,Ramesh Reddy,Ru,F,1983-06-26,35-44,"80, Main Road, Krishnaraja",Mysuru,low,Delivery Rider,1
+P-0048,Imran Patil,Iappa,M,1998-10-16,25-34,"32, Main Road, Krishnaraja",Mysuru,middle,Unemployed,1
+P-0049,Ramesh Shetty,,M,1989-11-03,35-44,"120, Extension, Aland",Kalaburagi,low,Daily Wage Labourer,1
+P-0050,Anand Jadhav,,F,1985-11-24,35-44,"47, Main Road, Krishnaraja",Mysuru,lower-middle,Farm Labourer,1
+P-0051,Suresh Shetty,Sanna,M,1997-10-25,25-34,"113, Main Road, Krishnaraja",Mysuru,low,Farm Labourer,1
+P-0052,Shivakumar Desai,Sappa,M,1996-08-05,25-34,"80, Cross Road, Nanjangud",Mysuru,low,Construction Worker,1
+P-0053,Ravi Patil,,F,1987-01-04,35-44,"179, Colony, Krishnaraja",Mysuru,middle,Construction Worker,1
+P-0054,Lokesh Kumar,,M,1990-04-16,35-44,"87, Layout, Hebbal",Bengaluru North,lower-middle,Unemployed,1
+P-0055,Ananya Swamy,Aanna,M,1977-05-03,45+,"96, Cross Road, Krishnaraja",Mysuru,low,Farm Labourer,1
+P-0056,Basavaraj Gowda,,F,1991-04-20,35-44,"50, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Private Security Guard,1
+P-0057,Mahesh Kulkarni,,F,1979-10-18,45+,"104, Extension, Krishnaraja",Mysuru,middle,Unemployed,1
+P-0058,Pooja Achar,Panna,F,1993-02-23,25-34,"110, Cross Road, Peenya",Bengaluru North,low,Mechanic,1
+P-0059,Ananya Kamath,,M,1986-10-10,35-44,"134, Main Road, Aland",Kalaburagi,low,Shop Assistant,1
+P-0060,Ramesh Desai,,F,2000-10-06,25-34,"47, Colony, Aland",Kalaburagi,low,Daily Wage Labourer,1
+P-0061,Roopa Naik,,M,1990-11-17,35-44,"15, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Shop Assistant,1
+P-0062,Kiran Murthy,,M,1991-01-14,35-44,"161, Extension, Aland",Kalaburagi,lower-middle,Farm Labourer,1
+P-0063,Chetan Reddy,Canna,M,1988-09-21,35-44,"85, Layout, Krishnaraja",Mysuru,lower-middle,Construction Worker,1
+P-0064,Chetan Kumar,,M,2003-11-27,18-24,"168, Main Road, Aland",Kalaburagi,low,Unemployed,1
+P-0065,Savitha Murthy,,F,1981-06-16,45+,"29, Colony, Hebbal",Bengaluru North,low,Private Security Guard,1
+P-0066,Nagaraj Pujari,,M,1996-04-16,25-34,"170, Extension, Nanjangud",Mysuru,low,Unemployed,1
+P-0067,Naveen Prasad,Nu,M,1989-09-03,35-44,"132, Extension, Yelahanka",Bengaluru North,middle,Construction Worker,1
+P-0068,Anand Gowda,,M,1995-06-01,25-34,"31, Colony, Hunsur",Mysuru,low,Mechanic,1
+P-0069,Lokesh Desai,Lu,M,1977-12-15,45+,"6, Main Road, Peenya",Bengaluru North,middle,Mechanic,1
+P-0070,Ramesh Rao,,M,1992-08-12,25-34,"97, Layout, RT Nagar",Bengaluru North,low,Unemployed,1
+P-0071,Yusuf Patil,,F,1982-06-24,35-44,"170, Layout, Hunsur",Mysuru,low,Unemployed,1
+P-0072,Umesh Gowda,,M,1982-04-09,35-44,"156, Colony, Krishnaraja",Mysuru,low,Farm Labourer,1
+P-0073,Ravi Gowda,,M,1984-11-09,35-44,"170, Main Road, RT Nagar",Bengaluru North,low,Construction Worker,1
+P-0074,Ramesh Pujari,Ru,M,2002-09-11,18-24,"82, Colony, Hebbal",Bengaluru North,lower-middle,Street Vendor,1
+P-0075,Nagaraj Rao,Nanna,F,2002-12-24,18-24,"19, Colony, Krishnaraja",Mysuru,lower-middle,Shop Assistant,1
+P-0076,Kiran Gowda,,M,1995-01-09,25-34,"180, Main Road, Hunsur",Mysuru,low,Daily Wage Labourer,1
+P-0077,Lokesh Shetty,Lu,M,1979-09-03,45+,"23, Extension, Hebbal",Bengaluru North,middle,Unemployed,1
+P-0078,Shwetha Achar,Su,F,1979-01-28,45+,"16, Layout, Peenya",Bengaluru North,middle,Delivery Rider,1
+P-0079,Ramesh Hegde,,F,1998-07-11,25-34,"119, Main Road, Hunsur",Mysuru,lower-middle,Street Vendor,1
+P-0080,Shivakumar Gowda,,M,1999-03-16,25-34,"103, Cross Road, Kalaburagi City",Kalaburagi,middle,Daily Wage Labourer,1
+P-0081,Farhan Murthy,Fanna,M,2004-02-21,18-24,"149, Cross Road, Hebbal",Bengaluru North,lower-middle,Unemployed,1
+P-0082,Anand Bhat,Aanna,F,1993-08-24,25-34,"142, Extension, Peenya",Bengaluru North,middle,Unemployed,1
+P-0083,Ramesh Patil,Ru,M,1996-05-19,25-34,"86, Extension, Nanjangud",Mysuru,middle,Farm Labourer,1
+P-0084,Yusuf Murthy,Yanna,M,2001-08-12,25-34,"80, Extension, Hebbal",Bengaluru North,lower-middle,Shop Assistant,1
+P-0085,Ananya Desai,Aanna,F,1987-03-22,35-44,"17, Extension, Hebbal",Bengaluru North,lower-middle,Shop Assistant,1
+P-0086,Naveen Achar,,M,1990-05-14,35-44,"49, Layout, Hunsur",Mysuru,middle,Auto Driver,1
+P-0087,Roopa Hegde,Ru,F,1991-08-02,35-44,"5, Layout, Hunsur",Mysuru,middle,Farm Labourer,1
+P-0088,Imran Shetty,Ianna,M,1983-05-13,35-44,"86, Extension, Yelahanka",Bengaluru North,lower-middle,Auto Driver,1
+P-0089,Chetan Kamath,Cappa,F,1981-01-01,45+,"160, Main Road, Peenya",Bengaluru North,middle,Private Security Guard,1
+P-0090,Deepa Desai,Danna,M,1975-01-23,45+,"121, Extension, Hunsur",Mysuru,middle,Auto Driver,1
+P-0091,Prakash Murthy,,M,1985-11-09,35-44,"81, Extension, RT Nagar",Bengaluru North,middle,Daily Wage Labourer,0
+P-0092,Shwetha Desai,,M,1988-11-07,35-44,"151, Cross Road, Nanjangud",Mysuru,lower-middle,Street Vendor,0
+P-0093,Nagaraj Desai,,M,1980-06-28,45+,"34, Main Road, Nanjangud",Mysuru,low,Unemployed,0
+P-0094,Deepa Shetty,,M,2002-05-01,18-24,"129, Cross Road, Krishnaraja",Mysuru,middle,Construction Worker,0
+P-0095,Rakesh Patil,,F,1999-03-13,25-34,"9, Main Road, RT Nagar",Bengaluru North,middle,Construction Worker,0
+P-0096,Ramesh Reddy,,M,1999-01-06,25-34,"121, Main Road, Hebbal",Bengaluru North,low,Mechanic,0
+P-0097,Prakash Patil,,M,2003-03-14,18-24,"61, Layout, Aland",Kalaburagi,lower-middle,Auto Driver,0
+P-0098,Girish Swamy,,M,2003-05-25,18-24,"26, Main Road, Hunsur",Mysuru,middle,Delivery Rider,0
+P-0099,Prakash Kulkarni,,M,1985-10-10,35-44,"43, Colony, Nanjangud",Mysuru,middle,Daily Wage Labourer,0
+P-0100,Imran Jadhav,,M,2002-10-26,18-24,"8, Extension, Chittapur",Kalaburagi,low,Street Vendor,0
+P-0101,Farhan Pujari,,F,2000-02-12,25-34,"154, Colony, Hunsur",Mysuru,middle,Daily Wage Labourer,0
+P-0102,Ananya Prasad,,M,1981-03-07,45+,"115, Cross Road, Peenya",Bengaluru North,lower-middle,Unemployed,0
+P-0103,Deepa Pujari,,M,1985-09-02,35-44,"143, Extension, Aland",Kalaburagi,low,Auto Driver,0
+P-0104,Santhosh Bhat,,M,1994-01-05,25-34,"105, Main Road, Krishnaraja",Mysuru,middle,Auto Driver,0
+P-0105,Basavaraj Swamy,,M,1982-05-05,35-44,"138, Main Road, Chittapur",Kalaburagi,middle,Mechanic,0
+P-0106,Nandini Achar,,M,2002-08-23,18-24,"26, Colony, Yelahanka",Bengaluru North,middle,Daily Wage Labourer,0
+P-0107,Pooja Desai,,M,1988-06-18,35-44,"27, Colony, Aland",Kalaburagi,lower-middle,Private Security Guard,0
+P-0108,Mahesh Desai,,M,1994-03-14,25-34,"55, Main Road, Yelahanka",Bengaluru North,low,Auto Driver,0
+P-0109,Rakesh Bhat,,M,1991-01-09,35-44,"151, Main Road, Nanjangud",Mysuru,lower-middle,Shop Assistant,0
+P-0110,Chetan Bhat,,M,1975-10-03,45+,"2, Colony, Kalaburagi City",Kalaburagi,low,Street Vendor,0
+P-0111,Anand Bhat,,M,1991-04-26,35-44,"159, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Private Security Guard,0
+P-0112,Ananya Kulkarni,,M,2005-08-08,18-24,"37, Extension, RT Nagar",Bengaluru North,lower-middle,Private Security Guard,0
+P-0113,Ravi Murthy,,F,1978-05-08,45+,"104, Layout, Krishnaraja",Mysuru,middle,Construction Worker,0
+P-0114,Vinay Achar,,F,2001-04-06,25-34,"113, Cross Road, Hunsur",Mysuru,middle,Private Security Guard,0
+P-0115,Roopa Kamath,,M,1980-08-04,45+,"138, Main Road, Krishnaraja",Mysuru,middle,Street Vendor,0
+P-0116,Basavaraj Prasad,,F,1990-01-21,35-44,"162, Extension, Chittapur",Kalaburagi,middle,Private Security Guard,0
+P-0117,Rakesh Gowda,,F,1985-10-03,35-44,"31, Extension, Kalaburagi City",Kalaburagi,low,Mechanic,0
+P-0118,Ravi Murthy,,F,1981-03-14,45+,"127, Main Road, Chittapur",Kalaburagi,middle,Street Vendor,0
+P-0119,Shwetha Kulkarni,,F,2004-11-27,18-24,"163, Main Road, RT Nagar",Bengaluru North,middle,Construction Worker,0
+P-0120,Ramesh Rao,,M,1993-11-08,25-34,"47, Colony, Chittapur",Kalaburagi,lower-middle,Delivery Rider,0
+P-0121,Umesh Achar,,M,1980-02-21,45+,"29, Main Road, Hunsur",Mysuru,low,Daily Wage Labourer,0
+P-0122,Bhavya Achar,,M,1981-08-02,45+,"128, Cross Road, Krishnaraja",Mysuru,middle,Shop Assistant,0
+P-0123,Nagaraj Murthy,,M,1999-09-28,25-34,"94, Colony, Hunsur",Mysuru,lower-middle,Street Vendor,0
+P-0124,Pooja Desai,,M,1980-03-06,45+,"136, Colony, Krishnaraja",Mysuru,lower-middle,Street Vendor,0
+P-0125,Yusuf Kamath,,M,2001-04-05,25-34,"9, Cross Road, RT Nagar",Bengaluru North,lower-middle,Auto Driver,0
+P-0126,Kavitha Pujari,,F,1991-03-22,35-44,"78, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Auto Driver,0
+P-0127,Basavaraj Patil,,M,1994-08-18,25-34,"169, Layout, Kalaburagi City",Kalaburagi,lower-middle,Delivery Rider,0
+P-0128,Savitha Jadhav,,F,1982-01-16,35-44,"75, Layout, Kalaburagi City",Kalaburagi,lower-middle,Street Vendor,0
+P-0129,Manjunath Rao,,F,1976-09-17,45+,"166, Cross Road, Nanjangud",Mysuru,middle,Shop Assistant,0
+P-0130,Nagaraj Murthy,,F,1984-10-17,35-44,"15, Cross Road, Yelahanka",Bengaluru North,lower-middle,Street Vendor,0
+P-0131,Kiran Pujari,,F,1981-09-10,45+,"178, Colony, Peenya",Bengaluru North,middle,Daily Wage Labourer,0
+P-0132,Lakshmi Kamath,,M,1976-01-19,45+,"141, Main Road, Kalaburagi City",Kalaburagi,lower-middle,Construction Worker,0
+P-0133,Savitha Hegde,,M,2000-10-17,25-34,"18, Layout, Aland",Kalaburagi,middle,Farm Labourer,0
+P-0134,Nagaraj Desai,,M,1976-02-17,45+,"98, Colony, Peenya",Bengaluru North,middle,Street Vendor,0
+P-0135,Nagaraj Prasad,,M,1976-04-07,45+,"139, Main Road, Nanjangud",Mysuru,middle,Delivery Rider,0
+P-0136,Naveen Rao,,M,2005-10-15,18-24,"84, Colony, Nanjangud",Mysuru,low,Shop Assistant,0
+P-0137,Savitha Hegde,,M,1981-08-12,45+,"13, Cross Road, Aland",Kalaburagi,low,Shop Assistant,0
+P-0138,Deepa Pujari,,M,2001-10-05,25-34,"88, Colony, RT Nagar",Bengaluru North,middle,Unemployed,0
+P-0139,Girish Achar,,M,2003-03-26,18-24,"6, Extension, Krishnaraja",Mysuru,low,Street Vendor,0
+P-0140,Anand Naik,,F,1978-11-20,45+,"102, Colony, Krishnaraja",Mysuru,middle,Street Vendor,0
+P-0141,Suresh Rao,,M,2001-12-27,25-34,"41, Main Road, Aland",Kalaburagi,lower-middle,Auto Driver,0
+P-0142,Manjunath Kumar,,M,1990-06-02,35-44,"94, Extension, Peenya",Bengaluru North,middle,Construction Worker,0
+P-0143,Deepa Pujari,,M,1998-09-11,25-34,"74, Extension, Hunsur",Mysuru,low,Auto Driver,0
+P-0144,Harish Achar,,M,1984-08-21,35-44,"150, Extension, Kalaburagi City",Kalaburagi,lower-middle,Mechanic,0
+P-0145,Imran Pujari,,M,1988-01-16,35-44,"12, Extension, Aland",Kalaburagi,low,Street Vendor,0
+P-0146,Manjunath Gowda,,M,1993-07-28,25-34,"141, Colony, Peenya",Bengaluru North,lower-middle,Construction Worker,0
+P-0147,Savitha Shetty,,M,1975-01-24,45+,"67, Cross Road, Yelahanka",Bengaluru North,low,Farm Labourer,0
+P-0148,Vinay Swamy,,M,1975-09-22,45+,"2, Extension, Kalaburagi City",Kalaburagi,low,Unemployed,0
+P-0149,Vinay Hegde,,M,1992-01-01,25-34,"10, Main Road, Hebbal",Bengaluru North,middle,Construction Worker,0
+P-0150,Suresh Reddy,,M,1992-09-06,25-34,"142, Extension, Nanjangud",Mysuru,low,Daily Wage Labourer,0
+P-0151,Imran Naik,,F,1979-11-07,45+,"67, Main Road, Aland",Kalaburagi,low,Mechanic,0
+P-0152,Rakesh Achar,,M,2004-11-02,18-24,"37, Layout, Peenya",Bengaluru North,low,Delivery Rider,0
+P-0153,Basavaraj Hegde,,M,1981-07-26,45+,"77, Colony, Hunsur",Mysuru,lower-middle,Mechanic,0
+P-0154,Nandini Patil,,F,1989-03-03,35-44,"151, Main Road, Aland",Kalaburagi,low,Auto Driver,0
+P-0155,Imran Patil,,F,2004-06-06,18-24,"79, Colony, Krishnaraja",Mysuru,low,Farm Labourer,0
+P-0156,Shwetha Gowda,,M,2002-03-11,18-24,"161, Cross Road, Hebbal",Bengaluru North,lower-middle,Mechanic,0
+P-0157,Chetan Kumar,,F,1988-08-28,35-44,"74, Main Road, Krishnaraja",Mysuru,low,Auto Driver,0
+P-0158,Vinay Bhat,,M,1986-09-04,35-44,"140, Colony, Krishnaraja",Mysuru,lower-middle,Construction Worker,0
+P-0159,Girish Swamy,,M,2005-07-25,18-24,"119, Main Road, Yelahanka",Bengaluru North,middle,Daily Wage Labourer,0
+P-0160,Girish Pujari,,M,1999-09-05,25-34,"160, Extension, Krishnaraja",Mysuru,lower-middle,Daily Wage Labourer,0
+P-0161,Nagaraj Hegde,,M,1979-08-16,45+,"85, Colony, Chittapur",Kalaburagi,lower-middle,Private Security Guard,0
+P-0162,Girish Reddy,,M,2004-12-19,18-24,"2, Cross Road, Aland",Kalaburagi,middle,Daily Wage Labourer,0
+P-0163,Chetan Hegde,,F,2004-06-22,18-24,"28, Main Road, Krishnaraja",Mysuru,low,Construction Worker,0
+P-0164,Shwetha Desai,,M,2003-02-11,18-24,"98, Extension, Aland",Kalaburagi,lower-middle,Shop Assistant,0
+P-0165,Santhosh Desai,,M,1991-12-14,35-44,"46, Colony, Chittapur",Kalaburagi,lower-middle,Construction Worker,0
+P-0166,Imran Shetty,,M,1994-04-12,25-34,"123, Extension, RT Nagar",Bengaluru North,low,Farm Labourer,0
+P-0167,Farhan Rao,,M,1981-05-25,45+,"173, Cross Road, Hunsur",Mysuru,lower-middle,Daily Wage Labourer,0
+P-0168,Anand Swamy,,M,1977-04-11,45+,"133, Colony, RT Nagar",Bengaluru North,low,Unemployed,0
+P-0169,Pooja Naik,,F,2000-01-26,25-34,"58, Extension, Kalaburagi City",Kalaburagi,middle,Daily Wage Labourer,0
+P-0170,Lokesh Shetty,,M,1976-12-06,45+,"8, Layout, Yelahanka",Bengaluru North,low,Construction Worker,0
+P-0171,Girish Patil,,M,2004-02-23,18-24,"2, Colony, Krishnaraja",Mysuru,middle,Farm Labourer,0
+P-0172,Girish Gowda,,M,1980-03-18,45+,"172, Main Road, Aland",Kalaburagi,low,Unemployed,0
+P-0173,Naveen Rao,,M,1979-08-15,45+,"143, Cross Road, Chittapur",Kalaburagi,lower-middle,Unemployed,0
+P-0174,Kiran Gowda,,M,1975-10-18,45+,"105, Layout, Hunsur",Mysuru,lower-middle,Construction Worker,0
+P-0175,Kavitha Gowda,,M,1988-07-08,35-44,"8, Extension, Nanjangud",Mysuru,middle,Farm Labourer,0
+P-0176,Santhosh Patil,,M,2005-11-10,18-24,"15, Main Road, Peenya",Bengaluru North,lower-middle,Farm Labourer,0
+P-0177,Savitha Hegde,,M,1995-11-02,25-34,"43, Layout, Hebbal",Bengaluru North,low,Unemployed,0
+P-0178,Ananya Desai,,M,1986-02-13,35-44,"55, Colony, Chittapur",Kalaburagi,middle,Shop Assistant,0
+P-0179,Ramesh Kulkarni,,F,1977-10-19,45+,"59, Layout, Krishnaraja",Mysuru,low,Auto Driver,0
+P-0180,Roopa Swamy,,F,1992-06-02,25-34,"14, Extension, RT Nagar",Bengaluru North,low,Auto Driver,0
+P-0181,Shivakumar Reddy,,M,1989-10-12,35-44,"79, Main Road, Hebbal",Bengaluru North,middle,Delivery Rider,0
+P-0182,Vinay Patil,,F,1983-07-02,35-44,"141, Colony, Kalaburagi City",Kalaburagi,low,Shop Assistant,0
+P-0183,Kiran Naik,,M,1989-03-09,35-44,"133, Main Road, Hunsur",Mysuru,lower-middle,Auto Driver,0
+P-0184,Ramesh Achar,,M,1999-11-11,25-34,"53, Layout, Hebbal",Bengaluru North,lower-middle,Street Vendor,0
+P-0185,Harish Bhat,,M,2001-07-01,25-34,"140, Layout, Aland",Kalaburagi,lower-middle,Delivery Rider,0
+P-0186,Lokesh Shetty,,M,1993-03-01,25-34,"21, Extension, Kalaburagi City",Kalaburagi,lower-middle,Auto Driver,0
+P-0187,Shivakumar Naik,,M,1979-12-06,45+,"1, Extension, Krishnaraja",Mysuru,lower-middle,Mechanic,0
+P-0188,Yusuf Hegde,,M,1980-11-27,45+,"101, Layout, Chittapur",Kalaburagi,low,Construction Worker,0
+P-0189,Santhosh Desai,,M,1999-01-08,25-34,"176, Colony, Kalaburagi City",Kalaburagi,lower-middle,Street Vendor,0
+P-0190,Kiran Kumar,,M,1980-11-05,45+,"108, Cross Road, Kalaburagi City",Kalaburagi,low,Shop Assistant,0
+P-0191,Chetan Swamy,,M,1993-01-26,25-34,"55, Colony, Kalaburagi City",Kalaburagi,middle,Street Vendor,0
+P-0192,Roopa Murthy,,M,1996-01-02,25-34,"148, Extension, Chittapur",Kalaburagi,low,Mechanic,0
+P-0193,Vinay Patil,,M,1996-08-12,25-34,"138, Cross Road, RT Nagar",Bengaluru North,lower-middle,Unemployed,0
+P-0194,Lakshmi Reddy,,M,1984-06-24,35-44,"140, Cross Road, Kalaburagi City",Kalaburagi,low,Street Vendor,0
+P-0195,Rakesh Achar,,F,1996-12-01,25-34,"166, Colony, Hunsur",Mysuru,low,Farm Labourer,0
+P-0196,Mahesh Shetty,,M,2003-08-24,18-24,"118, Extension, Peenya",Bengaluru North,low,Delivery Rider,0
+P-0197,Umesh Gowda,,F,1993-05-09,25-34,"121, Main Road, Hebbal",Bengaluru North,middle,Auto Driver,0
+P-0198,Mahesh Achar,,F,1979-11-27,45+,"43, Colony, Hunsur",Mysuru,lower-middle,Construction Worker,0
+P-0199,Ananya Rao,,F,1999-11-14,25-34,"125, Cross Road, Nanjangud",Mysuru,middle,Unemployed,0
+P-0200,Ravi Kamath,,M,1988-02-04,35-44,"175, Extension, Aland",Kalaburagi,lower-middle,Private Security Guard,0
+P-0201,Girish Rao,,M,1988-04-14,35-44,"118, Colony, Hunsur",Mysuru,middle,Street Vendor,0
+P-0202,Kiran Rao,,M,1981-01-04,45+,"8, Main Road, Kalaburagi City",Kalaburagi,lower-middle,Mechanic,0
+P-0203,Bhavya Shetty,,M,1979-10-06,45+,"170, Extension, Chittapur",Kalaburagi,lower-middle,Private Security Guard,0
+P-0204,Mahesh Reddy,,F,1992-03-12,25-34,"110, Layout, Nanjangud",Mysuru,lower-middle,Delivery Rider,0
+P-0205,Chetan Hegde,,M,1999-07-05,25-34,"106, Main Road, Aland",Kalaburagi,lower-middle,Auto Driver,0
+P-0206,Girish Desai,,M,1980-06-16,45+,"75, Colony, Hunsur",Mysuru,low,Unemployed,0
+P-0207,Ravi Naik,,M,2004-02-05,18-24,"14, Main Road, Aland",Kalaburagi,low,Auto Driver,0
+P-0208,Shwetha Kulkarni,,F,1978-09-02,45+,"170, Extension, Krishnaraja",Mysuru,middle,Delivery Rider,0
+P-0209,Shwetha Gowda,,M,1993-07-15,25-34,"117, Main Road, Aland",Kalaburagi,middle,Daily Wage Labourer,0
+P-0210,Vinay Swamy,,M,1977-04-28,45+,"56, Main Road, Nanjangud",Mysuru,low,Shop Assistant,0
+P-0211,Farhan Swamy,,M,1982-01-07,35-44,"112, Main Road, Hebbal",Bengaluru North,low,Mechanic,0
+P-0212,Suresh Rao,,M,1990-11-21,35-44,"90, Layout, Peenya",Bengaluru North,low,Private Security Guard,0
+P-0213,Naveen Prasad,,M,1991-12-28,35-44,"23, Main Road, Chittapur",Kalaburagi,middle,Street Vendor,0
+P-0214,Chetan Jadhav,,M,1989-07-21,35-44,"83, Layout, Hebbal",Bengaluru North,middle,Mechanic,0
+P-0215,Bhavya Desai,,M,1981-09-26,45+,"9, Main Road, Peenya",Bengaluru North,middle,Mechanic,0
+P-0216,Prakash Bhat,,M,1987-12-05,35-44,"159, Extension, Nanjangud",Mysuru,middle,Private Security Guard,0
+P-0217,Anand Hegde,,M,1982-05-25,35-44,"77, Extension, Kalaburagi City",Kalaburagi,lower-middle,Delivery Rider,0
+P-0218,Naveen Bhat,,F,2003-05-04,18-24,"53, Extension, Peenya",Bengaluru North,middle,Mechanic,0
+P-0219,Suresh Prasad,,F,2002-07-04,18-24,"176, Cross Road, Hebbal",Bengaluru North,low,Unemployed,0
+P-0220,Shwetha Gowda,,M,1999-12-16,25-34,"49, Cross Road, Hunsur",Mysuru,middle,Daily Wage Labourer,0
+P-0221,Harish Kulkarni,,M,1980-01-05,45+,"1, Main Road, Peenya",Bengaluru North,lower-middle,Street Vendor,0
+P-0222,Kiran Naik,,M,1998-03-10,25-34,"138, Colony, Kalaburagi City",Kalaburagi,lower-middle,Delivery Rider,0
+P-0223,Chetan Murthy,,F,1984-07-11,35-44,"40, Layout, Krishnaraja",Mysuru,lower-middle,Mechanic,0
+P-0224,Basavaraj Prasad,,M,1983-09-17,35-44,"130, Layout, Krishnaraja",Mysuru,middle,Farm Labourer,0
+P-0225,Bhavya Jadhav,,M,1981-04-15,45+,"18, Colony, Hunsur",Mysuru,low,Daily Wage Labourer,0
+P-0226,Prakash Desai,,M,1986-10-12,35-44,"25, Cross Road, Peenya",Bengaluru North,middle,Private Security Guard,0
+P-0227,Farhan Desai,,M,2001-12-04,25-34,"93, Main Road, Hebbal",Bengaluru North,lower-middle,Farm Labourer,0
+P-0228,Nandini Murthy,,M,2001-08-18,25-34,"110, Extension, Aland",Kalaburagi,middle,Construction Worker,0
+P-0229,Anand Kulkarni,,F,2005-09-01,18-24,"84, Main Road, Kalaburagi City",Kalaburagi,middle,Unemployed,0
+P-0230,Ananya Achar,,F,2002-08-19,18-24,"121, Cross Road, Peenya",Bengaluru North,middle,Private Security Guard,0
+P-0231,Imran Kulkarni,,M,1988-09-13,35-44,"6, Main Road, RT Nagar",Bengaluru North,lower-middle,Daily Wage Labourer,0
+P-0232,Imran Rao,,M,1992-07-15,25-34,"99, Main Road, Hebbal",Bengaluru North,middle,Private Security Guard,0
+P-0233,Lakshmi Bhat,,M,1987-01-20,35-44,"89, Layout, Aland",Kalaburagi,lower-middle,Shop Assistant,0
+P-0234,Suresh Gowda,,F,2001-02-19,25-34,"86, Main Road, Yelahanka",Bengaluru North,lower-middle,Private Security Guard,0
+P-0235,Ananya Patil,,F,1997-09-19,25-34,"117, Main Road, Nanjangud",Mysuru,low,Shop Assistant,0
+P-0236,Imran Achar,,F,1987-06-11,35-44,"134, Main Road, RT Nagar",Bengaluru North,lower-middle,Farm Labourer,0
+P-0237,Nandini Bhat,,M,1984-05-12,35-44,"39, Layout, Hunsur",Mysuru,lower-middle,Unemployed,0
+P-0238,Chetan Bhat,,M,2002-10-03,18-24,"133, Extension, Nanjangud",Mysuru,lower-middle,Construction Worker,0
+P-0239,Pooja Jadhav,,M,1979-02-18,45+,"73, Layout, Yelahanka",Bengaluru North,lower-middle,Auto Driver,0
+P-0240,Chetan Rao,,M,2001-08-02,25-34,"23, Main Road, RT Nagar",Bengaluru North,lower-middle,Delivery Rider,0
+P-0241,Suresh Reddy,,M,1994-07-24,25-34,"25, Layout, Chittapur",Kalaburagi,low,Construction Worker,0
+P-0242,Ramesh Bhat,,M,1995-02-03,25-34,"120, Layout, RT Nagar",Bengaluru North,middle,Street Vendor,0
+P-0243,Bhavya Kumar,,F,1995-09-15,25-34,"79, Layout, Krishnaraja",Mysuru,middle,Mechanic,0
+P-0244,Anand Desai,,M,1986-07-28,35-44,"84, Colony, Hebbal",Bengaluru North,lower-middle,Construction Worker,0
+P-0245,Prakash Swamy,,M,1979-12-04,45+,"177, Extension, Kalaburagi City",Kalaburagi,middle,Street Vendor,0
+P-0246,Farhan Rao,,M,1980-12-14,45+,"68, Main Road, Aland",Kalaburagi,middle,Shop Assistant,0
+P-0247,Ananya Kulkarni,,F,2001-03-26,25-34,"161, Main Road, Hebbal",Bengaluru North,low,Delivery Rider,0
+P-0248,Kavitha Jadhav,,M,2001-11-15,25-34,"128, Extension, Hebbal",Bengaluru North,lower-middle,Daily Wage Labourer,0
+P-0249,Prakash Kamath,,M,1995-08-06,25-34,"169, Main Road, Peenya",Bengaluru North,lower-middle,Delivery Rider,0
+P-0250,Nandini Shetty,,M,1984-04-22,35-44,"125, Extension, Krishnaraja",Mysuru,low,Unemployed,0
+P-0251,Santhosh Swamy,,M,1976-03-21,45+,"173, Main Road, Hunsur",Mysuru,lower-middle,Construction Worker,0
+P-0252,Prakash Swamy,,M,1981-01-28,45+,"118, Layout, RT Nagar",Bengaluru North,middle,Auto Driver,0
+P-0253,Naveen Gowda,,M,1983-06-24,35-44,"74, Extension, RT Nagar",Bengaluru North,low,Private Security Guard,0
+P-0254,Deepa Pujari,,F,2001-09-24,25-34,"41, Colony, Hunsur",Mysuru,middle,Farm Labourer,0
+P-0255,Santhosh Naik,,M,1975-02-14,45+,"77, Colony, Nanjangud",Mysuru,low,Farm Labourer,0
+P-0256,Shwetha Hegde,,M,1988-10-25,35-44,"47, Main Road, Aland",Kalaburagi,lower-middle,Shop Assistant,0
+P-0257,Nandini Desai,,M,1981-05-26,45+,"71, Main Road, Peenya",Bengaluru North,lower-middle,Daily Wage Labourer,0
+P-0258,Prakash Hegde,,M,1989-02-18,35-44,"53, Main Road, Nanjangud",Mysuru,lower-middle,Auto Driver,0
+P-0259,Shivakumar Shetty,,F,1977-05-22,45+,"13, Colony, Aland",Kalaburagi,low,Unemployed,0
+P-0260,Vidya Jadhav,,M,1988-02-20,35-44,"54, Extension, Hunsur",Mysuru,low,Auto Driver,0
+P-0261,Prakash Desai,,M,1995-03-25,25-34,"62, Colony, Chittapur",Kalaburagi,middle,Daily Wage Labourer,0
+P-0262,Kiran Naik,,F,1999-09-15,25-34,"115, Layout, Peenya",Bengaluru North,middle,Private Security Guard,0
+P-0263,Harish Bhat,,M,1998-10-14,25-34,"105, Layout, Peenya",Bengaluru North,middle,Shop Assistant,0
+P-0264,Yusuf Swamy,,M,1986-07-27,35-44,"78, Cross Road, Hebbal",Bengaluru North,middle,Construction Worker,0
+P-0265,Bhavya Hegde,,M,2000-01-17,25-34,"152, Main Road, Krishnaraja",Mysuru,low,Shop Assistant,0
+P-0266,Anand Jadhav,,M,1980-08-02,45+,"136, Colony, Kalaburagi City",Kalaburagi,lower-middle,Daily Wage Labourer,0
+P-0267,Shivakumar Hegde,,M,1978-04-05,45+,"82, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Unemployed,0
+P-0268,Prakash Patil,,F,1998-09-17,25-34,"114, Layout, Chittapur",Kalaburagi,low,Delivery Rider,0
+P-0269,Harish Shetty,,M,1994-03-02,25-34,"143, Extension, RT Nagar",Bengaluru North,middle,Street Vendor,0
+P-0270,Ramesh Gowda,,M,1983-11-22,35-44,"41, Cross Road, Kalaburagi City",Kalaburagi,lower-middle,Delivery Rider,0
+P-0271,Deepa Kamath,,M,1979-04-12,45+,"119, Layout, Nanjangud",Mysuru,middle,Mechanic,0
+P-0272,Naveen Achar,,F,1983-09-01,35-44,"107, Cross Road, Kalaburagi City",Kalaburagi,low,Unemployed,0
+P-0273,Ramesh Achar,,M,1976-05-07,45+,"179, Main Road, Chittapur",Kalaburagi,low,Street Vendor,0
+P-0274,Anand Kamath,,F,1982-07-03,35-44,"25, Layout, Peenya",Bengaluru North,low,Farm Labourer,0
+P-0275,Deepa Naik,,M,2002-01-25,18-24,"125, Extension, Chittapur",Kalaburagi,low,Delivery Rider,0
+P-0276,Rakesh Swamy,,M,1980-12-17,45+,"145, Main Road, Krishnaraja",Mysuru,low,Farm Labourer,0
+P-0277,Pooja Desai,,M,1990-10-12,35-44,"109, Layout, Kalaburagi City",Kalaburagi,middle,Street Vendor,0
+P-0278,Deepa Prasad,,M,1982-07-23,35-44,"85, Colony, Nanjangud",Mysuru,lower-middle,Private Security Guard,0
+P-0279,Lokesh Swamy,,M,1982-02-21,35-44,"112, Cross Road, RT Nagar",Bengaluru North,low,Construction Worker,0
+P-0280,Savitha Desai,,M,1984-02-20,35-44,"40, Cross Road, Peenya",Bengaluru North,middle,Street Vendor,0
+P-0281,Kiran Desai,,M,1998-11-04,25-34,"150, Cross Road, Nanjangud",Mysuru,low,Street Vendor,0
+P-0282,Kavitha Gowda,,M,2001-01-01,25-34,"157, Cross Road, Krishnaraja",Mysuru,low,Construction Worker,0
+P-0283,Nandini Kamath,,M,1984-05-08,35-44,"123, Extension, Chittapur",Kalaburagi,middle,Unemployed,0
+P-0284,Lakshmi Hegde,,F,1986-02-23,35-44,"75, Colony, Nanjangud",Mysuru,lower-middle,Daily Wage Labourer,0
+P-0285,Yusuf Reddy,,M,1998-08-21,25-34,"73, Layout, Yelahanka",Bengaluru North,lower-middle,Construction Worker,0
+P-0286,Kiran Shetty,,M,1982-08-09,35-44,"4, Extension, Krishnaraja",Mysuru,lower-middle,Daily Wage Labourer,0
+P-0287,Chetan Kumar,,M,1991-07-17,35-44,"77, Cross Road, Aland",Kalaburagi,low,Mechanic,0
+P-0288,Farhan Desai,,M,1983-12-22,35-44,"47, Cross Road, Chittapur",Kalaburagi,lower-middle,Construction Worker,0
+P-0289,Prakash Bhat,,M,1991-09-15,35-44,"37, Colony, Hebbal",Bengaluru North,low,Auto Driver,0
+P-0290,Naveen Kamath,,M,1997-04-25,25-34,"106, Cross Road, Peenya",Bengaluru North,low,Construction Worker,0
+P-0291,Farhan Swamy,,M,1992-11-14,25-34,"84, Cross Road, Aland",Kalaburagi,middle,Delivery Rider,0
+P-0292,Harish Naik,,M,1979-09-11,45+,"54, Layout, Peenya",Bengaluru North,low,Private Security Guard,0
+P-0293,Mahesh Achar,,M,1998-02-05,25-34,"16, Extension, Peenya",Bengaluru North,middle,Daily Wage Labourer,0
+P-0294,Nagaraj Shetty,,M,1977-08-04,45+,"26, Layout, Chittapur",Kalaburagi,middle,Unemployed,0
+P-0295,Vinay Jadhav,,F,1995-07-22,25-34,"128, Layout, Hunsur",Mysuru,low,Unemployed,0
+P-0296,Umesh Desai,,M,1996-02-08,25-34,"31, Colony, Chittapur",Kalaburagi,low,Delivery Rider,0
+P-0297,Shivakumar Hegde,,M,1987-06-20,35-44,"133, Colony, Krishnaraja",Mysuru,low,Construction Worker,0
+P-0298,Roopa Prasad,,M,1982-05-20,35-44,"130, Colony, Aland",Kalaburagi,low,Private Security Guard,0
+P-0299,Chetan Naik,,M,1996-11-01,25-34,"64, Main Road, Aland",Kalaburagi,lower-middle,Private Security Guard,0
+P-0300,Kavitha Swamy,,M,1979-12-03,45+,"127, Colony, Aland",Kalaburagi,lower-middle,Delivery Rider,0
+P-0301,Yusuf Jadhav,,M,1991-09-26,35-44,"21, Colony, Krishnaraja",Mysuru,low,Construction Worker,0
+P-0302,Roopa Kumar,,M,1978-01-23,45+,"63, Cross Road, Hebbal",Bengaluru North,middle,Street Vendor,0
+P-0303,Pooja Desai,,M,1981-09-16,45+,"69, Main Road, RT Nagar",Bengaluru North,lower-middle,Delivery Rider,0
+P-0304,Anand Hegde,,M,1994-08-05,25-34,"123, Extension, Aland",Kalaburagi,lower-middle,Farm Labourer,0
+P-0305,Basavaraj Rao,,F,2005-10-04,18-24,"175, Extension, Hunsur",Mysuru,low,Street Vendor,0
+P-0306,Kavitha Reddy,,M,2001-12-27,25-34,"168, Layout, RT Nagar",Bengaluru North,low,Construction Worker,0
+P-0307,Pooja Kulkarni,,M,1988-12-13,35-44,"102, Cross Road, Aland",Kalaburagi,low,Farm Labourer,0
+P-0308,Manjunath Patil,,F,1991-11-08,35-44,"86, Extension, Chittapur",Kalaburagi,lower-middle,Unemployed,0
+P-0309,Kavitha Patil,,M,1988-01-01,35-44,"39, Cross Road, Kalaburagi City",Kalaburagi,middle,Unemployed,0
+P-0310,Farhan Achar,,M,1999-02-13,25-34,"121, Colony, Hunsur",Mysuru,lower-middle,Street Vendor,0
+P-0311,Lokesh Murthy,,F,2000-10-19,25-34,"86, Cross Road, Peenya",Bengaluru North,low,Private Security Guard,0
+P-0312,Prakash Rao,,M,1988-08-26,35-44,"141, Layout, Chittapur",Kalaburagi,middle,Shop Assistant,0
+P-0313,Nandini Patil,,M,1987-09-18,35-44,"51, Colony, Hunsur",Mysuru,lower-middle,Mechanic,0
+P-0314,Kavitha Hegde,,M,1978-07-09,45+,"77, Layout, Nanjangud",Mysuru,low,Construction Worker,0
+P-0315,Farhan Desai,,M,1980-08-03,45+,"37, Layout, Krishnaraja",Mysuru,middle,Unemployed,0
+P-0316,Vinay Prasad,,F,1978-08-06,45+,"111, Main Road, Nanjangud",Mysuru,lower-middle,Daily Wage Labourer,0
+P-0317,Bhavya Kulkarni,,M,2005-07-28,18-24,"35, Colony, Chittapur",Kalaburagi,low,Delivery Rider,0
+P-0318,Lokesh Swamy,,F,1982-07-13,35-44,"42, Main Road, RT Nagar",Bengaluru North,lower-middle,Street Vendor,0
+P-0319,Savitha Patil,,M,1995-03-28,25-34,"165, Main Road, Krishnaraja",Mysuru,middle,Street Vendor,0
+P-0320,Shwetha Reddy,,M,1978-07-09,45+,"134, Main Road, Kalaburagi City",Kalaburagi,middle,Delivery Rider,0
+P-0321,Prakash Kulkarni,,M,1987-09-14,35-44,"84, Main Road, Hebbal",Bengaluru North,low,Street Vendor,0
+P-0322,Yusuf Jadhav,,F,2001-07-14,25-34,"100, Layout, Hunsur",Mysuru,low,Farm Labourer,0
+P-0323,Nandini Hegde,,M,1982-05-05,35-44,"153, Extension, Nanjangud",Mysuru,middle,Private Security Guard,0
+P-0324,Ramesh Kumar,,M,1990-09-17,35-44,"93, Cross Road, Hunsur",Mysuru,middle,Private Security Guard,0
+P-0325,Imran Kulkarni,,M,1996-05-17,25-34,"103, Extension, Yelahanka",Bengaluru North,middle,Mechanic,0
+P-0326,Pooja Gowda,,F,2002-04-28,18-24,"142, Cross Road, RT Nagar",Bengaluru North,lower-middle,Auto Driver,0
+P-0327,Basavaraj Jadhav,,M,1997-08-09,25-34,"11, Main Road, Aland",Kalaburagi,low,Construction Worker,0
+P-0328,Farhan Naik,,F,1998-10-05,25-34,"70, Main Road, Yelahanka",Bengaluru North,lower-middle,Delivery Rider,0
+P-0329,Anand Prasad,,M,1982-08-19,35-44,"2, Layout, RT Nagar",Bengaluru North,low,Private Security Guard,0
+P-0330,Pooja Swamy,,M,1978-05-25,45+,"118, Cross Road, Chittapur",Kalaburagi,low,Unemployed,0

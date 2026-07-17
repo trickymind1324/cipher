@@ -1,0 +1,27 @@
+Crime Number: 104300011202600001
+Case Number: 202600001
+Case Category: FIR
+Police Station: Kalaburagi City Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2026-05-09 08:33:00
+Date of Registration: 2026-05-11
+Investigating Officer: PSI Suresh Gowda
+Status: Closed
+
+Brief Facts:
+On 2026-05-09, Kiran Rao, a resident of 8, Main Road, Kalaburagi City, reported that entry was gained through an unsecured rear window and the almirah was ransacked. The incident occurred within the limits of Kalaburagi City Police Station in Kalaburagi district.
+
+Complainant:
+Kiran Rao (P-0202), aged 45, Mechanic.
+
+Victim:
+Kiran Rao (P-0202), aged 45.
+
+Accused:
+The following persons are named as accused in this case: Basavaraj Gowda (P-0056), Santhosh Pujari (P-0034).
+
+A chargesheet has been filed in this case.
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

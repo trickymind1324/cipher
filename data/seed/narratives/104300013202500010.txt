@@ -1,0 +1,27 @@
+Crime Number: 104300013202500010
+Case Number: 202500010
+Case Category: FIR
+Police Station: Chittapur Police Station, Kalaburagi district, Karnataka
+Crime Head: Crimes Against Property — House Burglary
+Sections: IPC 454; IPC 457; IPC 380
+Gravity: Non-Heinous
+Date of Occurrence: 2025-02-21 07:43:00
+Date of Registration: 2025-02-21
+Investigating Officer: PSI Lakshmi Naik
+Status: Closed
+
+Brief Facts:
+On 2025-02-21, Nandini Murthy, a resident of 110, Extension, Aland, reported that the lock of the main door was broken open while the house was locked and the family was away. The incident occurred within the limits of Chittapur Police Station in Kalaburagi district.
+
+Complainant:
+Nandini Murthy (P-0228), aged 25, Construction Worker.
+
+Victim:
+Nandini Murthy (P-0228), aged 25.
+
+Accused:
+The following persons are named as accused in this case: Kiran Desai (P-0024), Ramesh Desai (P-0060).
+
+The case was closed as a false case (final report B).
+
+[SYNTHETIC RECORD — generated for the CIPHER prototype. Not a real FIR.]

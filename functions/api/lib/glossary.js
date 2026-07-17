@@ -25,6 +25,7 @@ const CRIME_TYPES = {
 	'ಮನೆಗಳ್ಳತನ': 'House Burglary',
 	'ಕನ್ನ ಕಳವು': 'House Burglary',
 	'burglary': 'House Burglary',
+	'burglaries': 'House Burglary',
 	'house burglary': 'House Burglary',
 	'housebreaking': 'House Burglary',
 	'break-in': 'House Burglary',
@@ -51,6 +52,7 @@ const CRIME_TYPES = {
 	// Robbery
 	'ದರೋಡೆ': 'Robbery',
 	'robbery': 'Robbery',
+	'robberies': 'Robbery',
 	'dacoity': 'Robbery',
 
 	// Assault / Hurt
@@ -61,11 +63,11 @@ const CRIME_TYPES = {
 	'attack': 'Assault / Hurt',
 
 	// Narcotics
-	'ಮಾದಕ ವಸ್ತು': 'Narcotics (NDPS)',
-	'ಡ್ರಗ್ಸ್': 'Narcotics (NDPS)',
-	'narcotics': 'Narcotics (NDPS)',
-	'drugs': 'Narcotics (NDPS)',
-	'ndps': 'Narcotics (NDPS)',
+	'ಮಾದಕ ವಸ್ತು': 'Narcotics Possession',
+	'ಡ್ರಗ್ಸ್': 'Narcotics Possession',
+	'narcotics': 'Narcotics Possession',
+	'drugs': 'Narcotics Possession',
+	'ndps': 'Narcotics Possession',
 };
 
 // Kannada is agglutinative: case endings attach to the noun and mutate its final vowel
@@ -86,7 +88,8 @@ const DISTRICTS = {
 	gulbarga: 'Kalaburagi',
 };
 
-const TALUKS = {
+// Station jurisdiction areas (the ER schema has no taluk level; areas map to Units).
+const AREAS = {
 	'ಯಲಹಂಕ': 'Yelahanka',
 	yelahanka: 'Yelahanka',
 	'ಹೆಬ್ಬಾಳ': 'Hebbal',
@@ -116,9 +119,9 @@ const matchLongest = (text, table) => {
 
 const crimeType = (text) => matchLongest(text, CRIME_TYPES);
 const district = (text) => matchLongest(text, DISTRICTS);
-const taluk = (text) => matchLongest(text, TALUKS);
+const area = (text) => matchLongest(text, AREAS);
 
 /** Kannada script present → treat the turn as Kannada. */
 const isKannada = (text) => /[ಀ-೿]/.test(String(text || ''));
 
-module.exports = { crimeType, district, taluk, isKannada, CRIME_TYPES, DISTRICTS, TALUKS };
+module.exports = { crimeType, district, area, isKannada, CRIME_TYPES, DISTRICTS, AREAS };
