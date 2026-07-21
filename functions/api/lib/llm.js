@@ -88,7 +88,11 @@ async function accessToken() {
  * Single-turn completion. Low temperature by default — this phrases answers from records
  * we supply, so we want the least creative behaviour available.
  */
-async function chat({ prompt, system, temperature = 0.1, max_tokens = 400, timeoutMs = 40_000 }) {
+// Catalyst's applogic cap kills requests around 30 s regardless of the configured
+// function timeout (observed live: 25.4 s served, ~50 s → 408 EXECUTION_TIME_EXCEEDED).
+// The model budget stays safely inside it; on timeout the pipeline ships the
+// deterministic answer instead.
+async function chat({ prompt, system, temperature = 0.1, max_tokens = 400, timeoutMs = 20_000 }) {
 	if (!isConfigured()) throw new Error('llm_not_configured');
 
 	const c = cfg();

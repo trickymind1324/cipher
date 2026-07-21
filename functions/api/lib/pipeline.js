@@ -325,6 +325,27 @@ const offTask = (text) =>
 	/\b(can'?t|cannot) (help|assist)\b|protected instructions|as an ai\b/i.test(text) &&
 	!(text.match(ID_RE) || []).length;
 
+/**
+ * GLM sometimes brackets non-ids despite instructions ("[Yelahanka: 14 (48%)]").
+ * Bracket groups that contain no citable id are unbracketed — the prose survives,
+ * the pseudo-citation does not. Groups with ids are left exactly as written.
+ */
+const HAS_ID = /\b(?:\d{18}|P-\d{3,4})\b/i; // unflagged twin of ID_RE — /g .test() is stateful
+const stripJunkBrackets = (text) =>
+	text.replace(/\[([^\][]*)\]/g, (m, inner) => (HAS_ID.test(m) ? m : inner)).replace(/[ \t]{2,}/g, ' ');
+
+/**
+ * A hard max_tokens cut can end the answer mid-sentence — or worse, mid-CrimeNo.
+ * Trim to the last complete sentence when the tail is clearly a fragment; if that
+ * would delete most of the answer, keep it (the guardrail still applies either way).
+ */
+const trimIncomplete = (text) => {
+	const t = text.trimEnd();
+	if (/[.!?।]$/.test(t)) return t;
+	const cut = Math.max(t.lastIndexOf('. '), t.lastIndexOf('.\n'), t.lastIndexOf('! '), t.lastIndexOf('? '), t.lastIndexOf('.'));
+	return cut >= t.length * 0.5 ? t.slice(0, cut + 1) : t;
+};
+
 async function answer(question, context = {}) {
 	const started = Date.now();
 	const parsed = nlu.parse(question, context);
@@ -385,18 +406,20 @@ async function answer(question, context = {}) {
 			}
 			const budget = parsed.language === 'kn' ? 'two sentences' : 'four sentences';
 			const prompt = `RECORDS:\n${contextBlock(promptR)}\n\nQUESTION: ${question}\n\nAnswer using only the RECORDS above. At most ${budget} — summarise; do not restate every record. When RECORDS states a total, report that total, not the number of rows shown. Put record ids in brackets after the facts they support; never put anything else in brackets.`;
-			const out = await llm.chat({ prompt, system: SYSTEM(parsed.language), timeoutMs: 50_000 });
+			// Kannada emits ~6 tokens/s on this serving, so its cap is tighter to finish in budget.
+			const out = await llm.chat({ prompt, system: SYSTEM(parsed.language), max_tokens: parsed.language === 'kn' ? 220 : 350 });
 
 			// (3) Verify before trusting.
-			const bad = unsupportedIds(out.text, r.evidence);
+			const cleaned = trimIncomplete(stripJunkBrackets(out.text));
+			const bad = unsupportedIds(cleaned, r.evidence);
 			if (bad.length) {
 				guardrail = { blocked: true, reason: 'unsupported_ids', ids: bad };
 				source = 'template_after_guardrail';
-			} else if (offTask(out.text)) {
+			} else if (offTask(cleaned)) {
 				guardrail = { blocked: true, reason: 'off_task_refusal' };
 				source = 'template_after_guardrail';
 			} else {
-				text = out.text;
+				text = cleaned;
 				source = 'llm';
 			}
 		} catch (err) {
