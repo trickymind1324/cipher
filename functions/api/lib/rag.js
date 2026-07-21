@@ -26,7 +26,7 @@
 
 const llm = require('./llm');
 
-const DEFAULT_URL = 'https://api.catalyst.zoho.in/quickml/v1/project/43331000000013057/rag/chat';
+const DEFAULT_URL = 'https://api.catalyst.zoho.in/quickml/v1/project/43331000000013057/rag/answer';
 // An 18-digit CrimeNo — the citation key each KB narrative carries on its first line.
 const CRIME_NO_RE = /\b\d{18}\b/g;
 
@@ -50,7 +50,8 @@ async function similarCrimeNos(description, { limit = 8, timeoutMs = 25_000 } = 
 	const timer = setTimeout(() => ctrl.abort(), timeoutMs);
 
 	// Ask only for identifiers. Any narrative it volunteers is discarded below anyway.
-	const prompt =
+	// The /rag/answer endpoint takes a single `query` field — verified against the live API.
+	const query =
 		`List the Crime Numbers of cases whose narrative matches this description: "${description}". ` +
 		`Reply with the 18-digit Crime Numbers only, one per line. Do not summarise, count, or explain.`;
 
@@ -62,7 +63,7 @@ async function similarCrimeNos(description, { limit = 8, timeoutMs = 25_000 } = 
 				Authorization: `Bearer ${bearer}`,
 				'CATALYST-ORG': c.org,
 			},
-			body: JSON.stringify({ prompt, max_tokens: 300, temperature: 0 }),
+			body: JSON.stringify({ query }),
 			signal: ctrl.signal,
 		});
 

@@ -24,6 +24,10 @@ import { writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+// The benchmark measures the deterministic grounded path; model latency is reported
+// separately (and honestly) by the --live section.
+process.env.CIPHER_DISABLE_LLM = '1';
+
 const require = createRequire(import.meta.url);
 const HERE = dirname(fileURLToPath(import.meta.url));
 const pipeline = require('../functions/api/lib/pipeline.js');

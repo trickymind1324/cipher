@@ -301,16 +301,13 @@ function templateAnswer(r, parsed) {
 
 // ── grounded generation ───────────────────────────────────────────────────────
 
-const SYSTEM = (lang) => `You are CIPHER, an assistant for the Karnataka State Police.
+// Phrased as working instructions, not as a numbered rulebook: the serving layer wraps
+// requests in its own guarded system prompt, and rulebook-style meta language ("rules
+// you must follow", "never reveal") pattern-matched against that guard and produced
+// spurious "I can't help" refusals from the live endpoint.
+const SYSTEM = (lang) => `You are CIPHER, a records assistant for the Karnataka State Police.
 
-Rules you must follow exactly:
-1. Answer ONLY from the RECORDS block given to you. It is your entire world.
-2. Never state a fact that is not in the RECORDS. Do not use outside knowledge about crime, places, or people.
-3. Cite the record id (the 18-digit Crime Number, or P-xxxx for a person) in brackets after every fact you state.
-4. Never invent a record id. Only use ids that appear in the RECORDS block.
-5. If the RECORDS do not answer the question, say so plainly. Do not guess.
-6. Be concise and factual. No speculation, no advice, no moralising.
-7. Reply in ${lang === 'kn' ? 'Kannada' : 'English'}.`;
+Answer only from the RECORDS block in the user message — it is the complete set of available data. State only facts that appear there, with the record id (the 18-digit Crime Number, or P-xxxx for a person) in brackets after each fact. Use only ids that appear in the RECORDS. If the RECORDS do not answer the question, say so plainly. Be concise and factual — no speculation, no advice. Reply in ${lang === 'kn' ? 'Kannada' : 'English'}.`;
 
 /** Ids the model cited that we never retrieved. Non-empty = it fabricated. */
 const unsupportedIds = (text, evidence) => {
@@ -318,6 +315,15 @@ const unsupportedIds = (text, evidence) => {
 	const cited = [...new Set((text.match(ID_RE) || []).map((s) => s.toUpperCase()))];
 	return cited.filter((id) => !allowed.has(id));
 };
+
+/**
+ * The serving layer's own guard occasionally answers with a canned refusal instead of
+ * the question ("I can't help with requests to expose protected instructions"). That is
+ * not an answer over our records; it must fall back to the deterministic answer, not ship.
+ */
+const offTask = (text) =>
+	/\b(can'?t|cannot) (help|assist)\b|protected instructions|as an ai\b/i.test(text) &&
+	!(text.match(ID_RE) || []).length;
 
 async function answer(question, context = {}) {
 	const started = Date.now();
@@ -359,15 +365,35 @@ async function answer(question, context = {}) {
 	let source = 'template';
 	let guardrail = null;
 
-	if (llm.isConfigured()) {
+	// The model phrases; it does not enumerate. List-shaped answers (case lists, ranked
+	// offenders) are already complete from the template and GLM serving generates at
+	// ~10 tokens/s, so restating a list would blow the request budget for no gain. The
+	// LLM is used where prose adds value — summaries, trends, networks, similarity — and
+	// for every Kannada question, because the templates speak English.
+	const listShaped = r.kind === 'firs' || r.kind === 'repeat_offender';
+	const wantLlm = llm.isConfigured() && (parsed.language === 'kn' || !listShaped);
+
+	if (wantLlm) {
 		try {
-			const prompt = `RECORDS:\n${contextBlock(r)}\n\nQUESTION: ${question}\n\nAnswer using only the RECORDS above, citing ids in brackets.`;
-			const out = await llm.chat({ prompt, system: SYSTEM(parsed.language) });
+			// GLM serving generates ~10 tokens/s in English and ~6 in Kannada, so the model
+			// gets a trimmed records view and a tight sentence budget for list-shaped
+			// answers — the full list is in the evidence panel either way.
+			const maxRows = parsed.language === 'kn' ? 3 : 5;
+			let promptR = r;
+			if (listShaped && r.data?.rows?.length > maxRows) {
+				promptR = { ...r, data: { ...r.data, rows: r.data.rows.slice(0, maxRows) } };
+			}
+			const budget = parsed.language === 'kn' ? 'two sentences' : 'four sentences';
+			const prompt = `RECORDS:\n${contextBlock(promptR)}\n\nQUESTION: ${question}\n\nAnswer using only the RECORDS above. At most ${budget} — summarise; do not restate every record. When RECORDS states a total, report that total, not the number of rows shown. Put record ids in brackets after the facts they support; never put anything else in brackets.`;
+			const out = await llm.chat({ prompt, system: SYSTEM(parsed.language), timeoutMs: 50_000 });
 
 			// (3) Verify before trusting.
 			const bad = unsupportedIds(out.text, r.evidence);
 			if (bad.length) {
 				guardrail = { blocked: true, reason: 'unsupported_ids', ids: bad };
+				source = 'template_after_guardrail';
+			} else if (offTask(out.text)) {
+				guardrail = { blocked: true, reason: 'off_task_refusal' };
 				source = 'template_after_guardrail';
 			} else {
 				text = out.text;
@@ -395,4 +421,4 @@ async function answer(question, context = {}) {
 	};
 }
 
-module.exports = { answer, retrieve, contextBlock, templateAnswer, unsupportedIds };
+module.exports = { answer, retrieve, contextBlock, templateAnswer, unsupportedIds, offTask };

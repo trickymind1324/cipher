@@ -9,6 +9,9 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { createRequire } from 'node:module';
 
+// Deterministic path only — never let test results depend on a live model.
+process.env.CIPHER_DISABLE_LLM = '1';
+
 const require = createRequire(import.meta.url);
 const pipeline = require('../lib/pipeline.js');
 const nlu = require('../lib/nlu.js');

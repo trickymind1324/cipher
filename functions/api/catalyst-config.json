@@ -4,7 +4,7 @@
 		"stack": "node24",
 		"type": "advancedio",
 		"memory": 512,
-		"timeout": 30
+		"timeout": 60
 	},
 	"execution": {
 		"main": "index.js"
