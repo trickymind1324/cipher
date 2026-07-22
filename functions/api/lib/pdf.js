@@ -16,6 +16,7 @@
  */
 
 const path = require('node:path');
+const { PassThrough } = require('node:stream');
 const PDFDocument = require('pdfkit');
 
 const FONT_KN = path.join(__dirname, '..', 'assets', 'NotoSansKannada-Regular.ttf');
@@ -135,6 +136,26 @@ function render(payload, out) {
 	doc.end();
 }
 
+/**
+ * Render to a Buffer. Catalyst's gateway transcodes function responses as text and
+ * corrupts raw binary bodies (observed live: dropped bytes, mangled %PDF header), so
+ * the endpoint ships the PDF as base64 inside JSON and the client rebuilds the file.
+ */
+function renderBuffer(payload) {
+	return new Promise((resolve, reject) => {
+		const sink = new PassThrough();
+		const chunks = [];
+		sink.on('data', (c) => chunks.push(c));
+		sink.on('end', () => resolve(Buffer.concat(chunks)));
+		sink.on('error', reject);
+		try {
+			render(payload, sink);
+		} catch (err) {
+			reject(err);
+		}
+	});
+}
+
 function rule(doc) {
 	doc.moveDown(0.5);
 	doc.save().strokeColor('#d6dee5').lineWidth(0.6)
@@ -143,4 +164,4 @@ function rule(doc) {
 		.stroke().restore();
 }
 
-module.exports = { render };
+module.exports = { render, renderBuffer };

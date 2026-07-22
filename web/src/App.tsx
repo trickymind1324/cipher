@@ -71,7 +71,7 @@ export default function App() {
   async function exportPdf() {
     const answered = turns.filter((t) => t.result);
     if (!answered.length) return;
-    const blob = await api.exportPdf(
+    const { blob, filename } = await api.exportPdf(
       answered.map((t) => ({
         question: t.question,
         answer: t.result!.answer,
@@ -85,7 +85,7 @@ export default function App() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `cipher-conversation-${new Date().toISOString().slice(0, 10)}.pdf`;
+    a.download = filename;
     a.click();
     URL.revokeObjectURL(url);
   }

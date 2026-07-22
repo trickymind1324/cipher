@@ -140,10 +140,11 @@ app.get('/trends', (req, res) => {
 
 /**
  * Conversation-history PDF (F6). Body: { turns: [{question, answer, citations,
- * abstained, language, provenance}], role?, user? }. Streams the PDF straight back
- * as a download — nothing is retained server-side.
+ * abstained, language, provenance}], role?, user? }. Responds with
+ * { filename, pdf_base64 } — Catalyst's gateway corrupts raw binary bodies, so the
+ * client decodes and saves the file locally. Nothing is retained server-side.
  */
-app.post('/export-pdf', (req, res) => {
+app.post('/export-pdf', async (req, res) => {
 	const { turns, role, user } = req.body || {};
 	if (!Array.isArray(turns) || turns.length === 0) {
 		return res.status(400).json({ error: 'turns_required' });
@@ -170,13 +171,11 @@ app.post('/export-pdf', (req, res) => {
 	});
 
 	const stamp = new Date().toISOString().slice(0, 10);
-	res.setHeader('Content-Type', 'application/pdf');
-	res.setHeader('Content-Disposition', `attachment; filename="cipher-conversation-${stamp}.pdf"`);
 	try {
-		pdf.render({ turns, role, user }, res);
+		const buf = await pdf.renderBuffer({ turns, role, user });
+		res.json({ filename: `cipher-conversation-${stamp}.pdf`, pdf_base64: buf.toString('base64') });
 	} catch (err) {
-		if (!res.headersSent) res.status(500).json({ error: 'pdf_failed', detail: String(err.message).slice(0, 200) });
-		else res.end();
+		res.status(500).json({ error: 'pdf_failed', detail: String(err.message).slice(0, 200) });
 	}
 });
 

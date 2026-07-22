@@ -132,13 +132,21 @@ export type ExportTurn = {
   provenance: Provenance;
 };
 
-/** F6 — download the conversation as a PDF. The server streams it straight back. */
-export async function exportPdf(turns: ExportTurn[], role: string): Promise<Blob> {
+/**
+ * F6 — download the conversation as a PDF. The server responds with base64 JSON
+ * (Catalyst's gateway corrupts raw binary bodies), decoded here into the file.
+ */
+export async function exportPdf(
+  turns: ExportTurn[],
+  role: string,
+): Promise<{ blob: Blob; filename: string }> {
   const res = await fetch(`${BASE}/export-pdf`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ turns, role }),
   });
   if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
-  return res.blob();
+  const { filename, pdf_base64 } = await res.json();
+  const bytes = Uint8Array.from(atob(pdf_base64), (c) => c.charCodeAt(0));
+  return { blob: new Blob([bytes], { type: 'application/pdf' }), filename };
 }
