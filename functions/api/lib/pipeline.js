@@ -326,13 +326,17 @@ const offTask = (text) =>
 	!(text.match(ID_RE) || []).length;
 
 /**
- * GLM sometimes brackets non-ids despite instructions ("[Yelahanka: 14 (48%)]").
- * Bracket groups that contain no citable id are unbracketed — the prose survives,
- * the pseudo-citation does not. Groups with ids are left exactly as written.
+ * GLM sometimes brackets non-ids despite instructions ("[RECORDS]", "[Yelahanka:
+ * 14 (48%)]"). These sit in citation position after a fact the prose already states,
+ * so a group with no citable id is removed whole — unbracketing it just strands junk
+ * words in the sentence. Groups with ids are left exactly as written.
  */
 const HAS_ID = /\b(?:\d{18}|P-\d{3,4})\b/i; // unflagged twin of ID_RE — /g .test() is stateful
 const stripJunkBrackets = (text) =>
-	text.replace(/\[([^\][]*)\]/g, (m, inner) => (HAS_ID.test(m) ? m : inner)).replace(/[ \t]{2,}/g, ' ');
+	text
+		.replace(/\s*\[([^\][]*)\]/g, (m) => (HAS_ID.test(m) ? m : ''))
+		.replace(/[ \t]{2,}/g, ' ')
+		.replace(/\s+([.,;:!?])/g, '$1');
 
 /**
  * A hard max_tokens cut can end the answer mid-sentence — or worse, mid-CrimeNo.
@@ -444,4 +448,4 @@ async function answer(question, context = {}) {
 	};
 }
 
-module.exports = { answer, retrieve, contextBlock, templateAnswer, unsupportedIds, offTask };
+module.exports = { answer, retrieve, contextBlock, templateAnswer, unsupportedIds, offTask, stripJunkBrackets };

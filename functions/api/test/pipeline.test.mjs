@@ -74,6 +74,25 @@ test('network query surfaces co-accused and shared identifiers', async () => {
 	assert.ok(r.data.shared_links.length > 0, 'expected a shared phone/vehicle link');
 });
 
+test('pseudo-citations are removed whole; real citations survive', () => {
+	assert.equal(
+		pipeline.stripJunkBrackets('Yelahanka leads with 12 cases (80%) [RECORDS].'),
+		'Yelahanka leads with 12 cases (80%).',
+	);
+	assert.equal(
+		pipeline.stripJunkBrackets('The trend is rising [Case count by month]. Yelahanka leads [Yelahanka: 14 (48%)].'),
+		'The trend is rising. Yelahanka leads.',
+	);
+	assert.equal(
+		pipeline.stripJunkBrackets('Named in two cases [104430002202600008, 104430002202600004].'),
+		'Named in two cases [104430002202600008, 104430002202600004].',
+	);
+	assert.equal(
+		pipeline.stripJunkBrackets('Co-accused with Ramesh Hegde [P-0025].'),
+		'Co-accused with Ramesh Hegde [P-0025].',
+	);
+});
+
 test('guardrail rejects a fabricated record id', () => {
 	const real = store.findFirs({ limit: 1 }).rows[0].crime_no;
 	const fake = '899999999920269999'; // 18 digits, matches no record
