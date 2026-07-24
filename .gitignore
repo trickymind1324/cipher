@@ -24,3 +24,10 @@ client/*
 .build/
 catalyst-debug.log
 functions/api/.secrets.json
+
+# Submission working assets — kept local, not part of the public repo
+submission/
+template/
+docs/diagrams/
+docs/screenshots/
+submission-guideline.txt
